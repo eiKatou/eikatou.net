@@ -1,0 +1,12 @@
+;Format:"$HHMM:COMMAND"
+
+-start-
+
+$1800:OFF
+$1820:OFF
+$2150:OFF
+$0430:ON
+$0520:OFF
+
+-end-
+

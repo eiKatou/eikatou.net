@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "eiKatouの日記"
+
+Paginate = 3
+googleAnalytics = "UA-29096623-1"
+
+[params]
+logo="/uploads/2011/10/16.png"
+
+[taxonomies]
+  archive = "archives"
+  tag = "tags"
+
+[[menu.main]]
+    name = "ABOUT"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "http://gohugo.io/"
+[[menu.main]]
+    name = "ARCHIVES"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/archives/"
+[[menu.main]]
+    name = "TAGS"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/tags/"
