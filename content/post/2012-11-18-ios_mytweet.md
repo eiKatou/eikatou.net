@@ -29,11 +29,11 @@ MyTweet+は、ツイートを管理するアプリ。お気に入りにしたツ
 
 ## スクリーンショット
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet1-154x300.png" alt="" title="mytweet1" width="154" height="300" class="alignnone size-medium wp-image-2063" srcset="/uploads/2012/11/mytweet1-154x300.png 154w, /uploads/2012/11/mytweet1.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][1]
+[<img src="/uploads/2012/11/mytweet1-154x300.png" alt="" title="mytweet1" width="154" height="300" class="alignnone size-medium wp-image-2063" srcset="/uploads/2012/11/mytweet1-154x300.png 154w, /uploads/2012/11/mytweet1.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][1]
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet2-154x300.png" alt="" title="mytweet2" width="154" height="300" class="alignnone size-medium wp-image-2064" srcset="/uploads/2012/11/mytweet2-154x300.png 154w, /uploads/2012/11/mytweet2.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][2]
+[<img src="/uploads/2012/11/mytweet2-154x300.png" alt="" title="mytweet2" width="154" height="300" class="alignnone size-medium wp-image-2064" srcset="/uploads/2012/11/mytweet2-154x300.png 154w, /uploads/2012/11/mytweet2.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][2]
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet3-154x300.png" alt="" title="mytweet3" width="154" height="300" class="alignnone size-medium wp-image-2065" srcset="/uploads/2012/11/mytweet3-154x300.png 154w, /uploads/2012/11/mytweet3.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][3] 
+[<img src="/uploads/2012/11/mytweet3-154x300.png" alt="" title="mytweet3" width="154" height="300" class="alignnone size-medium wp-image-2065" srcset="/uploads/2012/11/mytweet3-154x300.png 154w, /uploads/2012/11/mytweet3.png 368w" sizes="(max-width: 154px) 100vw, 154px" />][3] 
 
 ## 競合アプリ
 
@@ -47,6 +47,6 @@ MyTweet+は、ツイートを管理するアプリ。お気に入りにしたツ
 
 これをリリースすれば、「iPhoneアプリ開発者」の称号が手に入る！審査が通りますように・・
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet1.png
- [2]: http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet2.png
- [3]: http://eikatou.net/blog/wp-content/uploads/2012/11/mytweet3.png
+ [1]: /uploads/2012/11/mytweet1.png
+ [2]: /uploads/2012/11/mytweet2.png
+ [3]: /uploads/2012/11/mytweet3.png

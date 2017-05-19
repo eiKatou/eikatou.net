@@ -13,7 +13,7 @@ tags:
 ---
 ArduinoでLEDを光らせてみた。プログラミングでいうところの「Hello World!」だ。
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led0.jpg" alt="" title="Arduino_led0" width="338" height="451" class="alignnone size-full wp-image-1702" srcset="/uploads/2012/07/Arduino_led0.jpg 338w, /uploads/2012/07/Arduino_led0-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][1]
+[<img src="/uploads/2012/07/Arduino_led0.jpg" alt="" title="Arduino_led0" width="338" height="451" class="alignnone size-full wp-image-1702" srcset="/uploads/2012/07/Arduino_led0.jpg 338w, /uploads/2012/07/Arduino_led0-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][1]
   
 LEDを光らせるために、いろいろとお買い物もした。送料込みで2,050円也。
 
@@ -64,7 +64,7 @@ delay(2000); // wait for a second
 
 [/c]
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led1.jpg" alt="" title="Arduino_led1" width="338" height="451" class="alignnone size-full wp-image-1703" srcset="/uploads/2012/07/Arduino_led1.jpg 338w, /uploads/2012/07/Arduino_led1-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][2]
+[<img src="/uploads/2012/07/Arduino_led1.jpg" alt="" title="Arduino_led1" width="338" height="451" class="alignnone size-full wp-image-1703" srcset="/uploads/2012/07/Arduino_led1.jpg 338w, /uploads/2012/07/Arduino_led1-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][2]
   
 手前の小さなLED（緑）が光っている。左のLEDが9番ピンでの制御になっていて、点滅している。 
 
@@ -72,7 +72,7 @@ delay(2000); // wait for a second
 
 次は、Arduinoから電力供給して、LEDを光らせる。プログラミングは不要だが、配線を行う必要がある。久しぶり（9年ぶり）の配線で、かなり緊張した。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led2.jpg" alt="" title="Arduino_led2" width="452" height="339" class="alignnone size-full wp-image-1701" srcset="/uploads/2012/07/Arduino_led2.jpg 452w, /uploads/2012/07/Arduino_led2-300x225.jpg 300w, /uploads/2012/07/Arduino_led2-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][3]
+[<img src="/uploads/2012/07/Arduino_led2.jpg" alt="" title="Arduino_led2" width="452" height="339" class="alignnone size-full wp-image-1701" srcset="/uploads/2012/07/Arduino_led2.jpg 452w, /uploads/2012/07/Arduino_led2-300x225.jpg 300w, /uploads/2012/07/Arduino_led2-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][3]
   
 どうだっ！ [5V電源] &#8211; [抵抗（150ohm）] &#8211; [LED] &#8211; [GND]と繋いでいる。 
 
@@ -126,11 +126,11 @@ delay(1000);
   
 明るさを制御するには、analogWrite関数を使用する。第1引数がピン番号で、第2引数が出力(min 0 〜 max 255)だ。このプログラムを動かすと、6番ピンのLEDが明るくなっていき、9番ピンのLEDが暗くなっていく。その後、1秒停止して、6番ピンは暗く、9番ピンは明るくなる。
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led3.jpg" alt="" title="Arduino_led3" width="452" height="339" class="alignnone size-full wp-image-1704" srcset="/uploads/2012/07/Arduino_led3.jpg 452w, /uploads/2012/07/Arduino_led3-300x225.jpg 300w, /uploads/2012/07/Arduino_led3-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][4]
+[<img src="/uploads/2012/07/Arduino_led3.jpg" alt="" title="Arduino_led3" width="452" height="339" class="alignnone size-full wp-image-1704" srcset="/uploads/2012/07/Arduino_led3.jpg 452w, /uploads/2012/07/Arduino_led3-300x225.jpg 300w, /uploads/2012/07/Arduino_led3-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][4]
   
 両方のLEDの明るさが徐々に変化していくのが確認できた。
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led0.jpg
- [2]: http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led1.jpg
- [3]: http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led2.jpg
- [4]: http://eikatou.net/blog/wp-content/uploads/2012/07/Arduino_led3.jpg
+ [1]: /uploads/2012/07/Arduino_led0.jpg
+ [2]: /uploads/2012/07/Arduino_led1.jpg
+ [3]: /uploads/2012/07/Arduino_led2.jpg
+ [4]: /uploads/2012/07/Arduino_led3.jpg

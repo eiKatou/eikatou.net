@@ -23,7 +23,7 @@ UIWebViewで表示しているコンテンツの高さを取得する。Webで�
 
 1つ目のやり方の問題点は、コンポネント（UIWebView）の高さを取得してしまう事がある点だ。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/12/20121201b.jpg" alt="" title="20121201b" width="170" height="250" class="alignnone size-full wp-image-2152" />][1]
+[<img src="/uploads/2012/12/20121201b.jpg" alt="" title="20121201b" width="170" height="250" class="alignnone size-full wp-image-2152" />][1]
   
 上の画像のように、UIWebViewの表示領域を大きくした場合で、表示内容が少ない場合、スクロースなく表示することが出来る。そうなると、「document.documentElement.clientHeight;」は、コンポネントの高さの取得となる。スクロールが発生するような場合は、コンテンツの高さが取得できる。常にコンテンツの高さが取得できるわけではないのだ。
 
@@ -67,7 +67,7 @@ NSLog(@"contentHeight is %d", contentHeight);
 
 実行すると、こんな感じになる。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/12/20121201a.jpg" alt="" title="20121201a" width="160" height="240" class="alignnone size-full wp-image-2151" />][2]
+[<img src="/uploads/2012/12/20121201a.jpg" alt="" title="20121201a" width="160" height="240" class="alignnone size-full wp-image-2151" />][2]
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/12/20121201b.jpg
- [2]: http://eikatou.net/blog/wp-content/uploads/2012/12/20121201a.jpg
+ [1]: /uploads/2012/12/20121201b.jpg
+ [2]: /uploads/2012/12/20121201a.jpg

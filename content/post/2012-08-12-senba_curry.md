@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/08/201208_senbacurry.jpg" alt="" title="201208_senbacurry" width="602" height="525" class="alignnone size-full wp-image-1962" srcset="/uploads/2012/08/201208_senbacurry.jpg 602w, /uploads/2012/08/201208_senbacurry-300x261.jpg 300w, /uploads/2012/08/201208_senbacurry-344x300.jpg 344w" sizes="(max-width: 602px) 100vw, 602px" />][1]
+[<img src="/uploads/2012/08/201208_senbacurry.jpg" alt="" title="201208_senbacurry" width="602" height="525" class="alignnone size-full wp-image-1962" srcset="/uploads/2012/08/201208_senbacurry.jpg 602w, /uploads/2012/08/201208_senbacurry-300x261.jpg 300w, /uploads/2012/08/201208_senbacurry-344x300.jpg 344w" sizes="(max-width: 602px) 100vw, 602px" />][1]
   
 [船場カリー][2]は、関西で展開しているカレー屋さん。この夏休みを利用して、初めて食べてきた。
 
@@ -20,7 +20,7 @@ tags:
 
 梅田や難波でチェーン展開をしているので、関西にいる人はぜひ（[shop一覧][4]）。
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/08/201208_senbacurry.jpg
+ [1]: /uploads/2012/08/201208_senbacurry.jpg
  [2]: http://www.curryhouse.co.jp/index.html
  [3]: http://www.curryhouse.co.jp/menu.html
  [4]: http://www.curryhouse.co.jp/shop3.html

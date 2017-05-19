@@ -113,7 +113,7 @@ for(;;)
   
 setupで接続を開始して、loopで戻り値を取得している。”client.read()”で、HTTPのレスポンスが読めるみたいだ。 
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/google.png" alt="" title="arduino_network_google" width="754" height="466" class="alignnone size-full wp-image-1763" srcset="/uploads/2012/07/google.png 754w, /uploads/2012/07/google-300x185.png 300w, /uploads/2012/07/google-485x300.png 485w" sizes="(max-width: 754px) 100vw, 754px" />][2]
+[<img src="/uploads/2012/07/google.png" alt="" title="arduino_network_google" width="754" height="466" class="alignnone size-full wp-image-1763" srcset="/uploads/2012/07/google.png 754w, /uploads/2012/07/google-300x185.png 300w, /uploads/2012/07/google-485x300.png 485w" sizes="(max-width: 754px) 100vw, 754px" />][2]
   
 結果がHTMLで返ってくる。HTMLの出力には、それなりに時間がかかった。 
 
@@ -209,7 +209,7 @@ for(;;)
   
 IPアドレスをドメイン名に変えて、hello.txtまでのパスを書いた。そこの違いだけで、それ以外は同じ。 
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/dropbox.png" alt="" title="arduino_network_dropbox" width="754" height="531" class="alignnone size-full wp-image-1762" srcset="/uploads/2012/07/dropbox.png 754w, /uploads/2012/07/dropbox-300x211.png 300w, /uploads/2012/07/dropbox-425x300.png 425w" sizes="(max-width: 754px) 100vw, 754px" />][3]
+[<img src="/uploads/2012/07/dropbox.png" alt="" title="arduino_network_dropbox" width="754" height="531" class="alignnone size-full wp-image-1762" srcset="/uploads/2012/07/dropbox.png 754w, /uploads/2012/07/dropbox-300x211.png 300w, /uploads/2012/07/dropbox-425x300.png 425w" sizes="(max-width: 754px) 100vw, 754px" />][3]
   
 ドメイン名を指定して、接続できていた。最後に出力されている”Hello Network”は、hello.txtの中身だ。 
 
@@ -349,12 +349,12 @@ MODE_CONNECTのif文で、”if (c == &#8216;$&#8217;)”としている箇所�
   
 ”$”で読み込み終了判定をしていたが、[Arduino &#8211; ClientRead][4]によると、戻り値が-1かどうかで判定が出来るようだ。 
 
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/loopAccess.png" alt="" title="arduino_network_loopAccess" width="754" height="607" class="alignnone size-full wp-image-1761" srcset="/uploads/2012/07/loopAccess.png 754w, /uploads/2012/07/loopAccess-300x241.png 300w, /uploads/2012/07/loopAccess-372x300.png 372w" sizes="(max-width: 754px) 100vw, 754px" />][5]
+[<img src="/uploads/2012/07/loopAccess.png" alt="" title="arduino_network_loopAccess" width="754" height="607" class="alignnone size-full wp-image-1761" srcset="/uploads/2012/07/loopAccess.png 754w, /uploads/2012/07/loopAccess-300x241.png 300w, /uploads/2012/07/loopAccess-372x300.png 372w" sizes="(max-width: 754px) 100vw, 754px" />][5]
   
 5秒おきに、ネットワーク接続を行っているのを確認した。hello.txtの中身を変えると、その変更が反映されたテキストが出力されることも確認した。
 
  [1]: http://www.mse.co.jp/ip_domain/lookup.shtml
- [2]: http://eikatou.net/blog/wp-content/uploads/2012/07/google.png
- [3]: http://eikatou.net/blog/wp-content/uploads/2012/07/dropbox.png
+ [2]: /uploads/2012/07/google.png
+ [3]: /uploads/2012/07/dropbox.png
  [4]: http://arduino.cc/it/Reference/ClientRead
- [5]: http://eikatou.net/blog/wp-content/uploads/2012/07/loopAccess.png
+ [5]: /uploads/2012/07/loopAccess.png

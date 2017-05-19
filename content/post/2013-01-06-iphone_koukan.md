@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-<img src="http://eikatou.net/blog/wp-content/uploads/2013/01/201316_01.jpg" alt="201316_01" width="401" height="299" class="alignnone size-full wp-image-2473" srcset="/uploads/2013/01/201316_01.jpg 401w, /uploads/2013/01/201316_01-300x223.jpg 300w" sizes="(max-width: 401px) 100vw, 401px" />
+<img src="/uploads/2013/01/201316_01.jpg" alt="201316_01" width="401" height="299" class="alignnone size-full wp-image-2473" srcset="/uploads/2013/01/201316_01.jpg 401w, /uploads/2013/01/201316_01-300x223.jpg 300w" sizes="(max-width: 401px) 100vw, 401px" />
   
 AppleStoreに行って、iPhoneを交換してもらった。
   

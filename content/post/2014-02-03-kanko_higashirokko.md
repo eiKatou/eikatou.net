@@ -18,11 +18,11 @@ tags:
 
 着いたのは18時ちょうど。暗くなりかけていて、ちょうど良い感じたった。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00846.jpg" alt="DSC00846" width="481" height="283" class="alignnone size-full wp-image-3096" srcset="/uploads/2014/02/DSC00846.jpg 481w, /uploads/2014/02/DSC00846-300x176.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][1]
+[<img src="/uploads/2014/02/DSC00846.jpg" alt="DSC00846" width="481" height="283" class="alignnone size-full wp-image-3096" srcset="/uploads/2014/02/DSC00846.jpg 481w, /uploads/2014/02/DSC00846-300x176.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][1]
 
 15分ぐらい待つと、完全に暗闇。写真を撮ると、またちょっと違う雰囲気になる。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00852.jpg" alt="DSC00852" width="482" height="265" class="alignnone size-full wp-image-3098" srcset="/uploads/2014/02/DSC00852.jpg 482w, /uploads/2014/02/DSC00852-300x164.jpg 300w" sizes="(max-width: 482px) 100vw, 482px" />][2]
+[<img src="/uploads/2014/02/DSC00852.jpg" alt="DSC00852" width="482" height="265" class="alignnone size-full wp-image-3098" srcset="/uploads/2014/02/DSC00852.jpg 482w, /uploads/2014/02/DSC00852-300x164.jpg 300w" sizes="(max-width: 482px) 100vw, 482px" />][2]
 
 この展望台は駐車場があるので、車の中で待つ事が出来るのもいいところ。外に出るのは10分が限界。それぐらい寒かった。
 
@@ -30,7 +30,7 @@ tags:
 
 パラダイスカフェも営業中。ここの定員さん、毎日この夜景が見られるのか。いいなぁ。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00850.jpg" alt="DSC00850" width="481" height="320" class="alignnone size-full wp-image-3097" srcset="/uploads/2014/02/DSC00850.jpg 481w, /uploads/2014/02/DSC00850-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][3]
+[<img src="/uploads/2014/02/DSC00850.jpg" alt="DSC00850" width="481" height="320" class="alignnone size-full wp-image-3097" srcset="/uploads/2014/02/DSC00850.jpg 481w, /uploads/2014/02/DSC00850-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][3]
 
 大きな写真は、以下のギャラリーでどうぞ。
 
@@ -54,6 +54,6 @@ tags:
   <br style="clear: both" />
 </div>
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00846.jpg
- [2]: http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00852.jpg
- [3]: http://eikatou.net/blog/wp-content/uploads/2014/02/DSC00850.jpg
+ [1]: /uploads/2014/02/DSC00846.jpg
+ [2]: /uploads/2014/02/DSC00852.jpg
+ [3]: /uploads/2014/02/DSC00850.jpg
