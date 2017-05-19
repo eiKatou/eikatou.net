@@ -2,7 +2,7 @@
 title: Android携帯 Desire(X06HT) 買った
 author: eiKatou
 type: post
-date: 1969-12-31T15:00:00+00:00
+date: 2010-01-01T15:00:00+00:00
 url: /25.html
 tags:
   - Android

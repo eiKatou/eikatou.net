@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-05-12T23:40:35+00:00
 url: /1431.html
+archives:
+  - 2012
 tags:
   - App
   - 雑記

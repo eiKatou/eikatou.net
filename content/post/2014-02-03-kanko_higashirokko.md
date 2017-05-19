@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2014-02-02T22:35:09+00:00
 url: /3095.html
+archives:
+  - 2014
 tags:
   - 観光
 

@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-03-10T08:45:58+00:00
 url: /1180.html
+archives:
+  - 2012
 tags:
   - 読書
 

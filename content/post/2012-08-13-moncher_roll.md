@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-08-12T22:23:33+00:00
 url: /1968.html
+archives:
+  - 2012
 tags:
   - 雑記
 

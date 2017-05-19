@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-05-04T05:24:10+00:00
 url: /1369.html
+archives:
+  - 2012
 tags:
   - Web
 

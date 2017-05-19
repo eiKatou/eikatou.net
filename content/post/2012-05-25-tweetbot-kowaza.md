@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-05-25T12:49:32+00:00
 url: /1491.html
+archives:
+  - 2012
 tags:
   - App
   - Apple

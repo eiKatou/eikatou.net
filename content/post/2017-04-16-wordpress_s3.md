@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2017-04-16T09:36:29+00:00
 url: /3247.html
+archives:
+  - 2017
 tags:
   - AWS
   - Dev

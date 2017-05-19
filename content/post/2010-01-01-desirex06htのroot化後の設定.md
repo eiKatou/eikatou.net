@@ -2,7 +2,7 @@
 title: Desire(X06HT)のRoot化後の設定
 author: eiKatou
 type: post
-date: 1969-12-31T15:00:00+00:00
+date: 2010-01-01T15:00:00+00:00
 url: /27.html
 tags:
   - Android

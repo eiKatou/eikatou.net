@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-02-12T10:21:08+00:00
 url: /572.html
+archives:
+  - 2012
 tags:
   - Android
   - 雑記

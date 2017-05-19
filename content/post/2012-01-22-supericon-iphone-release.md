@@ -4,6 +4,8 @@ author: eiKatou
 type: post
 date: 2012-01-22T04:28:28+00:00
 url: /297.html
+archives:
+  - 2012
 tags:
   - Android
   - App
