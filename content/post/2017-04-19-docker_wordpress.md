@@ -16,7 +16,7 @@ tags:
 
 # Dockerとは
 
-<img src="/uploads/2017/04/docker_logo.png" alt="" width="600" height="206" class="alignnone size-full wp-image-3338" srcset="/uploads/2017/04/docker_logo.png 600w, /uploads/2017/04/docker_logo-300x103.png 300w, /uploads/2017/04/docker_logo-500x172.png 500w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="./uploads/2017/04/docker_logo.png" alt="" width="600" height="206" class="alignnone size-full wp-image-3338" srcset="./uploads/2017/04/docker_logo.png 600w, ./uploads/2017/04/docker_logo-300x103.png 300w, ./uploads/2017/04/docker_logo-500x172.png 500w" sizes="(max-width: 600px) 100vw, 600px" />
 
 Dockerは軽量の仮想化環境である。VirtualBoxなどの仮想化はハードウェアからのエミュレーションであるが、DockerはホストOSの上のレイヤーでの仮想環境である。下のリンクが分かりやすい。
   

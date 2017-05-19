@@ -62,7 +62,7 @@ Windows版には、ウィルスバスターのファイアウォール機能も�
 IE, Safari, Firefox, Chromeは、ウィルスバスターの拡張を入れる事ができる。この拡張は、怪しげなサイトを開こうとすると、警告してくれる。
   
 
-<img src="/uploads/2013/01/2013120_02.jpg" alt="2013120_02" width="453" height="152" class="alignnone size-full wp-image-2497" srcset="/uploads/2013/01/2013120_02.jpg 453w, /uploads/2013/01/2013120_02-300x100.jpg 300w" sizes="(max-width: 453px) 100vw, 453px" /> 
+<img src="./uploads/2013/01/2013120_02.jpg" alt="2013120_02" width="453" height="152" class="alignnone size-full wp-image-2497" srcset="./uploads/2013/01/2013120_02.jpg 453w, ./uploads/2013/01/2013120_02-300x100.jpg 300w" sizes="(max-width: 453px) 100vw, 453px" /> 
 
 ## クラウド版の注意点
 

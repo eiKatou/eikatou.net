@@ -11,7 +11,7 @@ tags:
   - Apple
 
 ---
-<img src="/uploads/2013/01/2013127_02.jpg" alt="2013127_02" width="451" height="338" class="alignnone size-full wp-image-2565" srcset="/uploads/2013/01/2013127_02.jpg 451w, /uploads/2013/01/2013127_02-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
+<img src="./uploads/2013/01/2013127_02.jpg" alt="2013127_02" width="451" height="338" class="alignnone size-full wp-image-2565" srcset="./uploads/2013/01/2013127_02.jpg 451w, ./uploads/2013/01/2013127_02-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
   
 「ジャンプBOOKストア！」というアプリで漫画を読んでいたら、カラーの漫画が良く出来ていて、とても気に入った！
 
@@ -33,7 +33,7 @@ tags:
   
 （カラー版は一部の漫画のみ）
 
-<img src="/uploads/2013/01/2013127_01.jpg" alt="2013127_01" width="451" height="338" class="alignnone size-full wp-image-2564" srcset="/uploads/2013/01/2013127_01.jpg 451w, /uploads/2013/01/2013127_01-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
+<img src="./uploads/2013/01/2013127_01.jpg" alt="2013127_01" width="451" height="338" class="alignnone size-full wp-image-2564" srcset="./uploads/2013/01/2013127_01.jpg 451w, ./uploads/2013/01/2013127_01-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
   
 こんな感じで、漫画が読めるのだ。本当に読みやすい。
   
@@ -43,7 +43,7 @@ tags:
 
 今は、ジョジョ7部（カラー版）を読んでいる。色をつけると、すごく見やすくなるし、絵が上手な事が分かると思う。
 
-<img src="/uploads/2013/01/2013127_03.jpg" alt="2013127_03" width="451" height="338" class="alignnone size-full wp-image-2566" srcset="/uploads/2013/01/2013127_03.jpg 451w, /uploads/2013/01/2013127_03-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
+<img src="./uploads/2013/01/2013127_03.jpg" alt="2013127_03" width="451" height="338" class="alignnone size-full wp-image-2566" srcset="./uploads/2013/01/2013127_03.jpg 451w, ./uploads/2013/01/2013127_03-300x224.jpg 300w" sizes="(max-width: 451px) 100vw, 451px" />
   
 カラー版のお値段は、1巻 450円。ちょっと高いんだけど、高いだけの価値はある。カラー版があるなら、絶対にカラー版を買うべし。
 

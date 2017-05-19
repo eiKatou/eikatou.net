@@ -17,7 +17,7 @@ iPhoneアプリでログイン画面を表示するにはどうすれば良い�
 
 簡単に説明すると、起動直後はメイン画面を表示する。メイン画面を表示する前に、ログイン画面を表示する必要があればログイン画面を表示する。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/07/20120705a.png" alt="" title="20120705a" width="263" height="375" class="alignnone size-full wp-image-1641" srcset="/uploads/2012/07/20120705a.png 263w, /uploads/2012/07/20120705a-210x300.png 210w" sizes="(max-width: 263px) 100vw, 263px" />][3]
+[<img src="http://eikatou.net/blog/wp-content./uploads/2012/07/20120705a.png" alt="" title="20120705a" width="263" height="375" class="alignnone size-full wp-image-1641" srcset="./uploads/2012/07/20120705a.png 263w, ./uploads/2012/07/20120705a-210x300.png 210w" sizes="(max-width: 263px) 100vw, 263px" />][3]
   
 上の画像のように、Login画面のプロパティで、LoginViewControllerにIdentifierをつけおく。
 
@@ -77,4 +77,4 @@ UITabBarControllerを利用すると、上記のコードでは動かなかっ�
 
  [1]: http://stackoverflow.com/
  [2]: http://stackoverflow.com/questions/8221787/perform-segue-on-viewdidload
- [3]: http://eikatou.net/blog/wp-content/uploads/2012/07/20120705a.png
+ [3]: http://eikatou.net/blog/wp-content./uploads/2012/07/20120705a.png

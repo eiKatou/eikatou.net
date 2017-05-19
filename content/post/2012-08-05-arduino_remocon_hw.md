@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/08/arduino_remocon_hd5.jpg" alt="" title="arduino_remocon_hd5" width="452" height="339" class="alignnone size-full wp-image-1842" srcset="/uploads/2012/08/arduino_remocon_hd5.jpg 452w, /uploads/2012/08/arduino_remocon_hd5-300x225.jpg 300w, /uploads/2012/08/arduino_remocon_hd5-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][1]
+[<img src="./uploads/2012/08/arduino_remocon_hd5.jpg" alt="" title="arduino_remocon_hd5" width="452" height="339" class="alignnone size-full wp-image-1842" srcset="./uploads/2012/08/arduino_remocon_hd5.jpg 452w, ./uploads/2012/08/arduino_remocon_hd5-300x225.jpg 300w, ./uploads/2012/08/arduino_remocon_hd5-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][1]
   
 [株式会社鳥人間][2]の[(株)鳥人間社長 (hisashin)][3]さんの記事に触発されて、買ってきたArduino Ethernet。ようやくネットワーク対応のエアコン制御ができるようになった。
 
@@ -23,7 +23,7 @@ tags:
 
 まずは配線を考える。といってもブレッドボードで、いろいろ試しているうちに、出来てしまった。
 
-[<img src="/uploads/2012/08/arduino_remocon_hd1.jpg" alt="" title="arduino_remocon_hd1" width="338" height="451" class="alignnone size-full wp-image-1843" srcset="/uploads/2012/08/arduino_remocon_hd1.jpg 338w, /uploads/2012/08/arduino_remocon_hd1-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][4]
+[<img src="./uploads/2012/08/arduino_remocon_hd1.jpg" alt="" title="arduino_remocon_hd1" width="338" height="451" class="alignnone size-full wp-image-1843" srcset="./uploads/2012/08/arduino_remocon_hd1.jpg 338w, ./uploads/2012/08/arduino_remocon_hd1-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][4]
   
 右から・・
 
@@ -58,11 +58,11 @@ tags:
 
 こうすれば簡単に解決する。
   
-[<img src="/uploads/2012/08/arduino_remocon_hd2.jpg" alt="" title="arduino_remocon_hd2" width="452" height="340" class="alignnone size-full wp-image-1841" srcset="/uploads/2012/08/arduino_remocon_hd2.jpg 452w, /uploads/2012/08/arduino_remocon_hd2-300x225.jpg 300w, /uploads/2012/08/arduino_remocon_hd2-398x300.jpg 398w" sizes="(max-width: 452px) 100vw, 452px" />][20]
+[<img src="./uploads/2012/08/arduino_remocon_hd2.jpg" alt="" title="arduino_remocon_hd2" width="452" height="340" class="alignnone size-full wp-image-1841" srcset="./uploads/2012/08/arduino_remocon_hd2.jpg 452w, ./uploads/2012/08/arduino_remocon_hd2-300x225.jpg 300w, ./uploads/2012/08/arduino_remocon_hd2-398x300.jpg 398w" sizes="(max-width: 452px) 100vw, 452px" />][20]
   
 力技で分割！
 
-[<img src="/uploads/2012/08/arduino_remocon_hd3.jpg" alt="" title="arduino_remocon_hd3" width="452" height="452" class="alignnone size-full wp-image-1840" srcset="/uploads/2012/08/arduino_remocon_hd3.jpg 452w, /uploads/2012/08/arduino_remocon_hd3-150x150.jpg 150w, /uploads/2012/08/arduino_remocon_hd3-300x300.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" />][21]
+[<img src="./uploads/2012/08/arduino_remocon_hd3.jpg" alt="" title="arduino_remocon_hd3" width="452" height="452" class="alignnone size-full wp-image-1840" srcset="./uploads/2012/08/arduino_remocon_hd3.jpg 452w, ./uploads/2012/08/arduino_remocon_hd3-150x150.jpg 150w, ./uploads/2012/08/arduino_remocon_hd3-300x300.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" />][21]
   
 ぴったりサイズになった！ 
 
@@ -76,11 +76,11 @@ tags:
 
 裏面はこんな感じ。
   
-[<img src="/uploads/2012/08/arduino_remocon_hd6.jpg" alt="" title="arduino_remocon_hd6" width="451" height="338" class="alignnone size-full wp-image-1845" srcset="/uploads/2012/08/arduino_remocon_hd6.jpg 451w, /uploads/2012/08/arduino_remocon_hd6-300x224.jpg 300w, /uploads/2012/08/arduino_remocon_hd6-400x300.jpg 400w" sizes="(max-width: 451px) 100vw, 451px" />][22]
+[<img src="./uploads/2012/08/arduino_remocon_hd6.jpg" alt="" title="arduino_remocon_hd6" width="451" height="338" class="alignnone size-full wp-image-1845" srcset="./uploads/2012/08/arduino_remocon_hd6.jpg 451w, ./uploads/2012/08/arduino_remocon_hd6-300x224.jpg 300w, ./uploads/2012/08/arduino_remocon_hd6-400x300.jpg 400w" sizes="(max-width: 451px) 100vw, 451px" />][22]
 
 表面はこんな感じ。
   
-[<img src="/uploads/2012/08/arduino_remocon_hd4.jpg" alt="" title="arduino_remocon_hd4" width="452" height="339" class="alignnone size-full wp-image-1839" srcset="/uploads/2012/08/arduino_remocon_hd4.jpg 452w, /uploads/2012/08/arduino_remocon_hd4-300x225.jpg 300w, /uploads/2012/08/arduino_remocon_hd4-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][23]
+[<img src="./uploads/2012/08/arduino_remocon_hd4.jpg" alt="" title="arduino_remocon_hd4" width="452" height="339" class="alignnone size-full wp-image-1839" srcset="./uploads/2012/08/arduino_remocon_hd4.jpg 452w, ./uploads/2012/08/arduino_remocon_hd4-300x225.jpg 300w, ./uploads/2012/08/arduino_remocon_hd4-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][23]
   
 ＊青色LEDの隣の抵抗は、47Ω x 2個 から 100Ωの抵抗に変更した。 
 
@@ -96,10 +96,10 @@ ACアダプタに繋いで、赤外線LED、赤色LED、青色LED、タクトス
 
 [Arduinoで創るネットワーク対応リモコン（ソフトウェア）][24]につづく・・
 
- [1]: /uploads/2012/08/arduino_remocon_hd5.jpg
+ [1]: ./uploads/2012/08/arduino_remocon_hd5.jpg
  [2]: http://www.tori.st/
  [3]: https://twitter.com/hisashin
- [4]: /uploads/2012/08/arduino_remocon_hd1.jpg
+ [4]: ./uploads/2012/08/arduino_remocon_hd1.jpg
  [5]: http://akizukidenshi.com/catalog/g/gI-04311/
  [6]: http://akizukidenshi.com/catalog/g/gR-25470/
  [7]: http://akizukidenshi.com/catalog/g/gI-00562/
@@ -115,8 +115,8 @@ ACアダプタに繋いで、赤外線LED、赤色LED、青色LED、タクトス
  [17]: http://d.hatena.ne.jp/OkibiWorksLabo/20100429/shield
  [18]: http://www.switch-science.com/products/detail.php?product_id=990
  [19]: http://www.switch-science.com/products/detail.php?product_id=92
- [20]: /uploads/2012/08/arduino_remocon_hd2.jpg
- [21]: /uploads/2012/08/arduino_remocon_hd3.jpg
- [22]: /uploads/2012/08/arduino_remocon_hd6.jpg
- [23]: /uploads/2012/08/arduino_remocon_hd4.jpg
+ [20]: ./uploads/2012/08/arduino_remocon_hd2.jpg
+ [21]: ./uploads/2012/08/arduino_remocon_hd3.jpg
+ [22]: ./uploads/2012/08/arduino_remocon_hd6.jpg
+ [23]: ./uploads/2012/08/arduino_remocon_hd4.jpg
  [24]: http://eikatou.net/blog/2012/08/arduino_remocon_sw/

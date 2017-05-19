@@ -13,7 +13,7 @@ tags:
 ---
 [iOS開発：UILabelでリッチにテキスト表示（OHAttributedLabel）][1]で、UILabelの表示をカスタマイズしたが、気になる点が残っている。それは、行間の広さだ。
 
-[<img src="/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/uploads/2012/08/CoreTextLabelSample01.png 320w, /uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][2]
+[<img src="./uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="./uploads/2012/08/CoreTextLabelSample01.png 320w, ./uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][2]
   
 前回の結果だが、OHAttributedLabel（上）を使うと、通常のUILabel（下）よりも、行間が広くなっている。しかも、OHAttributedLabel（上）の1行目と2行目の間だけ、さらに広くなってしまっている。
 
@@ -118,7 +118,7 @@ CFRelease(aStyle);
 
 これで、以下のように高さが揃うようになる。
   
-[<img src="/uploads/2012/09/20120902b.png" alt="" title="20120902b" width="320" height="480" class="alignnone size-full wp-image-2034" srcset="/uploads/2012/09/20120902b.png 320w, /uploads/2012/09/20120902b-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
+[<img src="./uploads/2012/09/20120902b.png" alt="" title="20120902b" width="320" height="480" class="alignnone size-full wp-image-2034" srcset="./uploads/2012/09/20120902b.png 320w, ./uploads/2012/09/20120902b-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
 
 [サンプルダウンロード：CoreTextLabelSample01][6] 
 
@@ -127,9 +127,9 @@ CFRelease(aStyle);
 [iOS開発：OHAttributedLabelの行間を調整する][7]につづく
 
  [1]: http://eikatou.net/blog/2012/08/ios_rich_uilabel_1/
- [2]: /uploads/2012/08/CoreTextLabelSample01.png
+ [2]: ./uploads/2012/08/CoreTextLabelSample01.png
  [3]: http://ewa4618.vjck.com/2011/07/05/tweetbot%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AE%E8%A1%8C%E9%96%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
  [4]: http://novis.jimdo.com/2011/07/02/coretext%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A1%8C%E9%96%93%E3%81%AE%E5%95%8F%E9%A1%8C-%E8%A7%A3%E6%B1%BA/
- [5]: /uploads/2012/09/20120902b.png
- [6]: /uploads/2012/09/CoreTextLabelSample01.zip
+ [5]: ./uploads/2012/09/20120902b.png
+ [6]: ./uploads/2012/09/CoreTextLabelSample01.zip
  [7]: http://eikatou.net/blog/2012/09/ios_rich_uilabel_2/

@@ -12,7 +12,7 @@ tags:
 ---
 macOS Sierraがリリースされましたね。MacのOS更新の前に確認する事をまとめてみました。これをチェックしてから、更新に進みましょう。
 
-<img src="/uploads/2016/09/160924-0001.jpg" alt="160924-0001" width="800" height="542" class="alignnone size-full wp-image-3235" srcset="/uploads/2016/09/160924-0001.jpg 800w, /uploads/2016/09/160924-0001-300x203.jpg 300w, /uploads/2016/09/160924-0001-768x520.jpg 768w, /uploads/2016/09/160924-0001-443x300.jpg 443w" sizes="(max-width: 800px) 100vw, 800px" />
+<img src="./uploads/2016/09/160924-0001.jpg" alt="160924-0001" width="800" height="542" class="alignnone size-full wp-image-3235" srcset="./uploads/2016/09/160924-0001.jpg 800w, ./uploads/2016/09/160924-0001-300x203.jpg 300w, ./uploads/2016/09/160924-0001-768x520.jpg 768w, ./uploads/2016/09/160924-0001-443x300.jpg 443w" sizes="(max-width: 800px) 100vw, 800px" />
 
 ## ハードウェア条件を確認
 

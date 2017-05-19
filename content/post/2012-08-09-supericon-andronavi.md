@@ -13,7 +13,7 @@ tags:
 ---
 マイアプリの「[SuperIcon Free][1]」を[Andronavi][2]さんにレビューしてもらった！
 
-[<img src="/uploads/2012/08/supericon_andronavi.jpg" alt="" title="supericon_andronavi" width="379" height="401" class="alignnone size-full wp-image-1929" srcset="/uploads/2012/08/supericon_andronavi.jpg 379w, /uploads/2012/08/supericon_andronavi-283x300.jpg 283w" sizes="(max-width: 379px) 100vw, 379px" />][3]
+[<img src="./uploads/2012/08/supericon_andronavi.jpg" alt="" title="supericon_andronavi" width="379" height="401" class="alignnone size-full wp-image-1929" srcset="./uploads/2012/08/supericon_andronavi.jpg 379w, ./uploads/2012/08/supericon_andronavi-283x300.jpg 283w" sizes="(max-width: 379px) 100vw, 379px" />][3]
   
 [『SuperIcon Free』～使い方はあなた次第！スマホ画面をiPhone風アイコンやWindows風アイコンで彩ろう♪～ | andronavi スマホアプリが見つかる！][3]
 

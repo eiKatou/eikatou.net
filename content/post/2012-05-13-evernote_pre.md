@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/05/20120513a.jpg" alt="" title="20120513a" width="320" height="480" class="alignnone size-full wp-image-1433" srcset="/uploads/2012/05/20120513a.jpg 320w, /uploads/2012/05/20120513a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="http://eikatou.net/blog/wp-content./uploads/2012/05/20120513a.jpg" alt="" title="20120513a" width="320" height="480" class="alignnone size-full wp-image-1433" srcset="./uploads/2012/05/20120513a.jpg 320w, ./uploads/2012/05/20120513a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 Evernoteのプレミアム会員（1ヵ月限定）になった。月のアップロード容量が60MBでは足りなくなってしまったからだ。プレミアム会員になる事で、毎月の容量が1GBまで増やすことが出来る。これでアップロードし放題だ。
 
@@ -39,5 +39,5 @@ Evernoteのプレミアム会員になるための値段を下げる方法がい
 
 容量だけの問題で、手間を惜しまないのだったら、容量が足りないときのみ1ヵ月会員（前月分をまとめて入れる）になるのもありだと思う。
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/05/20120513a.jpg
+ [1]: http://eikatou.net/blog/wp-content./uploads/2012/05/20120513a.jpg
  [2]: http://kazoo1837.blog23.fc2.com/blog-entry-188.html

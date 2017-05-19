@@ -35,7 +35,7 @@ tags:
 
 タイマーをセットして、iPhoneをベッドのシーツの下に入れる。
   
-<img src="/uploads/2012/12/20121223b-200x300.jpg" alt="20121223b" width="200" height="300" class="alignnone size-medium wp-image-2298" srcset="/uploads/2012/12/20121223b-200x300.jpg 200w, /uploads/2012/12/20121223b.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /><img src="/uploads/2012/12/20121223c-200x300.jpg" alt="20121223c" width="200" height="300" class="alignnone size-medium wp-image-2297" srcset="/uploads/2012/12/20121223c-200x300.jpg 200w, /uploads/2012/12/20121223c.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />
+<img src="./uploads/2012/12/20121223b-200x300.jpg" alt="20121223b" width="200" height="300" class="alignnone size-medium wp-image-2298" srcset="./uploads/2012/12/20121223b-200x300.jpg 200w, ./uploads/2012/12/20121223b.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" /><img src="./uploads/2012/12/20121223c-200x300.jpg" alt="20121223c" width="200" height="300" class="alignnone size-medium wp-image-2297" srcset="./uploads/2012/12/20121223c-200x300.jpg 200w, ./uploads/2012/12/20121223c.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />
 
 そして睡眠・・、Zzz…(\*´～｀\*)｡o○ ﾑﾆｬﾑﾆｬ
   
@@ -45,7 +45,7 @@ tags:
   
 その夜の睡眠状態も確認することが出来る。
   
-<img src="/uploads/2012/12/20121223d-200x300.jpg" alt="20121223d" width="200" height="300" class="alignnone size-medium wp-image-2299" srcset="/uploads/2012/12/20121223d-200x300.jpg 200w, /uploads/2012/12/20121223d.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />
+<img src="./uploads/2012/12/20121223d-200x300.jpg" alt="20121223d" width="200" height="300" class="alignnone size-medium wp-image-2299" srcset="./uploads/2012/12/20121223d-200x300.jpg 200w, ./uploads/2012/12/20121223d.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />
 
 * * *
 

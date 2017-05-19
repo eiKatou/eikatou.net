@@ -10,7 +10,7 @@ tags:
   - Apple
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/03/201203_ipad3.jpg" alt="" title="201203_ipad3" width="300" height="249" class="alignnone size-full wp-image-1098" />][1]
+[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_ipad3.jpg" alt="" title="201203_ipad3" width="300" height="249" class="alignnone size-full wp-image-1098" />][1]
   
 3月7日にサンフランシスコでiPad3が発表されるようだ。
 
@@ -74,6 +74,6 @@ tags:
 
 iPad 3の発表日の3月7日が楽しみだ！
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/03/201203_ipad3.jpg
+ [1]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_ipad3.jpg
  [2]: http://ja.wikipedia.org/wiki/IPhone
  [3]: http://ja.wikipedia.org/wiki/IPad

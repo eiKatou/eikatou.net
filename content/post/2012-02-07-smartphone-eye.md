@@ -12,7 +12,7 @@ tags:
 ---
 今日はスマートフォンを使っている人への注意事項を。
 
-[<img src="/uploads/2012/02/20120206a-300x300.jpg" alt="" title="20120206a" width="300" height="300" class="alignnone size-medium wp-image-447" srcset="/uploads/2012/02/20120206a-300x300.jpg 300w, /uploads/2012/02/20120206a-150x150.jpg 150w, /uploads/2012/02/20120206a.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="./uploads/2012/02/20120206a-300x300.jpg" alt="" title="20120206a" width="300" height="300" class="alignnone size-medium wp-image-447" srcset="./uploads/2012/02/20120206a-300x300.jpg 300w, ./uploads/2012/02/20120206a-150x150.jpg 150w, ./uploads/2012/02/20120206a.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 私は、非常に眼が弱く、両眼の視力が0.1もない。また、すごく疲れやすい眼を持っている。最近、眼が疲れていると感じることが多くなった。それは、スマートフォンが原因だと思っている。
 
@@ -43,7 +43,7 @@ tags:
 
 50cm距離で小さなモニタを見続けるのは、眼を疲れさせる原因である。朝の通勤時間中に、考え事をしながら景色を眺めるのも悪くないと思う。景色でも眺めて、のんびりするのも必要。。
 
-[<img src="/uploads/2012/02/20120207b.jpg" alt="" title="20120207b" width="400" height="300" class="alignnone size-full wp-image-461" srcset="/uploads/2012/02/20120207b.jpg 400w, /uploads/2012/02/20120207b-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+[<img src="./uploads/2012/02/20120207b.jpg" alt="" title="20120207b" width="400" height="300" class="alignnone size-full wp-image-461" srcset="./uploads/2012/02/20120207b.jpg 400w, ./uploads/2012/02/20120207b-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
 
 私は、仕事でPCを見る必要があるため、スマートフォンを見る時間を減らすことにした。
   
@@ -53,6 +53,6 @@ tags:
 
 [眼の疲れにはブルーベリーがおすすめ][3]に続く。
 
- [1]: /uploads/2012/02/20120206a.jpg
- [2]: /uploads/2012/02/20120207b.jpg
+ [1]: ./uploads/2012/02/20120206a.jpg
+ [2]: ./uploads/2012/02/20120207b.jpg
  [3]: http://eikatou.net/blog/2012/02/blueberry/

@@ -76,7 +76,7 @@ e.printStackTrace();
 
 Googleリーダーの情報が取得できた。
   
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/05/20120526a-300x80.png" alt="" title="20120526a" width="300" height="80" class="alignnone size-medium wp-image-1513" srcset="/uploads/2012/05/20120526a-300x80.png 300w, /uploads/2012/05/20120526a-1024x273.png 1024w, /uploads/2012/05/20120526a-500x133.png 500w, /uploads/2012/05/20120526a.png 1055w" sizes="(max-width: 300px) 100vw, 300px" />][4] 
+[<img src="http://eikatou.net/blog/wp-content./uploads/2012/05/20120526a-300x80.png" alt="" title="20120526a" width="300" height="80" class="alignnone size-medium wp-image-1513" srcset="./uploads/2012/05/20120526a-300x80.png 300w, ./uploads/2012/05/20120526a-1024x273.png 1024w, ./uploads/2012/05/20120526a-500x133.png 500w, ./uploads/2012/05/20120526a.png 1055w" sizes="(max-width: 300px) 100vw, 300px" />][4] 
 
 今回、作ったサンプルのソース。Androidエミュレータで、Googleアカウントを設定してから起動する必要がある。起動後にボタンを押すと、Googleリーダーの情報をLogcatに出力する。
   
@@ -92,7 +92,7 @@ GoogleリーダーのAPIは、以下のサイトを参考にした。正式に�
  [1]: http://d.hatena.ne.jp/adsaria/20101012/1286886888
  [2]: http://blog.mine-studio.com/2011/01/android%E3%81%AEgoogle-authenticator%E3%82%92%E8%A7%A3%E6%9E%90%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F/
  [3]: http://y-anz-m.blogspot.jp/2010/09/android_23.html
- [4]: http://eikatou.net/blog/wp-content/uploads/2012/05/20120526a.png
- [5]: http://eikatou.net/blog/wp-content/uploads/2012/05/TestAccountManager1.java_.zip
+ [4]: http://eikatou.net/blog/wp-content./uploads/2012/05/20120526a.png
+ [5]: http://eikatou.net/blog/wp-content./uploads/2012/05/TestAccountManager1.java_.zip
  [6]: http://colo-ri.jp/develop/2009/12/google-reader-apiapi.html
  [7]: http://code.google.com/p/pyrfeed/wiki/GoogleReaderAPI

@@ -39,37 +39,37 @@ Youtubeの動画は電波が弱いところだとすぐに止まってしまう�
 
 Youtubeアプリと同じ人気動画の一覧。
   
-[<img src="/uploads/2013/05/20130506_01.jpg" alt="20130506_01" width="320" height="480" class="alignnone size-full wp-image-2752" srcset="/uploads/2013/05/20130506_01.jpg 320w, /uploads/2013/05/20130506_01-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="./uploads/2013/05/20130506_01.jpg" alt="20130506_01" width="320" height="480" class="alignnone size-full wp-image-2752" srcset="./uploads/2013/05/20130506_01.jpg 320w, ./uploads/2013/05/20130506_01-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
 
 ### Youtubeアカウント
 
 Youtubeアカウントの情報・動画を参照可能。
   
-[<img src="/uploads/2013/05/20130506_02.jpg" alt="20130506_02" width="320" height="480" class="alignnone size-full wp-image-2753" srcset="/uploads/2013/05/20130506_02.jpg 320w, /uploads/2013/05/20130506_02-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][2] 
+[<img src="./uploads/2013/05/20130506_02.jpg" alt="20130506_02" width="320" height="480" class="alignnone size-full wp-image-2753" srcset="./uploads/2013/05/20130506_02.jpg 320w, ./uploads/2013/05/20130506_02-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][2] 
 
 ### オフライン再生
 
 動画の横にある”＋”ボタンを押す。
   
-[<img src="/uploads/2013/05/20130506_03.jpg" alt="20130506_03" width="320" height="480" class="alignnone size-full wp-image-2754" srcset="/uploads/2013/05/20130506_03.jpg 320w, /uploads/2013/05/20130506_03-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][3] 
+[<img src="./uploads/2013/05/20130506_03.jpg" alt="20130506_03" width="320" height="480" class="alignnone size-full wp-image-2754" srcset="./uploads/2013/05/20130506_03.jpg 320w, ./uploads/2013/05/20130506_03-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][3] 
 
 ”キャッシュ”のところを押すと、ダウンロードが始まっている。
   
-[<img src="/uploads/2013/05/20130506_04.jpg" alt="20130506_04" width="320" height="480" class="alignnone size-full wp-image-2755" srcset="/uploads/2013/05/20130506_04.jpg 320w, /uploads/2013/05/20130506_04-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][4] 
+[<img src="./uploads/2013/05/20130506_04.jpg" alt="20130506_04" width="320" height="480" class="alignnone size-full wp-image-2755" srcset="./uploads/2013/05/20130506_04.jpg 320w, ./uploads/2013/05/20130506_04-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][4] 
 
 ダウンロード完了。
   
-[<img src="/uploads/2013/05/20130506_07.jpg" alt="20130506_07" width="320" height="480" class="alignnone size-full wp-image-2758" srcset="/uploads/2013/05/20130506_07.jpg 320w, /uploads/2013/05/20130506_07-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
+[<img src="./uploads/2013/05/20130506_07.jpg" alt="20130506_07" width="320" height="480" class="alignnone size-full wp-image-2758" srcset="./uploads/2013/05/20130506_07.jpg 320w, ./uploads/2013/05/20130506_07-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
 
 動画が再生される。オフライン再生なので、電波がなくても再生できる。
   
 AirPlayにも対応しているので、AppleTVに映す事もできる。
   
-[<img src="/uploads/2013/05/20130506_05.jpg" alt="20130506_05" width="320" height="480" class="alignnone size-full wp-image-2756" srcset="/uploads/2013/05/20130506_05.jpg 320w, /uploads/2013/05/20130506_05-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][6] 
+[<img src="./uploads/2013/05/20130506_05.jpg" alt="20130506_05" width="320" height="480" class="alignnone size-full wp-image-2756" srcset="./uploads/2013/05/20130506_05.jpg 320w, ./uploads/2013/05/20130506_05-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][6] 
 
 キャッシュ動画を管理する機能もついている。動画をジャンル分けできる。たくさんの動画をキャッシュしているときに便利だ。
   
-[<img src="/uploads/2013/05/20130506_06.jpg" alt="20130506_06" width="320" height="480" class="alignnone size-full wp-image-2757" srcset="/uploads/2013/05/20130506_06.jpg 320w, /uploads/2013/05/20130506_06-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][7] 
+[<img src="./uploads/2013/05/20130506_06.jpg" alt="20130506_06" width="320" height="480" class="alignnone size-full wp-image-2757" srcset="./uploads/2013/05/20130506_06.jpg 320w, ./uploads/2013/05/20130506_06-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][7] 
 
 ## 再生に関する機能
 
@@ -81,7 +81,7 @@ AirPlayにも対応しているので、AppleTVに映す事もできる。
 
 iPad版でも同じ機能が使える。iPad版は表示のレイアウトが変更されていて、使いやすくなっている。
   
-[<img src="/uploads/2013/05/20130506_08.jpg" alt="20130506_08" width="600" height="450" class="alignnone size-full wp-image-2762" srcset="/uploads/2013/05/20130506_08.jpg 600w, /uploads/2013/05/20130506_08-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][8] 
+[<img src="./uploads/2013/05/20130506_08.jpg" alt="20130506_08" width="600" height="450" class="alignnone size-full wp-image-2762" srcset="./uploads/2013/05/20130506_08.jpg 600w, ./uploads/2013/05/20130506_08-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][8] 
 
 ## 無料版と有料版
 
@@ -118,11 +118,11 @@ iPad版でも同じ機能が使える。iPad版は表示のレイアウトが変
 
 * * *2013/05/06 TubePlayer 有料版 Version 1.6をレビュー</p>
 
- [1]: /uploads/2013/05/20130506_01.jpg
- [2]: /uploads/2013/05/20130506_02.jpg
- [3]: /uploads/2013/05/20130506_03.jpg
- [4]: /uploads/2013/05/20130506_04.jpg
- [5]: /uploads/2013/05/20130506_07.jpg
- [6]: /uploads/2013/05/20130506_05.jpg
- [7]: /uploads/2013/05/20130506_06.jpg
- [8]: /uploads/2013/05/20130506_08.jpg
+ [1]: ./uploads/2013/05/20130506_01.jpg
+ [2]: ./uploads/2013/05/20130506_02.jpg
+ [3]: ./uploads/2013/05/20130506_03.jpg
+ [4]: ./uploads/2013/05/20130506_04.jpg
+ [5]: ./uploads/2013/05/20130506_07.jpg
+ [6]: ./uploads/2013/05/20130506_05.jpg
+ [7]: ./uploads/2013/05/20130506_06.jpg
+ [8]: ./uploads/2013/05/20130506_08.jpg

@@ -14,7 +14,7 @@ tags:
 
 縛りはあるけど、違約金3,000円なら許せるかも・・、と思って、申し込むことにした。
 
-[<img src="/uploads/2014/08/140805-0001.jpg" alt="JCI_1GB" width="892" height="666" class="alignnone size-full wp-image-3120" srcset="/uploads/2014/08/140805-0001.jpg 892w, /uploads/2014/08/140805-0001-300x223.jpg 300w" sizes="(max-width: 892px) 100vw, 892px" />][1]
+[<img src="./uploads/2014/08/140805-0001.jpg" alt="JCI_1GB" width="892" height="666" class="alignnone size-full wp-image-3120" srcset="./uploads/2014/08/140805-0001.jpg 892w, ./uploads/2014/08/140805-0001-300x223.jpg 300w" sizes="(max-width: 892px) 100vw, 892px" />][1]
 
 あら、1年継続オプションをつけないバージョンも申し込めるのね。
 
@@ -66,4 +66,4 @@ tags:
   </p>
 </blockquote>
 
- [1]: /uploads/2014/08/140805-0001.jpg
+ [1]: ./uploads/2014/08/140805-0001.jpg

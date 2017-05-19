@@ -182,4 +182,4 @@ privateなプロパティやメソッドは、.mファイルで定義できる�
 [MyClass.zip][2]
 
  [1]: http://www.awaresoft.jp/ios-dev/item/115-ivar-naming-convention.html
- [2]: http://eikatou.net/blog/wp-content/uploads/2012/06/MyClass.zip
+ [2]: http://eikatou.net/blog/wp-content./uploads/2012/06/MyClass.zip

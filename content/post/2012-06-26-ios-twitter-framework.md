@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/uploads/2012/06/20120626a.png" alt="" title="20120626a" width="509" height="352" class="alignnone size-full wp-image-1584" srcset="/uploads/2012/06/20120626a.png 509w, /uploads/2012/06/20120626a-300x207.png 300w, /uploads/2012/06/20120626a-433x300.png 433w" sizes="(max-width: 509px) 100vw, 509px" />][1]
+[<img src="http://eikatou.net/blog/wp-content./uploads/2012/06/20120626a.png" alt="" title="20120626a" width="509" height="352" class="alignnone size-full wp-image-1584" srcset="./uploads/2012/06/20120626a.png 509w, ./uploads/2012/06/20120626a-300x207.png 300w, ./uploads/2012/06/20120626a-433x300.png 433w" sizes="(max-width: 509px) 100vw, 509px" />][1]
   
 iOS Twitter frameworkを使って、Twitterの情報を取得する。
 
@@ -138,10 +138,10 @@ Twitterの情報を取得するには、URLを作って、JSON形式の戻り値
 
 余談だが、Twitterクライアントを作っている人が言うには、このiOS Twitter frameworkは地雷らしい。できないことが多々あるらしいので、本格的なTwitterクライアントでの使用には向かないとの事。
 
- [1]: http://eikatou.net/blog/wp-content/uploads/2012/06/20120626a.png
+ [1]: http://eikatou.net/blog/wp-content./uploads/2012/06/20120626a.png
  [2]: https://dev.twitter.com/docs/ios
  [3]: https://dev.twitter.com/docs/ios/making-api-requests-twrequest
  [4]: http://d.hatena.ne.jp/paraches/20111205
  [5]: http://d.hatena.ne.jp/kykomi/20120418/1334751506
  [6]: http://stackoverflow.com/questions/8662156/using-blocks-within-blocks-in-objective-c-exc-bad-access
- [7]: http://eikatou.net/blog/wp-content/uploads/2012/06/iOSTwitterSample1.zip
+ [7]: http://eikatou.net/blog/wp-content./uploads/2012/06/iOSTwitterSample1.zip

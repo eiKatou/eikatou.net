@@ -10,7 +10,7 @@ tags:
   - Android
 
 ---
-[<img src="/uploads/2012/07/jb-new-logo.png" alt="" title="jb-new-logo" width="206" height="316" class="alignnone size-full wp-image-1676" srcset="/uploads/2012/07/jb-new-logo.png 206w, /uploads/2012/07/jb-new-logo-195x300.png 195w" sizes="(max-width: 206px) 100vw, 206px" />][1]
+[<img src="./uploads/2012/07/jb-new-logo.png" alt="" title="jb-new-logo" width="206" height="316" class="alignnone size-full wp-image-1676" srcset="./uploads/2012/07/jb-new-logo.png 206w, ./uploads/2012/07/jb-new-logo-195x300.png 195w" sizes="(max-width: 206px) 100vw, 206px" />][1]
   
 Galaxy Nexusに、Android 4.1(Jelly bean)を導入した。
 
@@ -57,7 +57,7 @@ finished. total time: 81.113s
   
 [/bash]
 
-[<img src="/uploads/2012/07/GN_oemunlock.jpg" alt="" title="GN_oemunlock" width="451" height="601" class="alignnone size-full wp-image-1681" srcset="/uploads/2012/07/GN_oemunlock.jpg 451w, /uploads/2012/07/GN_oemunlock-225x300.jpg 225w" sizes="(max-width: 451px) 100vw, 451px" />][6]
+[<img src="./uploads/2012/07/GN_oemunlock.jpg" alt="" title="GN_oemunlock" width="451" height="601" class="alignnone size-full wp-image-1681" srcset="./uploads/2012/07/GN_oemunlock.jpg 451w, ./uploads/2012/07/GN_oemunlock-225x300.jpg 225w" sizes="(max-width: 451px) 100vw, 451px" />][6]
   
 ロック解除画面が立ち上がってくるので、音量の上ボタンを押してYESを選択して、電源ボタンで実行する。OEM Unlock完了。 
 
@@ -83,7 +83,7 @@ finished. total time: 1.164s
   
 [/bash]
   
-[<img src="/uploads/2012/07/GN_CWM.jpg" alt="" title="GN_CWM" width="338" height="451" class="alignnone size-full wp-image-1683" srcset="/uploads/2012/07/GN_CWM.jpg 338w, /uploads/2012/07/GN_CWM-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][8]
+[<img src="./uploads/2012/07/GN_CWM.jpg" alt="" title="GN_CWM" width="338" height="451" class="alignnone size-full wp-image-1683" srcset="./uploads/2012/07/GN_CWM.jpg 338w, ./uploads/2012/07/GN_CWM-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][8]
   
 起動すると、青い文字の画面となる。
 
@@ -214,18 +214,18 @@ finished. total time: 73.403s
 
 Android 4.0.4で起動するので、システムアップデートを行う。これで、Android 4.1に更新される。
   
-[<img src="/uploads/2012/07/Android41Egg.png" alt="" title="Android41Egg" width="338" height="601" class="alignnone size-full wp-image-1685" srcset="/uploads/2012/07/Android41Egg.png 338w, /uploads/2012/07/Android41Egg-168x300.png 168w" sizes="(max-width: 338px) 100vw, 338px" />][10]
+[<img src="./uploads/2012/07/Android41Egg.png" alt="" title="Android41Egg" width="338" height="601" class="alignnone size-full wp-image-1685" srcset="./uploads/2012/07/Android41Egg.png 338w, ./uploads/2012/07/Android41Egg-168x300.png 168w" sizes="(max-width: 338px) 100vw, 338px" />][10]
   
-[<img src="/uploads/2012/07/Android41Sys.png" alt="" title="Android41Sys" width="338" height="601" class="alignnone size-full wp-image-1686" srcset="/uploads/2012/07/Android41Sys.png 338w, /uploads/2012/07/Android41Sys-168x300.png 168w" sizes="(max-width: 338px) 100vw, 338px" />][11]
+[<img src="./uploads/2012/07/Android41Sys.png" alt="" title="Android41Sys" width="338" height="601" class="alignnone size-full wp-image-1686" srcset="./uploads/2012/07/Android41Sys.png 338w, ./uploads/2012/07/Android41Sys-168x300.png 168w" sizes="(max-width: 338px) 100vw, 338px" />][11]
 
- [1]: /uploads/2012/07/jb-new-logo.png
+ [1]: ./uploads/2012/07/jb-new-logo.png
  [2]: http://juggly.cn/archives/65409.html
  [3]: http://d.hatena.ne.jp/Kazzz/20111204/p1
  [4]: http://androidlover.net/smartphone/galaxynexus/sc-04d-ukrom-install.html
  [5]: http://androidlover.net/smartphone/galaxynexus/sc-04d-radio-img-backup.html
- [6]: /uploads/2012/07/GN_oemunlock.jpg
+ [6]: ./uploads/2012/07/GN_oemunlock.jpg
  [7]: http://forum.xda-developers.com/showthread.php?t=1357642
- [8]: /uploads/2012/07/GN_CWM.jpg
+ [8]: ./uploads/2012/07/GN_CWM.jpg
  [9]: https://developers.google.com/android/nexus/images
- [10]: /uploads/2012/07/Android41Egg.png
- [11]: /uploads/2012/07/Android41Sys.png
+ [10]: ./uploads/2012/07/Android41Egg.png
+ [11]: ./uploads/2012/07/Android41Sys.png
