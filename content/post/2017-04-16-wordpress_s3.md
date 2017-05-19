@@ -124,6 +124,6 @@ AWS Route 53の設定については、公式ドキュメントに記載があ�
 
 ドメインでアクセスして、ブログが見えていることを確認した。
 
-<a href="http://localhost/3299.html" target="_blank">DockerでWordPress環境を構築する</a>に続く。
+<a href="/3299.html" target="_blank">DockerでWordPress環境を構築する</a>に続く。
 
  [1]: /uploads/2017/04/170415-0004_2.jpg

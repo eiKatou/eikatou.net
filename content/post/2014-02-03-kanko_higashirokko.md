@@ -41,13 +41,13 @@ tags:
 <div id='gallery-1' class='gallery galleryid-3095 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://localhost/3095.html/dsc00846_2000'><img width="150" height="150" src="/uploads/2014/02/DSC00846_2000-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/3095.html/dsc00846_2000'><img width="150" height="150" src="/uploads/2014/02/DSC00846_2000-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://localhost/3095.html/dsc00852_2000'><img width="150" height="150" src="/uploads/2014/02/DSC00852_2000-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/3095.html/dsc00852_2000'><img width="150" height="150" src="/uploads/2014/02/DSC00852_2000-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
