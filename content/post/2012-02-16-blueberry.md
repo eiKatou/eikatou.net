@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-02-16T13:00:31+00:00
 url: /515.html
-categories:
+tags:
   - 雑記
 
 ---

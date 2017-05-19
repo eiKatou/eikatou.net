@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-05-08T15:00:14+00:00
 url: /1388.html
-categories:
+tags:
   - App
   - 読書
 

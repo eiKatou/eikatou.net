@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2010-09-20T00:10:13+00:00
 url: /38.html
-categories:
+tags:
   - Android
   - App
 

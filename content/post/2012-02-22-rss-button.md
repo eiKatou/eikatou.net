@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-02-22T12:51:56+00:00
 url: /795.html
-categories:
+tags:
   - Dev
   - Web
 

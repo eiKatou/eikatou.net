@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-05-17T00:26:49+00:00
 url: /1444.html
-categories:
+tags:
   - Apple
   - 雑記
 

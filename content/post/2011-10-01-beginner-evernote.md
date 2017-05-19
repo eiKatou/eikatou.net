@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2011-10-01T01:32:01+00:00
 url: /73.html
-categories:
+tags:
   - App
   - Web
 

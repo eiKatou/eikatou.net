@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2013-07-13T09:05:45+00:00
 url: /2954.html
-categories:
+tags:
   - Arduino
 
 ---

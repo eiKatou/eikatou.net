@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-05-27T11:26:39+00:00
 url: /1522.html
-categories:
+tags:
   - Apple
   - Dev
 

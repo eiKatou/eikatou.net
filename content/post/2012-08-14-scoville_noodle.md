@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-08-14T00:49:13+00:00
 url: /1987.html
-categories:
+tags:
   - 雑記
 
 ---

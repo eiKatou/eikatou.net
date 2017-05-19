@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2017-05-01T02:42:45+00:00
 url: /3350.html
-categories:
+tags:
   - Web
 
 ---

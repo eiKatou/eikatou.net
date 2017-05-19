@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2013-06-08T11:49:42+00:00
 url: /2871.html
-categories:
+tags:
   - 読書
 
 ---

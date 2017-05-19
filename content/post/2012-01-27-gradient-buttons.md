@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-01-27T14:26:47+00:00
 url: /378.html
-categories:
+tags:
   - Android
   - Dev
 

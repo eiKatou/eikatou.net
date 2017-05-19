@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-08-13T12:08:17+00:00
 url: /1975.html
-categories:
+tags:
   - Apple
 
 ---

@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2012-02-20T23:08:21+00:00
 url: /777.html
-categories:
+tags:
   - Web
   - 雑記
 

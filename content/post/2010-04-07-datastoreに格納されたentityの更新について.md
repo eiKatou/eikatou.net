@@ -4,7 +4,7 @@ author: eiKatou
 type: post
 date: 2010-04-07T14:20:00+00:00
 url: /11.html
-categories:
+tags:
   - GAE
 
 ---
