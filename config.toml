@@ -15,7 +15,7 @@ googleAnalytics = "UA-29096623-1"
 [Params]
 #  subtitle = "Build a beautiful and simple website in minutes"
 #  logo="/uploads/2011/10/16.png"
-  logo="/icon/greeneyecat.jpg"
+  logo="./icon/greeneyecat.jpg"
 #  favicon = "img/favicon.ico"
 #  dateFormat = "January 2, 2006"
   dateFormat = "2006年01月02日"
