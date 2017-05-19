@@ -28,18 +28,13 @@ AWSのLambdaのチュートリアルを試している。今回は、<a href="ht
 <!--more-->
 
 # Dynamoの準備
-
 Dynamoのテーブルを準備しておく。以下のテーブルを用意した。
-  
-・テーブル名：Game
-  
-・主キー：UserId
-  
-・属性：Favorite
-  
-・属性：Title
-  
-・属性：Wins 
+
+ - テーブル名：Game
+ - 主キー：UserId
+ - 属性：Favorite
+ - 属性：Title
+ - 属性：Wins 
 
 # Lambdaの作成
 
@@ -49,20 +44,69 @@ Dynamoのテーブルを準備しておく。以下のテーブルを用意し�
 
 以下のコードでLambdaが作られる。21行目のconsole.logはコメントアウトを外した。
 
-  
+```node
+'use strict';
+
+console.log('Loading function');
+
+const doc = require('dynamodb-doc');
+
+const dynamo = new doc.DynamoDB();
+
+
+/**
+ * Demonstrates a simple HTTP endpoint using API Gateway. You have full
+ * access to the request and response payload, including headers and
+ * status code.
+ *
+ * To scan a DynamoDB table, make a GET request with the TableName as a
+ * query string parameter. To put, update, or delete an item, make a POST,
+ * PUT, or DELETE request respectively, passing in the payload to the
+ * DynamoDB API as a JSON body.
+ */
+exports.handler = (event, context, callback) => {
+    console.log('Received event:', JSON.stringify(event, null, 2));
+
+    const done = (err, res) => callback(null, {
+        statusCode: err ? '400' : '200',
+        body: err ? err.message : JSON.stringify(res),
+        headers: {
+            'Content-Type': 'application/json',
+        },
+    });
+
+    switch (event.httpMethod) {
+        case 'DELETE':
+            dynamo.deleteItem(JSON.parse(event.body), done);
+            break;
+        case 'GET':
+            dynamo.scan({ TableName: event.queryStringParameters.TableName }, done);
+            break;
+        case 'POST':
+            dynamo.putItem(JSON.parse(event.body), done);
+            break;
+        case 'PUT':
+            dynamo.updateItem(JSON.parse(event.body), done);
+            break;
+        default:
+            done(new Error(`Unsupported method "${event.httpMethod}"`));
+    }
+};
+```
 
 
 # Lambdaのテスト実行
 
 Lambdaの管理コンソールから、以下のJSONを投げてテスト実行する。
 
-<pre>{
+```json
+{
 	"httpMethod": "GET",
 	"queryStringParameters": {
 	"TableName": "Game"
     }
 }
-</pre>
+```
 
 # API Gateway経由でLambdaを呼び出し
 
@@ -90,7 +134,8 @@ https://api.ap-northeast-1.amazonaws.com/prod/simple_backend?TableName=Game
 
 PostmanのBodyでrawを選択すると、JSONが選択できる。以下のJSONをURLに対して投げる。すると、DynamoDBにデータが入っていることが確認できる。
 
-<pre>{
+```json
+{
   "TableName": "Game",
   "Item": {
     "UserId": "201",
@@ -99,13 +144,14 @@ PostmanのBodyでrawを選択すると、JSONが選択できる。以下のJSON�
     "Wins": 3
   }
 }
-</pre></p> 
+```
 
 ## PUTメソッド
 
 以下のJSONをURLに対して投げると、DynamoDBのデータが更新される。
 
-<pre>{
+```json
+{
   "TableName": "Game",
   "Key" : {
       "UserId": "201"
@@ -117,19 +163,20 @@ PostmanのBodyでrawを選択すると、JSONが選択できる。以下のJSON�
   },
   "ReturnValues" : "UPDATED_NEW"
 }
-</pre></p> 
+```
 
 ## DELETEメソッド
 
 以下のJSONをURLに対して投げると、DynamoDBのデータが削除される。
 
-<pre>{
+```json
+{
   "TableName": "Game",
   "Key" : {
       "UserId": "201"
   }
 }
-</pre></p> 
+```
 
 ## Node.jsとDynamoDB
 
