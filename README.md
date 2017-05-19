@@ -1,11 +1,13 @@
 # eikatou.net
 eikatou.netのソースです
 
-# テーマ
+# テーマの設定
 https://github.com/halogenica/beautifulhugo
-
 /themes/ディレクトリに配置。以下のファイルを編集。
-/themes/beautifulhugo/static/css/main.css
+
+cp -p /themes/beautifulhugo/static/css/main.css /static/css/
+
+/static/css/main.cssの以下を変更。
 ```css
 body {
   /*font-family: 'Lora', 'Times New Roman', serif;*/
