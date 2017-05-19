@@ -18,6 +18,10 @@ mv ${WWW_PUBLIC}/blog ${WWW_DIR}/blog_`date +%Y%m%d_%I%M%S`
 echo "Copy blog"
 cp -r ${BLOG_SOURCE_DIR}/public ${WWW_PUBLIC}/blog
 
+# feed
+mkdir ${WWW_PUBLIC}/blog/feed
+cp ${WWW_PUBLIC}/blog/index.xml ${WWW_PUBLIC}/blog/feed/index.html
+
 # google page
 cp ${WWW_DIR}/google8f78f6eb936c1d12.html ${WWW_PUBLIC}/blog
 
