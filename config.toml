@@ -35,8 +35,8 @@ googleAnalytics = "UA-29096623-1"
 [[menu.main]]
     name = "Archives"
     weight = 3
-    url = "/archives/"
+    url = "archives/"
 [[menu.main]]
     name = "Tags"
     weight = 3
-    url = "/tags/"
+    url = "tags/"
