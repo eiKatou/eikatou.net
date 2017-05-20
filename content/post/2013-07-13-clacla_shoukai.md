@@ -32,13 +32,13 @@ tags:
 
 街はこんな感じ。
   
-[<img src="./uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg" alt="写真 2013-07-13 10 32 56" width="481" height="320" class="alignnone size-full wp-image-2965" srcset="./uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg 481w, ./uploads/2013/07/2bf06e13489814c537b093dc00c31b2a-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][1]
+[<img src="/blog/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg" alt="写真 2013-07-13 10 32 56" width="481" height="320" class="alignnone size-full wp-image-2965" srcset="/blog/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg 481w, /blog/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][1]
   
-[<img src="./uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg" alt="写真 2013-07-13 10 32 49" width="481" height="320" class="alignnone size-full wp-image-2966" srcset="./uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg 481w, ./uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][2] 
+[<img src="/blog/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg" alt="写真 2013-07-13 10 32 49" width="481" height="320" class="alignnone size-full wp-image-2966" srcset="/blog/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg 481w, /blog/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][2] 
 
 大砲などの防御施設。適切に配置しないと守れない。
   
-[<img src="./uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg" alt="写真 2013-07-13 10 33 19" width="481" height="320" class="alignnone size-full wp-image-2964" srcset="./uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg 481w, ./uploads/2013/07/849f606afd9b421f5c726f3baa83e70e-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][3] 
+[<img src="/blog/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg" alt="写真 2013-07-13 10 33 19" width="481" height="320" class="alignnone size-full wp-image-2964" srcset="/blog/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg 481w, /blog/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][3] 
 
 ## 攻撃・防衛
 
@@ -60,7 +60,7 @@ tags:
   
 [【クラクラ】Clash of Clansの遊び方・攻略情報まとめページ &#8211; たのしいiPhone！ AppBank][4]
 
- [1]: ./uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg
- [2]: ./uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg
- [3]: ./uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg
+ [1]: /blog/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg
+ [2]: /blog/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg
+ [3]: /blog/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg
  [4]: http://www.appbank.net/2013/06/15/iphone-application/619819.php

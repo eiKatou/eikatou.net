@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="./uploads/2012/12/201207a.png" alt="" title="201207a" width="455" height="215" class="alignnone size-full wp-image-2191" srcset="./uploads/2012/12/201207a.png 455w, ./uploads/2012/12/201207a-300x141.png 300w" sizes="(max-width: 455px) 100vw, 455px" />][1]
+[<img src="/blog/uploads/2012/12/201207a.png" alt="" title="201207a" width="455" height="215" class="alignnone size-full wp-image-2191" srcset="/blog/uploads/2012/12/201207a.png 455w, /blog/uploads/2012/12/201207a-300x141.png 300w" sizes="(max-width: 455px) 100vw, 455px" />][1]
   
 以前に申請していたアプリだが、見事にリジェクトされてしまった。予想通りだけど、少し凹む・・。
 
@@ -62,15 +62,15 @@ xattrコマンドでファイルの属性を見ると、バックアップ対象
 
 ## 再申請
 
-[<img src="./uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="./uploads/2012/11/121125-0011.png 466w, ./uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][8]
+[<img src="/blog/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/blog/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][8]
   
 再度、バイナリをアップロードして、「Waiting For Review」ステータスになった。また、リジェクトになる気がするなぁ・・。
 
- [1]: ./uploads/2012/12/201207a.png
+ [1]: /blog/uploads/2012/12/201207a.png
  [2]: https://developer.apple.com/icloud/documentation/data-storage/
  [3]: http://d.hatena.ne.jp/sppsolcojp/20120323/1332493306
  [4]: http://support.kakin.info/ios-technical-info/data-storage-guidelineni-congttaofuraindetano-deng-luto-que-ren-fang-fa
  [5]: http://d.hatena.ne.jp/ntaku/20110104/1294146555
  [6]: http://cocoadays.blogspot.jp/2011/11/info-icloud.html
  [7]: https://developer.apple.com/library/ios/#qa/qa1719/_index.html
- [8]: ./uploads/2012/11/121125-0011.png
+ [8]: /blog/uploads/2012/11/121125-0011.png

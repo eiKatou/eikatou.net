@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="./uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="./uploads/2012/11/121125-0011.png 466w, ./uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][1]
+[<img src="/blog/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/blog/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][1]
   
 開発中のアプリ（MyTweet+）を申請した。申請手順が多くて、丸一日ぐらいかかってしまった。「Waiting For Review」ステータスなので、レビュー待ち状態。
 
@@ -34,7 +34,7 @@ tags:
   
 実際に「Camera+」とかあるから、アプリケーション名に”+”は入れられるはず。何が問題だったかと言うと、アプリのバイナリの名前に”+”がついていたことだった。なので、MyTweet+からMyTweetPlusに、プロジェクト名を変更。その後、Info.plistの「Bundle display name」を”MyTweet+”にすれば検証を通った。
 
- [1]: ./uploads/2012/11/121125-0011.png
+ [1]: /blog/uploads/2012/11/121125-0011.png
  [2]: http://blog.livedoor.jp/tattyamm/archives/1177705.html
  [3]: http://blog.livedoor.jp/tattyamm/archives/1177013.html
  [4]: http://blog.livedoor.jp/tattyamm/archives/2957285.html

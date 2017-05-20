@@ -16,8 +16,8 @@ tags:
 
 ちょっとショックだったのが、日本通信の株価に注目できなかった事。
   
-[<img src="./uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg" alt="スクリーンショット 2014-04-19 19.10.23" width="601" height="489" class="alignnone size-full wp-image-3110" srcset="./uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg 601w, ./uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d-300x244.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" />][1]
+[<img src="/blog/uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg" alt="スクリーンショット 2014-04-19 19.10.23" width="601" height="489" class="alignnone size-full wp-image-3110" srcset="/blog/uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg 601w, /blog/uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d-300x244.jpg 300w" sizes="(max-width: 601px) 100vw, 601px" />][1]
 
 ３ヵ月前に日本通信の可能性が分かっていたのに、株があることに気がつかなかった。この間に、日本通信の株価５倍になりました。買っておけば良かった〜
 
- [1]: ./uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg
+ [1]: /blog/uploads/2014/04/a71d7a6c793ecf4138ae19d393c2681d.jpg

@@ -10,7 +10,7 @@ tags:
   - Apple
 
 ---
-[<img src="./uploads/2012/07/mountain_lion.png" alt="" title="mountain_lion" width="452" height="364" class="alignnone size-full wp-image-1719" srcset="./uploads/2012/07/mountain_lion.png 452w, ./uploads/2012/07/mountain_lion-300x241.png 300w, ./uploads/2012/07/mountain_lion-372x300.png 372w" sizes="(max-width: 452px) 100vw, 452px" />][1]
+[<img src="/blog/uploads/2012/07/mountain_lion.png" alt="" title="mountain_lion" width="452" height="364" class="alignnone size-full wp-image-1719" srcset="/blog/uploads/2012/07/mountain_lion.png 452w, /blog/uploads/2012/07/mountain_lion-300x241.png 300w, /blog/uploads/2012/07/mountain_lion-372x300.png 372w" sizes="(max-width: 452px) 100vw, 452px" />][1]
   
 Mountain Lionをインストールした。
 
@@ -27,4 +27,4 @@ Mountain Lionをインストールした。
 
 あとは細々とした改善だけど、こういう小さな改善の積み重ねが大きな差になるんだろう、と思った。
 
- [1]: ./uploads/2012/07/mountain_lion.png
+ [1]: /blog/uploads/2012/07/mountain_lion.png

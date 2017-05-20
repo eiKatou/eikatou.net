@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="./uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="./uploads/2012/08/CoreTextLabelSample01.png 320w, ./uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="/blog/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/blog/uploads/2012/08/CoreTextLabelSample01.png 320w, /blog/uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 UILabelの表示をカスタマイズしてみた。カスタマイズというのは、UILabel内のテキストの色を変えてみたり、リンクにしてみたり、、という事（上の写真を参照）。どうやら、CoreTextを使えば良いらしい。
 
@@ -83,8 +83,8 @@ self.attrLabel.underlineLinks = NO;
   * [より豊かな表現のために、3つのステップで実装する Core Text (フェンリル | デベロッパーズブログ)][4]
   * [職人が教える！iOSアプリ開発で使いこなしたいとっておきのOSS：第4回　UILabelでのテキスト表示をリッチにする機能拡張サブクラス3種｜gihyo.jp … 技術評論社][5]
 
- [1]: ./uploads/2012/08/CoreTextLabelSample01.png
+ [1]: /blog/uploads/2012/08/CoreTextLabelSample01.png
  [2]: http://program.station.ez-net.jp/special/objective-c/llvm/arc/enable-file.asp
- [3]: ./uploads/2012/08/CoreTextLabelSample01.zip
+ [3]: /blog/uploads/2012/08/CoreTextLabelSample01.zip
  [4]: http://blog.fenrir-inc.com/jp/2011/10/core_text_sample.html
  [5]: http://gihyo.jp/dev/serial/01/ios_oss/0004?page=1

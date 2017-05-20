@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-<img src="./uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg" alt="" width="300" height="113" class="alignnone size-medium wp-image-3412" srcset="./uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg 300w, ./uploads/2017/05/AmazonWebservices_Logo600-500x188.jpg 500w, ./uploads/2017/05/AmazonWebservices_Logo600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/blog/uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg" alt="" width="300" height="113" class="alignnone size-medium wp-image-3412" srcset="/blog/uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg 300w, /blog/uploads/2017/05/AmazonWebservices_Logo600-500x188.jpg 500w, /blog/uploads/2017/05/AmazonWebservices_Logo600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
   
 AWSのLambdaのチュートリアルを試している。今回は、<a href="http://docs.aws.amazon.com/ja_jp/lambda/latest/dg/with-on-demand-https-example.html" target="_blank">Amazon API Gateway での AWS Lambda の使用 (オンデマンド HTTPS 経由) &#8211; AWS Lambda</a>をやってみた。意外とひっかかりまくったので、その記録。
 
@@ -114,7 +114,7 @@ Lambdaの管理コンソールから、以下のJSONを投げてテスト実行�
 
 いきなりAPIを呼び出すと、「Internal Server Error」が返ってくる。API Gatewayを使う前にデプロイしておく必要がある。
   
-<img src="./uploads/2017/05/170503-0001.jpg" alt="" width="600" height="237" class="alignnone size-full wp-image-3401" srcset="./uploads/2017/05/170503-0001.jpg 600w, ./uploads/2017/05/170503-0001-300x119.jpg 300w, ./uploads/2017/05/170503-0001-500x198.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="/blog/uploads/2017/05/170503-0001.jpg" alt="" width="600" height="237" class="alignnone size-full wp-image-3401" srcset="/blog/uploads/2017/05/170503-0001.jpg 600w, /blog/uploads/2017/05/170503-0001-300x119.jpg 300w, /blog/uploads/2017/05/170503-0001-500x198.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />
 
 APIのURLを覚えておく。ここでは以下のようなURLだったとして記述する。
   

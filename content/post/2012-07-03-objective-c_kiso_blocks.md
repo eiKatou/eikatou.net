@@ -182,4 +182,4 @@ NSLog(@"result2 = %d", result2);
  [1]: http://d.hatena.ne.jp/trashsuite/20100414/1271252150
  [2]: http://www.lifeaether.com/overtaker/blog/?p=1122
  [3]: http://blog.livedoor.jp/faulist/archives/1471730.html
- [4]: http://eikatou.net/blog/wp-content./uploads/2012/07/Sample_Blocks.zip
+ [4]: http://eikatou.net/blog/wp-content/blog/uploads/2012/07/Sample_Blocks.zip

@@ -10,7 +10,7 @@ tags:
   - Android
 
 ---
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa10.png" alt="" title="201203_fa10" width="350" height="182" class="alignnone size-full wp-image-1071" srcset="./uploads/2012/03/201203_fa10.png 350w, ./uploads/2012/03/201203_fa10-300x156.png 300w" sizes="(max-width: 350px) 100vw, 350px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa10.png" alt="" title="201203_fa10" width="350" height="182" class="alignnone size-full wp-image-1071" srcset="/blog/uploads/2012/03/201203_fa10.png 350w, /blog/uploads/2012/03/201203_fa10-300x156.png 300w" sizes="(max-width: 350px) 100vw, 350px" />][1]
   
 Galaxy Nexusのフェイスアンロック、試したことがありますか？
 
@@ -24,21 +24,21 @@ Galaxy Nexusのフェイスアンロック、試したことがありますか�
 
 まずはセットアップする。セットアップ手順はこんな感じ。
 
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa1-300x266.png" alt="" title="201203_fa1" width="300" height="266" class="alignnone size-medium wp-image-1050" srcset="./uploads/2012/03/201203_fa1-300x266.png 300w, ./uploads/2012/03/201203_fa1-337x300.png 337w, ./uploads/2012/03/201203_fa1.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa1-300x266.png" alt="" title="201203_fa1" width="300" height="266" class="alignnone size-medium wp-image-1050" srcset="/blog/uploads/2012/03/201203_fa1-300x266.png 300w, /blog/uploads/2012/03/201203_fa1-337x300.png 337w, /blog/uploads/2012/03/201203_fa1.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][2]
   
 フェイスアンロックの説明。
   
 「少しセキュリティが弱いの分かっている？」という確認。
 
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa3-300x266.png" alt="" title="201203_fa3" width="300" height="266" class="alignnone size-medium wp-image-1051" srcset="./uploads/2012/03/201203_fa3-300x266.png 300w, ./uploads/2012/03/201203_fa3-337x300.png 337w, ./uploads/2012/03/201203_fa3.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][3]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa3-300x266.png" alt="" title="201203_fa3" width="300" height="266" class="alignnone size-medium wp-image-1051" srcset="/blog/uploads/2012/03/201203_fa3-300x266.png 300w, /blog/uploads/2012/03/201203_fa3-337x300.png 337w, /blog/uploads/2012/03/201203_fa3.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][3]
   
 顔を取り込む。点線の中に顔を入れる。スクリーンショット撮るためだけに、アインシュタイン先生にご登場いただいた。
 
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa5-300x266.png" alt="" title="201203_fa5" width="300" height="266" class="alignnone size-medium wp-image-1052" srcset="./uploads/2012/03/201203_fa5-300x266.png 300w, ./uploads/2012/03/201203_fa5-337x300.png 337w, ./uploads/2012/03/201203_fa5.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa5-300x266.png" alt="" title="201203_fa5" width="300" height="266" class="alignnone size-medium wp-image-1052" srcset="/blog/uploads/2012/03/201203_fa5-300x266.png 300w, /blog/uploads/2012/03/201203_fa5-337x300.png 337w, /blog/uploads/2012/03/201203_fa5.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][4]
   
 もし、顔認識できなかったときのためのロック解除の方法を決める。
 
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa7-168x300.png" alt="" title="201203_fa7" width="168" height="300" class="alignnone size-medium wp-image-1053" srcset="./uploads/2012/03/201203_fa7-168x300.png 168w, ./uploads/2012/03/201203_fa7.png 360w" sizes="(max-width: 168px) 100vw, 168px" />][5]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa7-168x300.png" alt="" title="201203_fa7" width="168" height="300" class="alignnone size-medium wp-image-1053" srcset="/blog/uploads/2012/03/201203_fa7-168x300.png 168w, /blog/uploads/2012/03/201203_fa7.png 360w" sizes="(max-width: 168px) 100vw, 168px" />][5]
   
 セットアップ完了！
 
@@ -70,9 +70,9 @@ Galaxy Nexusは端末サイズが大きいので、片手でパターンをな�
 
 そういう事も考慮されているようで、たくさんの顔を覚えさせることも出来る。「improve face matching」という項目を選ぶ。ここでは、まじめなアインシュタイン先生に登場いただいた。
   
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa8-168x300.png" alt="" title="201203_fa8" width="168" height="300" class="alignnone size-medium wp-image-1054" srcset="./uploads/2012/03/201203_fa8-168x300.png 168w, ./uploads/2012/03/201203_fa8.png 360w" sizes="(max-width: 168px) 100vw, 168px" />][6]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa8-168x300.png" alt="" title="201203_fa8" width="168" height="300" class="alignnone size-medium wp-image-1054" srcset="/blog/uploads/2012/03/201203_fa8-168x300.png 168w, /blog/uploads/2012/03/201203_fa8.png 360w" sizes="(max-width: 168px) 100vw, 168px" />][6]
 
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa9-300x266.png" alt="" title="201203_fa9" width="300" height="266" class="alignnone size-medium wp-image-1055" srcset="./uploads/2012/03/201203_fa9-300x266.png 300w, ./uploads/2012/03/201203_fa9-337x300.png 337w, ./uploads/2012/03/201203_fa9.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][7]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa9-300x266.png" alt="" title="201203_fa9" width="300" height="266" class="alignnone size-medium wp-image-1055" srcset="/blog/uploads/2012/03/201203_fa9-300x266.png 300w, /blog/uploads/2012/03/201203_fa9-337x300.png 337w, /blog/uploads/2012/03/201203_fa9.png 720w" sizes="(max-width: 300px) 100vw, 300px" />][7]
   
 まじめな顔のアインシュタイン先生も覚えさせた。
 
@@ -85,9 +85,9 @@ Galaxy Nexusは端末サイズが大きいので、片手でパターンをな�
 顔写真で認識できる点を改善できれば、Androidのウリになる機能になると思う。この記事を読んだ方は、ぜひ試してみて欲しい。
 
  [1]: http://www.youtube.com/watch?v=oa2GGOnEZ_I
- [2]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa1.png
- [3]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa3.png
- [4]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa5.png
- [5]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa7.png
- [6]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa8.png
- [7]: http://eikatou.net/blog/wp-content./uploads/2012/03/201203_fa9.png
+ [2]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa1.png
+ [3]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa3.png
+ [4]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa5.png
+ [5]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa7.png
+ [6]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa8.png
+ [7]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_fa9.png

@@ -12,11 +12,11 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/06/coworking_osakan.jpg" alt="" title="coworking_osakan" width="450" height="450" class="alignnone size-full wp-image-1576" srcset="./uploads/2012/06/coworking_osakan.jpg 450w, ./uploads/2012/06/coworking_osakan-150x150.jpg 150w, ./uploads/2012/06/coworking_osakan-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/coworking_osakan.jpg" alt="" title="coworking_osakan" width="450" height="450" class="alignnone size-full wp-image-1576" srcset="/blog/uploads/2012/06/coworking_osakan.jpg 450w, /blog/uploads/2012/06/coworking_osakan-150x150.jpg 150w, /blog/uploads/2012/06/coworking_osakan-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
   
 Xcode勉強会 関西ビギナーズに参加してきた。
 
-場所は「[[<img src="http://eikatou.net/blog/wp-content./uploads/2012/06/coworking_osakan.jpg" alt="" title="coworking_osakan" width="450" height="450" class="alignnone size-full wp-image-1576" srcset="./uploads/2012/06/coworking_osakan.jpg 450w, ./uploads/2012/06/coworking_osakan-150x150.jpg 150w, ./uploads/2012/06/coworking_osakan-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+場所は「[[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/coworking_osakan.jpg" alt="" title="coworking_osakan" width="450" height="450" class="alignnone size-full wp-image-1576" srcset="/blog/uploads/2012/06/coworking_osakan.jpg 450w, /blog/uploads/2012/06/coworking_osakan-150x150.jpg 150w, /blog/uploads/2012/06/coworking_osakan-300x300.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
   
 Xcode勉強会 関西ビギナーズに参加してきた。
 
@@ -28,6 +28,6 @@ Xcode勉強会 関西ビギナーズに参加してきた。
 
 たまには外でパソコンを触るのも良いかも、と思ったイベントだった。
 
- [1]: http://eikatou.net/blog/wp-content./uploads/2012/06/coworking_osakan.jpg
+ [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/06/coworking_osakan.jpg
  [2]: http://www.osakan-space.com/
  [3]: http://aws.amazon.com/jp/sdkforios/

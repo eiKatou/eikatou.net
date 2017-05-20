@@ -11,7 +11,7 @@ tags:
   - Apple
 
 ---
-[<img src="./uploads/2013/03/2013312_01.jpg" alt="2013312_01" width="320" height="480" class="alignnone size-full wp-image-2646" srcset="./uploads/2013/03/2013312_01.jpg 320w, ./uploads/2013/03/2013312_01-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="/blog/uploads/2013/03/2013312_01.jpg" alt="2013312_01" width="320" height="480" class="alignnone size-full wp-image-2646" srcset="/blog/uploads/2013/03/2013312_01.jpg 320w, /blog/uploads/2013/03/2013312_01-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 最近、棚の壁紙を使用して、アイコンを棚に飾っている。
   
@@ -29,9 +29,9 @@ tags:
 
 このように棚画像が大量に表示されるので、それを保存し、壁紙に設定するだけ。
   
-[<img src="./uploads/2013/03/2013312_02.jpg" alt="2013312_02" width="320" height="480" class="alignnone size-full wp-image-2647" srcset="./uploads/2013/03/2013312_02.jpg 320w, ./uploads/2013/03/2013312_02-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][2] 
+[<img src="/blog/uploads/2013/03/2013312_02.jpg" alt="2013312_02" width="320" height="480" class="alignnone size-full wp-image-2647" srcset="/blog/uploads/2013/03/2013312_02.jpg 320w, /blog/uploads/2013/03/2013312_02-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][2] 
 
 このような背景だと、アイコンが主役となる。アイコンが引き立つ壁紙もよいものだ。
 
- [1]: ./uploads/2013/03/2013312_01.jpg
- [2]: ./uploads/2013/03/2013312_02.jpg
+ [1]: /blog/uploads/2013/03/2013312_01.jpg
+ [2]: /blog/uploads/2013/03/2013312_02.jpg

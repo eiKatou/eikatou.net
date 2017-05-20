@@ -241,4 +241,4 @@ NSLog(@"call hoge");
   
 [MyProtocol.zip][1]</p>
 
- [1]: http://eikatou.net/blog/wp-content./uploads/2012/06/MyProtocol.zip
+ [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/06/MyProtocol.zip

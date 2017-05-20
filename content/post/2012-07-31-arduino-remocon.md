@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="./uploads/2012/07/Arduino_Sekigaisen_remocon.png" alt="" title="Arduino_Sekigaisen_remocon" width="352" height="352" class="alignnone size-full wp-image-1803" srcset="./uploads/2012/07/Arduino_Sekigaisen_remocon.png 352w, ./uploads/2012/07/Arduino_Sekigaisen_remocon-150x150.png 150w, ./uploads/2012/07/Arduino_Sekigaisen_remocon-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" />][1]
+[<img src="/blog/uploads/2012/07/Arduino_Sekigaisen_remocon.png" alt="" title="Arduino_Sekigaisen_remocon" width="352" height="352" class="alignnone size-full wp-image-1803" srcset="/blog/uploads/2012/07/Arduino_Sekigaisen_remocon.png 352w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-150x150.png 150w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" />][1]
   
 エアコンの操作を行う。
   
@@ -34,7 +34,7 @@ tags:
   * 赤外線リモコン受信モジュール：OSRB38C9AA （[秋月][6]）
   * 抵抗 47Ω （[秋月][7]）
 
-[<img src="./uploads/2012/07/ReadWrite_Sekigaisen.png" alt="" title="ReadWrite_Sekigaisen" width="325" height="422" class="alignnone size-full wp-image-1798" srcset="./uploads/2012/07/ReadWrite_Sekigaisen.png 325w, ./uploads/2012/07/ReadWrite_Sekigaisen-231x300.png 231w" sizes="(max-width: 325px) 100vw, 325px" />][8]
+[<img src="/blog/uploads/2012/07/ReadWrite_Sekigaisen.png" alt="" title="ReadWrite_Sekigaisen" width="325" height="422" class="alignnone size-full wp-image-1798" srcset="/blog/uploads/2012/07/ReadWrite_Sekigaisen.png 325w, /blog/uploads/2012/07/ReadWrite_Sekigaisen-231x300.png 231w" sizes="(max-width: 325px) 100vw, 325px" />][8]
   
 こんな感じで配線を行う。左の黒いのが赤外線受信モジュール。この図では分かりにくいが、こちらを向いている。Arduinoの7番に繋がっている。右の緑色のLEDが赤外LEDだ。Arduinoの2番に繋がっている。
 
@@ -140,7 +140,7 @@ state = HIGH_STATE;
   
 赤外線信号のオンオフの時間（10マイクロ秒単位）が出力される。シリアル出力の速度を&#8221;57600 bps&#8221;に変更して、リモコンを赤外線受信モジュールに近づけて、スイッチを押してみると・・
   
-[<img src="./uploads/2012/07/120731-0001.png" alt="" title="Arduino_Read_Sekigaisen" width="452" height="348" class="alignnone size-full wp-image-1799" srcset="./uploads/2012/07/120731-0001.png 452w, ./uploads/2012/07/120731-0001-300x230.png 300w, ./uploads/2012/07/120731-0001-389x300.png 389w" sizes="(max-width: 452px) 100vw, 452px" />][9]
+[<img src="/blog/uploads/2012/07/120731-0001.png" alt="" title="Arduino_Read_Sekigaisen" width="452" height="348" class="alignnone size-full wp-image-1799" srcset="/blog/uploads/2012/07/120731-0001.png 452w, /blog/uploads/2012/07/120731-0001-300x230.png 300w, /blog/uploads/2012/07/120731-0001-389x300.png 389w" sizes="(max-width: 452px) 100vw, 452px" />][9]
   
 リモコンの信号が取得できる！ 
 
@@ -236,14 +236,14 @@ Arduinoはメモリの制約が厳しく、大きい配列を用意するとプ�
 
 2つ目は、赤外線LEDの方向。LEDは、上方向への光が強く、横方向への光が弱い。そのため、LEDの頭をエアコンに向けないといけないのだ。また、信号が弱いこともあるので、近づけないと反応しないこともある。
 
- [1]: ./uploads/2012/07/Arduino_Sekigaisen_remocon.png
+ [1]: /blog/uploads/2012/07/Arduino_Sekigaisen_remocon.png
  [2]: http://d.hatena.ne.jp/NeoCat/20090419/1240158722
  [3]: http://side2.jp/2011/07/android-arduino-ir-remote-controller3-1/
  [4]: http://www.amazon.co.jp/gp/product/B008DHYEXQ/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B008DHYEXQ&linkCode=as2&tag=eikatou-22
  [5]: http://akizukidenshi.com/catalog/g/gI-04311/
  [6]: http://akizukidenshi.com/catalog/g/gI-04659/
  [7]: http://akizukidenshi.com/catalog/g/gR-25470/
- [8]: ./uploads/2012/07/ReadWrite_Sekigaisen.png
- [9]: ./uploads/2012/07/120731-0001.png
+ [8]: /blog/uploads/2012/07/ReadWrite_Sekigaisen.png
+ [9]: /blog/uploads/2012/07/120731-0001.png
  [10]: http://isa.asablo.jp/blog/2010/01/03/4792397
  [11]: http://arduino.cc/en/Reference/PROGMEM

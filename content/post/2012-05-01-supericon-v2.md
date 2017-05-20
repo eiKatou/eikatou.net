@@ -12,7 +12,7 @@ tags:
   - Dev
 
 ---
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/05/ic_launcher_big.png" alt="" title="ic_launcher_big" width="300" height="300" class="alignnone size-full wp-image-1355" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/ic_launcher_big.png" alt="" title="ic_launcher_big" width="300" height="300" class="alignnone size-full wp-image-1355" />][1]
 
 SuperIcon 2.0をリリースしました。
   
@@ -37,7 +37,7 @@ SuperIcon 1.0のリリースからの改善は以下になります。
 
 Iconfinderのアイコンをお気に入りにいれたところ。
   
-[<img src="http://eikatou.net/blog/wp-content./uploads/2012/05/20120501a.png" alt="" title="20120501a" width="360" height="640" class="alignnone size-full wp-image-1357" srcset="./uploads/2012/05/20120501a.png 360w, ./uploads/2012/05/20120501a-168x300.png 168w" sizes="(max-width: 360px) 100vw, 360px" />][4] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120501a.png" alt="" title="20120501a" width="360" height="640" class="alignnone size-full wp-image-1357" srcset="/blog/uploads/2012/05/20120501a.png 360w, /blog/uploads/2012/05/20120501a-168x300.png 168w" sizes="(max-width: 360px) 100vw, 360px" />][4] 
 
 # ダウンロード
 
@@ -50,9 +50,9 @@ Iconfinderのアイコンをお気に入りにいれたところ。
 
 普段は常体で書いているけど、リリースは敬体で書くもの(?)という思い込みで、敬体で書いてます。
 
- [1]: http://eikatou.net/blog/wp-content./uploads/2012/05/ic_launcher_big.png
+ [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/05/ic_launcher_big.png
  [2]: http://eikatou.net/blog/2012/01/supericon-iphone-release/
  [3]: http://www.iconfinder.com/
- [4]: http://eikatou.net/blog/wp-content./uploads/2012/05/20120501a.png
+ [4]: http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120501a.png
  [5]: https://market.android.com/details?id=net.eikatou.ibf
  [6]: https://market.android.com/details?id=net.eikatou.ib

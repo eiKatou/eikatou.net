@@ -10,7 +10,7 @@ tags:
   - Android
 
 ---
-[<img src="./uploads/2012/01/01_gallery-300x270.png" alt="" title="01_gallery" width="300" height="270" class="alignnone size-medium wp-image-337" srcset="./uploads/2012/01/01_gallery-300x270.png 300w, ./uploads/2012/01/01_gallery-332x300.png 332w, ./uploads/2012/01/01_gallery.png 526w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="/blog/uploads/2012/01/01_gallery-300x270.png" alt="" title="01_gallery" width="300" height="270" class="alignnone size-medium wp-image-337" srcset="/blog/uploads/2012/01/01_gallery-300x270.png 300w, /blog/uploads/2012/01/01_gallery-332x300.png 332w, /blog/uploads/2012/01/01_gallery.png 526w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
   1. [Galaxy Nexus 購入記（注文）][2]
   2. [Galaxy Nexus 購入記（着弾）][3]
@@ -52,7 +52,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
   
 これはありがたい。今のホーム画面。こんな紹介もできる！
   
-[<img src="./uploads/2012/02/20120209a-168x300.jpg" alt="" title="20120209a" width="168" height="300" class="alignnone size-medium wp-image-472" srcset="./uploads/2012/02/20120209a-168x300.jpg 168w, ./uploads/2012/02/20120209a.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][4]
+[<img src="/blog/uploads/2012/02/20120209a-168x300.jpg" alt="" title="20120209a" width="168" height="300" class="alignnone size-medium wp-image-472" srcset="/blog/uploads/2012/02/20120209a-168x300.jpg 168w, /blog/uploads/2012/02/20120209a.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][4]
 
 ## 標準ホームの改良
 
@@ -60,7 +60,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
   
 使いやすいし、なかなか格好いい。
   
-[<img src="./uploads/2012/02/20120209b-168x300.jpg" alt="" title="20120209b" width="168" height="300" class="alignnone size-medium wp-image-486" srcset="./uploads/2012/02/20120209b-168x300.jpg 168w, ./uploads/2012/02/20120209b.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][5]
+[<img src="/blog/uploads/2012/02/20120209b-168x300.jpg" alt="" title="20120209b" width="168" height="300" class="alignnone size-medium wp-image-486" srcset="/blog/uploads/2012/02/20120209b-168x300.jpg 168w, /blog/uploads/2012/02/20120209b.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][5]
   
 そして、下に４つのアイコンが置けるようになった。
 
@@ -70,7 +70,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
 
 さりげなく追加されている新機能に、データの制御がある。
   
-[<img src="./uploads/2012/02/20120209c-168x300.jpg" alt="" title="20120209c" width="168" height="300" class="alignnone size-medium wp-image-485" srcset="./uploads/2012/02/20120209c-168x300.jpg 168w, ./uploads/2012/02/20120209c.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][6]
+[<img src="/blog/uploads/2012/02/20120209c-168x300.jpg" alt="" title="20120209c" width="168" height="300" class="alignnone size-medium wp-image-485" srcset="/blog/uploads/2012/02/20120209c-168x300.jpg 168w, /blog/uploads/2012/02/20120209c.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][6]
   
 データ通信の使用量が確認できる。また、使用量制限をかける事ができる。データ定額を契約していない人には、必須のオプションだ。
 
@@ -97,10 +97,10 @@ Nexus Sを買ってから1年しか経っていないので、見送ろうと思
 
 [Galaxy Nexusのフェイスアンロックは超便利だった！][7]につづく
 
- [1]: ./uploads/2012/01/01_gallery.png
+ [1]: /blog/uploads/2012/01/01_gallery.png
  [2]: http://eikatou.net/blog/2012/01/galaxy-nexus-order/
  [3]: http://eikatou.net/blog/2012/01/galaxy-nexus-arrival/
- [4]: ./uploads/2012/02/20120209a.jpg
- [5]: ./uploads/2012/02/20120209b.jpg
- [6]: ./uploads/2012/02/20120209c.jpg
+ [4]: /blog/uploads/2012/02/20120209a.jpg
+ [5]: /blog/uploads/2012/02/20120209b.jpg
+ [6]: /blog/uploads/2012/02/20120209c.jpg
  [7]: http://eikatou.net/blog/2012/03/gn-faceunlock/
