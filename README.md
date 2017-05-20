@@ -84,14 +84,18 @@ $(document).ready( function () {
 
 ## terms.htmlのリンク切れに対応
 ```javascript
-      <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}" class="list-group-item">
-          {{ $value.Name }}<span class="badge">{{ $value.Count }}</span></a>
-      {{ end }}
+  <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}" class="list-group-item">
+      {{ $value.Name }}<span class="badge">{{ $value.Count }}</span></a>
+  {{ end }}
 ```
 
 ## index.htmlのタグのリンク切れに対応
 ```javascript
-      <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}" class="list-group-item">
-          {{ $value.Name }}<span class="badge">{{ $value.Count }}</span></a>
-      {{ end }}
+  {{ if .Params.tags }}
+    <span class="post-meta">
+    {{ range .Params.tags }}
+      #<a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+    {{ end }}
+    </span>
+  {{ end }}
 ```
