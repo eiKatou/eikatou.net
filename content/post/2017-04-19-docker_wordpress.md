@@ -132,4 +132,4 @@ Dockerで簡単にWordPress環境を作ることができた。また、自分�
 
 <a href="/blog/3350.html" target="_blank">Docker上のWordPressデータのバックアップ＆リストア</a>に続く・・
 
- [1]: /3247.html
+ [1]: /blog/3247.html
