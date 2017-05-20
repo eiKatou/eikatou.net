@@ -36,5 +36,17 @@ body {
 <!--<script src="{{ "js/highlight.min.js" | absURL }}"></script>-->
 ```
 
+markdown記法でリンクをtarget="_blank"にする。
+```javascript
+// markdown記法でリンクをtarget="_blank"にする
+<script language="JavaScript">
+$(document).ready( function () {
+   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+})
+</script>
+
+{{- partial "footer_custom.html" . }}
+```
+
 # 公開
 /public/ディレクトリに出力される。
