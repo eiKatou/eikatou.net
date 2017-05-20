@@ -130,6 +130,6 @@ wordpress/wordpressでログインできる。
 
 Dockerで簡単にWordPress環境を作ることができた。また、自分のPCに直接ミドルウェアを入れる必要がないので、自分のPC環境を汚さずに、色々な環境をお試しで作ることができる。勉強するところは多いが、非常に便利なソフトウェアだと思った。Dockerは開発が続いているので、今後はもっと便利になっていくと思う。 
 
-<a href="/3350.html" target="_blank">Docker上のWordPressデータのバックアップ＆リストア</a>に続く・・
+<a href="/blog/3350.html" target="_blank">Docker上のWordPressデータのバックアップ＆リストア</a>に続く・・
 
  [1]: /3247.html
