@@ -70,6 +70,7 @@ body {
 
 ## markdown記法でリンクをtarget="_blank"にする。
 footer.htmlに追加。
+使えなかったので消した。
 ```javascript
 // markdown記法でリンクをtarget="_blank"にする
 <script language="JavaScript">
