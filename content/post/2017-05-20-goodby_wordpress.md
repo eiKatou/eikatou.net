@@ -3,7 +3,6 @@ archives:
 - 2017
 author: eiKatou
 date: 2017-05-20T09:20:00+09:00
-draft: true
 tags:
 - Web
 title: "WordPressを捨ててHUGOに乗り換え"
@@ -13,6 +12,8 @@ url: /20170520.html
 
 このブログをHUGOで再構築した。 WordPressとはさようならです。
 少し前にWordPressが動くDockerも用意したけど、あれは良い勉強だったと思うことにする。
+
+<!--more-->
 
 # WordPressの不満
 WordPressは便利だったけど、以下の点が不満だった。
