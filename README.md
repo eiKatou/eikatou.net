@@ -70,12 +70,12 @@ body {
 
 ## markdown記法でリンクをtarget="_blank"にする。
 footer.htmlに追加。
-使えなかったので消した。
 ```javascript
-// markdown記法でリンクをtarget="_blank"にする
 <script language="JavaScript">
 $(document).ready( function () {
-   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+  if (location.hostname == "localhost" || location.hostname == "eikatou.net") {
+    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+  }
 })
 </script>
 

@@ -75,4 +75,12 @@
 </script>
 {{ end }}
 
+<script language="JavaScript">
+$(document).ready( function () {
+  if (location.hostname == "localhost" || location.hostname == "eikatou.net") {
+    $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+  }
+})
+</script>
+
 {{- partial "footer_custom.html" . }}

@@ -1,4 +1,4 @@
-baseURL = "http://eiKatou.net/blog/"
+baseURL = "http://eikatou.net/blog/"
 languageCode = "ja"
 title = "eiKatouの日記"
 paginate = 3
