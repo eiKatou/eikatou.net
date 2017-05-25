@@ -89,6 +89,14 @@ $(document).ready( function () {
   {{ end }}
 ```
 
+```
+37c37
+< #<a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+---
+> #<a href="./{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+
+```
+
 ## index.htmlのタグのリンク切れに対応
 ```javascript
   {{ if .Params.tags }}
@@ -98,4 +106,13 @@ $(document).ready( function () {
     {{ end }}
     </span>
   {{ end }}
+```
+```
+< {{ range $key, $value := .Data.Terms.Alphabetical}}
+< <a href="{{ $.Site.BaseURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}" class="list-grou
+p-item">
+---
+> {{ range $key, $value := .Data.Terms.ByCount }}
+> <a href="{{ $.Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}" class="l
+ist-group-item">
 ```
