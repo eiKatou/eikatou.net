@@ -24,13 +24,13 @@ tags:
 
 Googleのアカウントにログインしようとすると、警告が表示された。
   
-[<img src="/blog/uploads/2012/12/20121222a.jpg" alt="" title="20121222a" width="320" height="480" class="alignnone size-full wp-image-2269" srcset="/blog/uploads/2012/12/20121222a.jpg 320w, /blog/uploads/2012/12/20121222a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="/uploads/2012/12/20121222a.jpg" alt="" title="20121222a" width="320" height="480" class="alignnone size-full wp-image-2269" srcset="/uploads/2012/12/20121222a.jpg 320w, /blog/uploads/2012/12/20121222a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 「不正な操作が検出されました。」と教えてもらったので、不正ログインだと判明。当初は、スマートフォンのアドレス帳の情報を抜かれた可能性を疑っていた。 
 
 SMSで確認を行って、パソコンでGmailにログイン。スクロールすると右下に「アカウント アクティビティの詳細」と出てくるので、ログイン履歴を確認した。
   
-[<img src="/blog/uploads/2012/12/20121222c-300x187.jpeg" alt="" title="20121222c" width="300" height="187" class="alignnone size-medium wp-image-2270" srcset="/blog/uploads/2012/12/20121222c-300x187.jpeg 300w, /blog/uploads/2012/12/20121222c.jpeg 460w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img src="/uploads/2012/12/20121222c-300x187.jpeg" alt="" title="20121222c" width="300" height="187" class="alignnone size-medium wp-image-2270" srcset="/uploads/2012/12/20121222c-300x187.jpeg 300w, /blog/uploads/2012/12/20121222c.jpeg 460w" sizes="(max-width: 300px) 100vw, 300px" />][2]
   
 アメリカからのアクセスされている。メールの送信日時と同じ時刻なので、これに間違いない。ここで、「他のセッションをすべてログアウト」を押して、他のログインセッションを無効にした。 
 
@@ -55,7 +55,7 @@ SMSで確認を行って、パソコンでGmailにログイン。スクロール
 
 他のパソコンで、IDとパスワードを入れてログインしようとすると、こんな画面が表示される。
   
-[<img src="/blog/uploads/2012/12/20121222b-300x300.jpg" alt="" title="20121222b" width="300" height="300" class="alignnone size-medium wp-image-2268" srcset="/blog/uploads/2012/12/20121222b-300x300.jpg 300w, /blog/uploads/2012/12/20121222b-150x150.jpg 150w, /blog/uploads/2012/12/20121222b-299x300.jpg 299w, /blog/uploads/2012/12/20121222b-120x120.jpg 120w, /blog/uploads/2012/12/20121222b.jpg 305w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+[<img src="/uploads/2012/12/20121222b-300x300.jpg" alt="" title="20121222b" width="300" height="300" class="alignnone size-medium wp-image-2268" srcset="/uploads/2012/12/20121222b-300x300.jpg 300w, /blog/uploads/2012/12/20121222b-150x150.jpg 150w, /blog/uploads/2012/12/20121222b-299x300.jpg 299w, /blog/uploads/2012/12/20121222b-120x120.jpg 120w, /blog/uploads/2012/12/20121222b.jpg 305w" sizes="(max-width: 300px) 100vw, 300px" />][4]
   
 このように、他のパソコンからログインできなくなる。
   

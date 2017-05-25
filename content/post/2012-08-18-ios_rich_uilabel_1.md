@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/blog/uploads/2012/08/CoreTextLabelSample01.png 320w, /blog/uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/uploads/2012/08/CoreTextLabelSample01.png 320w, /blog/uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 UILabelの表示をカスタマイズしてみた。カスタマイズというのは、UILabel内のテキストの色を変えてみたり、リンクにしてみたり、、という事（上の写真を参照）。どうやら、CoreTextを使えば良いらしい。
 

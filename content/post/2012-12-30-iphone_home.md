@@ -14,7 +14,7 @@ tags:
 
 ## ホーム画面（１面目）
 
-<img src="/blog/uploads/2012/12/2012-12-30a.jpg" alt="2012-12-30a" width="320" height="480" class="alignnone size-full wp-image-2422" srcset="/blog/uploads/2012/12/2012-12-30a.jpg 320w, /blog/uploads/2012/12/2012-12-30a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2012/12/2012-12-30a.jpg" alt="2012-12-30a" width="320" height="480" class="alignnone size-full wp-image-2422" srcset="/uploads/2012/12/2012-12-30a.jpg 320w, /blog/uploads/2012/12/2012-12-30a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
 
 <!--more-->
 
@@ -40,7 +40,7 @@ tags:
 
 ## ホーム画面（１面目のフォルダ）
 
-<img src="/blog/uploads/2012/12/2012-12-30b.jpg" alt="2012-12-30b" width="320" height="480" class="alignnone size-full wp-image-2423" srcset="/blog/uploads/2012/12/2012-12-30b.jpg 320w, /blog/uploads/2012/12/2012-12-30b-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2012/12/2012-12-30b.jpg" alt="2012-12-30b" width="320" height="480" class="alignnone size-full wp-image-2423" srcset="/uploads/2012/12/2012-12-30b.jpg 320w, /blog/uploads/2012/12/2012-12-30b-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
 
 フォルダの中は、よく使うツール系アプリを入れている。
 
@@ -70,7 +70,7 @@ tags:
 
 ## ホーム画面（２面目）
 
-<img src="/blog/uploads/2012/12/2012-12-30c.jpg" alt="2012-12-30c" width="320" height="480" class="alignnone size-full wp-image-2421" srcset="/blog/uploads/2012/12/2012-12-30c.jpg 320w, /blog/uploads/2012/12/2012-12-30c-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2012/12/2012-12-30c.jpg" alt="2012-12-30c" width="320" height="480" class="alignnone size-full wp-image-2421" srcset="/uploads/2012/12/2012-12-30c.jpg 320w, /blog/uploads/2012/12/2012-12-30c-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
 
 ２面目は、１面より使わないアプリを置いている。
 

@@ -13,7 +13,7 @@ tags:
 ---
 [iOS開発：UILabelでリッチにテキスト表示（OHAttributedLabel）][1]で、UILabelの表示をカスタマイズしたが、気になる点が残っている。それは、行間の広さだ。
 
-[<img src="/blog/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/blog/uploads/2012/08/CoreTextLabelSample01.png 320w, /blog/uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][2]
+[<img src="/uploads/2012/08/CoreTextLabelSample01.png" alt="" title="CoreTextLabelSample01" width="320" height="480" class="alignnone size-full wp-image-2000" srcset="/uploads/2012/08/CoreTextLabelSample01.png 320w, /blog/uploads/2012/08/CoreTextLabelSample01-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][2]
   
 前回の結果だが、OHAttributedLabel（上）を使うと、通常のUILabel（下）よりも、行間が広くなっている。しかも、OHAttributedLabel（上）の1行目と2行目の間だけ、さらに広くなってしまっている。
 
@@ -118,7 +118,7 @@ CFRelease(aStyle);
 
 これで、以下のように高さが揃うようになる。
   
-[<img src="/blog/uploads/2012/09/20120902b.png" alt="" title="20120902b" width="320" height="480" class="alignnone size-full wp-image-2034" srcset="/blog/uploads/2012/09/20120902b.png 320w, /blog/uploads/2012/09/20120902b-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
+[<img src="/uploads/2012/09/20120902b.png" alt="" title="20120902b" width="320" height="480" class="alignnone size-full wp-image-2034" srcset="/uploads/2012/09/20120902b.png 320w, /blog/uploads/2012/09/20120902b-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
 
 [サンプルダウンロード：CoreTextLabelSample01][6] 
 

@@ -12,7 +12,7 @@ type: post
 url: /20170521.html
 ---
 
-![Vue.js Logo](/blog/uploads/logo/vue.png)
+![Vue.js Logo](/uploads/logo/vue.png)
 
 # Vue.jsとは
 Vue.jsは最近注目されているJavaScriptフレームワーク。シンプルさがうりである。  

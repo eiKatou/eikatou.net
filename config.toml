@@ -1,4 +1,5 @@
 baseURL = "http://eikatou.net/blog/"
+canonifyurls = true
 languageCode = "ja"
 title = "eiKatouの日記"
 paginate = 3

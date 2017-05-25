@@ -10,7 +10,7 @@ tags:
   - Dev
 
 ---
-<img src="/blog/uploads/2012/02/201202_gson_logo.jpg" alt="" title="201202_gson_logo" width="470" height="77" class="alignnone size-full wp-image-697" srcset="/blog/uploads/2012/02/201202_gson_logo.jpg 470w, /blog/uploads/2012/02/201202_gson_logo-300x49.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />
+<img src="/uploads/2012/02/201202_gson_logo.jpg" alt="" title="201202_gson_logo" width="470" height="77" class="alignnone size-full wp-image-697" srcset="/uploads/2012/02/201202_gson_logo.jpg 470w, /blog/uploads/2012/02/201202_gson_logo-300x49.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />
 
 前のAndroidアプリの開発で、JSONデータをJava Objectsに変換したかった。この時にGsonを知った。JSONデータのデシリアライズの方法を紹介する。
 

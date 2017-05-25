@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/blog/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][1]
+[<img src="/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][1]
   
 開発中のアプリ（MyTweet+）を申請した。申請手順が多くて、丸一日ぐらいかかってしまった。「Waiting For Review」ステータスなので、レビュー待ち状態。
 

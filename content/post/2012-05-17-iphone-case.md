@@ -30,7 +30,7 @@ tags:
 
 初めに試したのは、フラットバンパーセット for iPhone4S/4。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517a.jpg" alt="" title="20120517a" width="452" height="286" class="alignnone size-full wp-image-1449" srcset="/blog/uploads/2012/05/20120517a.jpg 452w, /blog/uploads/2012/05/20120517a-300x189.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" />][3] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517a.jpg" alt="" title="20120517a" width="452" height="286" class="alignnone size-full wp-image-1449" srcset="/uploads/2012/05/20120517a.jpg 452w, /blog/uploads/2012/05/20120517a-300x189.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" />][3] 
 
 これはなかなか良かった。バンパーをつけていても、もとのデザインを損なわない。すこし高さがあるため、机に置いたときに少し浮く。机のゴミをつける事がない。
 
@@ -44,7 +44,7 @@ tags:
 
 次に試したのは、eggshell for iPhone 4S/4。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517b.jpg" alt="" title="20120517b" width="327" height="451" class="alignnone size-full wp-image-1448" srcset="/blog/uploads/2012/05/20120517b.jpg 327w, /blog/uploads/2012/05/20120517b-217x300.jpg 217w" sizes="(max-width: 327px) 100vw, 327px" />][4] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517b.jpg" alt="" title="20120517b" width="327" height="451" class="alignnone size-full wp-image-1448" srcset="/uploads/2012/05/20120517b.jpg 327w, /blog/uploads/2012/05/20120517b-217x300.jpg 217w" sizes="(max-width: 327px) 100vw, 327px" />][4] 
 
 こちらは要件を満たしていたので、かなり期待していたのだが、イマイチであった。装着画像がないのは、気に入らなかったため。
 
@@ -52,7 +52,7 @@ tags:
 
 しかし、本体がケースに完全に入らない。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517c.jpg" alt="" title="20120517c" width="452" height="339" class="alignnone size-full wp-image-1447" srcset="/blog/uploads/2012/05/20120517c.jpg 452w, /blog/uploads/2012/05/20120517c-300x225.jpg 300w, /blog/uploads/2012/05/20120517c-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][5]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120517c.jpg" alt="" title="20120517c" width="452" height="339" class="alignnone size-full wp-image-1447" srcset="/uploads/2012/05/20120517c.jpg 452w, /blog/uploads/2012/05/20120517c-300x225.jpg 300w, /blog/uploads/2012/05/20120517c-400x300.jpg 400w" sizes="(max-width: 452px) 100vw, 452px" />][5]
   
 AppBankさんから画像を拝借した。マナーボタンの上の箇所に注目。この引っかけ部分が入らなくて、少し浮いてしまう。これも浮いているように思える・・。ケースが少し小さいのかな。
 

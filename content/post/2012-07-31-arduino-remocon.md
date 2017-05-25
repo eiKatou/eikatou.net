@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/07/Arduino_Sekigaisen_remocon.png" alt="" title="Arduino_Sekigaisen_remocon" width="352" height="352" class="alignnone size-full wp-image-1803" srcset="/blog/uploads/2012/07/Arduino_Sekigaisen_remocon.png 352w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-150x150.png 150w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" />][1]
+[<img src="/uploads/2012/07/Arduino_Sekigaisen_remocon.png" alt="" title="Arduino_Sekigaisen_remocon" width="352" height="352" class="alignnone size-full wp-image-1803" srcset="/uploads/2012/07/Arduino_Sekigaisen_remocon.png 352w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-150x150.png 150w, /blog/uploads/2012/07/Arduino_Sekigaisen_remocon-300x300.png 300w" sizes="(max-width: 352px) 100vw, 352px" />][1]
   
 エアコンの操作を行う。
   
@@ -34,7 +34,7 @@ tags:
   * 赤外線リモコン受信モジュール：OSRB38C9AA （[秋月][6]）
   * 抵抗 47Ω （[秋月][7]）
 
-[<img src="/blog/uploads/2012/07/ReadWrite_Sekigaisen.png" alt="" title="ReadWrite_Sekigaisen" width="325" height="422" class="alignnone size-full wp-image-1798" srcset="/blog/uploads/2012/07/ReadWrite_Sekigaisen.png 325w, /blog/uploads/2012/07/ReadWrite_Sekigaisen-231x300.png 231w" sizes="(max-width: 325px) 100vw, 325px" />][8]
+[<img src="/uploads/2012/07/ReadWrite_Sekigaisen.png" alt="" title="ReadWrite_Sekigaisen" width="325" height="422" class="alignnone size-full wp-image-1798" srcset="/uploads/2012/07/ReadWrite_Sekigaisen.png 325w, /blog/uploads/2012/07/ReadWrite_Sekigaisen-231x300.png 231w" sizes="(max-width: 325px) 100vw, 325px" />][8]
   
 こんな感じで配線を行う。左の黒いのが赤外線受信モジュール。この図では分かりにくいが、こちらを向いている。Arduinoの7番に繋がっている。右の緑色のLEDが赤外LEDだ。Arduinoの2番に繋がっている。
 
@@ -140,7 +140,7 @@ state = HIGH_STATE;
   
 赤外線信号のオンオフの時間（10マイクロ秒単位）が出力される。シリアル出力の速度を&#8221;57600 bps&#8221;に変更して、リモコンを赤外線受信モジュールに近づけて、スイッチを押してみると・・
   
-[<img src="/blog/uploads/2012/07/120731-0001.png" alt="" title="Arduino_Read_Sekigaisen" width="452" height="348" class="alignnone size-full wp-image-1799" srcset="/blog/uploads/2012/07/120731-0001.png 452w, /blog/uploads/2012/07/120731-0001-300x230.png 300w, /blog/uploads/2012/07/120731-0001-389x300.png 389w" sizes="(max-width: 452px) 100vw, 452px" />][9]
+[<img src="/uploads/2012/07/120731-0001.png" alt="" title="Arduino_Read_Sekigaisen" width="452" height="348" class="alignnone size-full wp-image-1799" srcset="/uploads/2012/07/120731-0001.png 452w, /blog/uploads/2012/07/120731-0001-300x230.png 300w, /blog/uploads/2012/07/120731-0001-389x300.png 389w" sizes="(max-width: 452px) 100vw, 452px" />][9]
   
 リモコンの信号が取得できる！ 
 

@@ -10,7 +10,7 @@ tags:
   - Apple
 
 ---
-[<img src="/blog/uploads/2012/08/mac_icon_tyouhuku1.jpg" alt="" title="mac_icon_tyouhuku1" width="452" height="369" class="alignnone size-full wp-image-1977" srcset="/blog/uploads/2012/08/mac_icon_tyouhuku1.jpg 452w, /blog/uploads/2012/08/mac_icon_tyouhuku1-300x244.jpg 300w, /blog/uploads/2012/08/mac_icon_tyouhuku1-367x300.jpg 367w" sizes="(max-width: 452px) 100vw, 452px" />][1]
+[<img src="/uploads/2012/08/mac_icon_tyouhuku1.jpg" alt="" title="mac_icon_tyouhuku1" width="452" height="369" class="alignnone size-full wp-image-1977" srcset="/uploads/2012/08/mac_icon_tyouhuku1.jpg 452w, /blog/uploads/2012/08/mac_icon_tyouhuku1-300x244.jpg 300w, /blog/uploads/2012/08/mac_icon_tyouhuku1-367x300.jpg 367w" sizes="(max-width: 452px) 100vw, 452px" />][1]
   
 前から気になっていた現象。ファイルを右クリックして、「このアプリケーションで開く」を選ぶと、同じアイコンが並んでいる。
 
@@ -30,7 +30,7 @@ $ ./lsregister -kill -r -domain system -domain local -domain user
   
 ターミナルで上記コマンドを打って、再起動すると・・・。 
 
-[<img src="/blog/uploads/2012/08/mac_icon_tyouhuku2.jpg" alt="" title="mac_icon_tyouhuku2" width="452" height="351" class="alignnone size-full wp-image-1976" srcset="/blog/uploads/2012/08/mac_icon_tyouhuku2.jpg 452w, /blog/uploads/2012/08/mac_icon_tyouhuku2-300x232.jpg 300w, /blog/uploads/2012/08/mac_icon_tyouhuku2-386x300.jpg 386w" sizes="(max-width: 452px) 100vw, 452px" />][2]
+[<img src="/uploads/2012/08/mac_icon_tyouhuku2.jpg" alt="" title="mac_icon_tyouhuku2" width="452" height="351" class="alignnone size-full wp-image-1976" srcset="/uploads/2012/08/mac_icon_tyouhuku2.jpg 452w, /blog/uploads/2012/08/mac_icon_tyouhuku2-300x232.jpg 300w, /blog/uploads/2012/08/mac_icon_tyouhuku2-386x300.jpg 386w" sizes="(max-width: 452px) 100vw, 452px" />][2]
   
 解決！ 
 

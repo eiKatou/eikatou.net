@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/08/arduino_remocon_sw1.jpg" alt="" title="arduino_remocon_sw1" width="376" height="451" class="alignnone size-full wp-image-1905" srcset="/blog/uploads/2012/08/arduino_remocon_sw1.jpg 376w, /blog/uploads/2012/08/arduino_remocon_sw1-250x300.jpg 250w" sizes="(max-width: 376px) 100vw, 376px" />][1]
+[<img src="/uploads/2012/08/arduino_remocon_sw1.jpg" alt="" title="arduino_remocon_sw1" width="376" height="451" class="alignnone size-full wp-image-1905" srcset="/uploads/2012/08/arduino_remocon_sw1.jpg 376w, /blog/uploads/2012/08/arduino_remocon_sw1-250x300.jpg 250w" sizes="(max-width: 376px) 100vw, 376px" />][1]
   
 [前回のハードウェア編][2]の続きの内容。ハードウェアが出来たので、ソフトウェアを書き込む。
 

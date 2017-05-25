@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/Evernote.png" alt="" title="Evernote" width="251" height="251" class="alignnone size-full wp-image-1390" srcset="/blog/uploads/2012/05/Evernote.png 251w, /blog/uploads/2012/05/Evernote-150x150.png 150w" sizes="(max-width: 251px) 100vw, 251px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/Evernote.png" alt="" title="Evernote" width="251" height="251" class="alignnone size-full wp-image-1390" srcset="/uploads/2012/05/Evernote.png 251w, /blog/uploads/2012/05/Evernote-150x150.png 150w" sizes="(max-width: 251px) 100vw, 251px" />][1]
   
 Evernoteアプリを作りたいと思った。iPhoneは、Evernote関係アプリが多いため、Evernoteの活用が進み始めた。しかし、自分にぴったりのアプリがない。
 
@@ -69,7 +69,7 @@ Evernoteアプリを作りたいと思った。iPhoneは、Evernote関係アプ�
 
 簡単な画面構成を考えてみた。実現の難易度は不明だが、難しかったら、その場で考え直す作戦とする。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4-270x300.jpg" alt="" title="Evernoteアプリ構成ノート" width="270" height="300" class="alignnone size-medium wp-image-1524" srcset="/blog/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4-270x300.jpg 270w, /blog/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4.jpg 812w" sizes="(max-width: 270px) 100vw, 270px" />][3] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4-270x300.jpg" alt="" title="Evernoteアプリ構成ノート" width="270" height="300" class="alignnone size-medium wp-image-1524" srcset="/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4-270x300.jpg 270w, /blog/uploads/2012/05/7edf0c9dad99f26b8bc92de87abe61e4.jpg 812w" sizes="(max-width: 270px) 100vw, 270px" />][3] 
 
 ## 参考アプリ
 

@@ -13,7 +13,7 @@ tags:
 ---
 Reeder for Macを買った。Reederは、Googleリーダー（RSSリーダー）のクライアントアプリ。人気の理由は、シンプルなデザインと、抜群の操作感だ。
 
-[<img src="/blog/uploads/2011/12/20111214a.jpg" alt="" title="20111214a" width="600" height="425" class="alignnone size-full wp-image-265" srcset="/blog/uploads/2011/12/20111214a.jpg 600w, /blog/uploads/2011/12/20111214a-300x212.jpg 300w, /blog/uploads/2011/12/20111214a-423x300.jpg 423w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img src="/uploads/2011/12/20111214a.jpg" alt="" title="20111214a" width="600" height="425" class="alignnone size-full wp-image-265" srcset="/uploads/2011/12/20111214a.jpg 600w, /blog/uploads/2011/12/20111214a-300x212.jpg 300w, /blog/uploads/2011/12/20111214a-423x300.jpg 423w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 ## Reeder
 

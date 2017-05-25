@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/android-254x300.png" alt="" title="android" width="254" height="300" class="alignnone size-medium wp-image-1224" srcset="/blog/uploads/2012/03/android-254x300.png 254w, /blog/uploads/2012/03/android.png 339w" sizes="(max-width: 254px) 100vw, 254px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/android-254x300.png" alt="" title="android" width="254" height="300" class="alignnone size-medium wp-image-1224" srcset="/uploads/2012/03/android-254x300.png 254w, /blog/uploads/2012/03/android.png 339w" sizes="(max-width: 254px) 100vw, 254px" />][1]
   
 よく、「おすすめの携帯は？」と聞かれる。そういう時は、「iPhone、Galaxyシリーズ、Xperiaシリーズがおすすめ」と言っている。そして、最後に必ず注意するのは「日本製のスマホは止めておけ」。
 

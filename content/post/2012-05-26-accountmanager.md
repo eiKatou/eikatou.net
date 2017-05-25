@@ -76,7 +76,7 @@ e.printStackTrace();
 
 Googleリーダーの情報が取得できた。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120526a-300x80.png" alt="" title="20120526a" width="300" height="80" class="alignnone size-medium wp-image-1513" srcset="/blog/uploads/2012/05/20120526a-300x80.png 300w, /blog/uploads/2012/05/20120526a-1024x273.png 1024w, /blog/uploads/2012/05/20120526a-500x133.png 500w, /blog/uploads/2012/05/20120526a.png 1055w" sizes="(max-width: 300px) 100vw, 300px" />][4] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120526a-300x80.png" alt="" title="20120526a" width="300" height="80" class="alignnone size-medium wp-image-1513" srcset="/uploads/2012/05/20120526a-300x80.png 300w, /blog/uploads/2012/05/20120526a-1024x273.png 1024w, /blog/uploads/2012/05/20120526a-500x133.png 500w, /blog/uploads/2012/05/20120526a.png 1055w" sizes="(max-width: 300px) 100vw, 300px" />][4] 
 
 今回、作ったサンプルのソース。Androidエミュレータで、Googleアカウントを設定してから起動する必要がある。起動後にボタンを押すと、Googleリーダーの情報をLogcatに出力する。
   

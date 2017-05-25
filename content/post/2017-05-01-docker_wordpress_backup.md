@@ -10,7 +10,7 @@ tags:
   - Web
 
 ---
-<img src="/blog/uploads/2017/04/docker_logo.png" alt="" width="600" height="206" class="alignnone size-full wp-image-3338" srcset="/blog/uploads/2017/04/docker_logo.png 600w, /blog/uploads/2017/04/docker_logo-300x103.png 300w, /blog/uploads/2017/04/docker_logo-500x172.png 500w" sizes="(max-width: 600px) 100vw, 600px" />前回、<a href="/blog/3299.html" target="_blank">DockerでWordPress環境を構築</a>した。Dockerは現在も開発が続いており、やや不安定なソフトウェアという印象がある。そういう事情もあり、Docker内のWordPress環境のデータをバックアップ＆リストアできるようにしておく。
+<img src="/uploads/2017/04/docker_logo.png" alt="" width="600" height="206" class="alignnone size-full wp-image-3338" srcset="/uploads/2017/04/docker_logo.png 600w, /blog/uploads/2017/04/docker_logo-300x103.png 300w, /blog/uploads/2017/04/docker_logo-500x172.png 500w" sizes="(max-width: 600px) 100vw, 600px" />前回、<a href="/blog/3299.html" target="_blank">DockerでWordPress環境を構築</a>した。Dockerは現在も開発が続いており、やや不安定なソフトウェアという印象がある。そういう事情もあり、Docker内のWordPress環境のデータをバックアップ＆リストアできるようにしておく。
 
 ・参考：<a href="https://docs.docker.com/engine/tutorials/dockervolumes/" target="_blank">Manage data in containers</a> 
 
@@ -112,8 +112,8 @@ Volumeのデータをリストアするときも同じで、コンテナを作�
 
 今後、主流となっていくであろう2つの技術（AWSとDocker）を利用して、WordPressのブログを安く維持できる仕組みを構築した。今後、AWSはさらに便利に安くなっていくだろうし、勉強する価値がある。また、Dockerの動向も目が離せない。
   
-・<a href="/blog/3247.html" target="_blank">WordPressのブログをAWS S3で公開する</a>
+・<a href="./3247.html" target="_blank">WordPressのブログをAWS S3で公開する</a>
   
-・<a href="/blog/3299.html" target="_blank">DockerでWordPress環境を構築する</a>
+・<a href="./3299.html" target="_blank">DockerでWordPress環境を構築する</a>
   
-・<a href="/blog/3350.html" target="_blank">Docker上のWordPressデータのバックアップ＆リストア</a>
+・<a href="./3350.html" target="_blank">Docker上のWordPressデータのバックアップ＆リストア</a>

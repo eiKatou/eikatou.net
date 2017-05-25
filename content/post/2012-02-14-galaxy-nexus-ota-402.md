@@ -12,13 +12,13 @@ tags:
 ---
 私のGalaxy Nexusにも、OTAアップデートがやってきた。
 
-[<img src="/blog/uploads/2012/02/201202_OTA2-168x300.jpg" alt="" title="201202_OTA2" width="168" height="300" class="alignnone size-medium wp-image-592" srcset="/blog/uploads/2012/02/201202_OTA2-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA2.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][1]
+[<img src="/uploads/2012/02/201202_OTA2-168x300.jpg" alt="" title="201202_OTA2" width="168" height="300" class="alignnone size-medium wp-image-592" srcset="/uploads/2012/02/201202_OTA2-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA2.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][1]
   
 <!--more-->
 
 アップデートの通知。
 
-[<img src="/blog/uploads/2012/02/201202_OTA1-168x300.jpg" alt="" title="201202_OTA1" width="168" height="300" class="alignleft size-medium wp-image-599" srcset="/blog/uploads/2012/02/201202_OTA1-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA1.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][2][<img src="/blog/uploads/2012/02/201202_OTA4-168x300.jpg" alt="" title="201202_OTA4" width="168" height="300" class="alignnone size-medium wp-image-594" srcset="/blog/uploads/2012/02/201202_OTA4-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA4.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][3]<br clear="left" />
+[<img src="/uploads/2012/02/201202_OTA1-168x300.jpg" alt="" title="201202_OTA1" width="168" height="300" class="alignleft size-medium wp-image-599" srcset="/uploads/2012/02/201202_OTA1-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA1.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][2][<img src="/uploads/2012/02/201202_OTA4-168x300.jpg" alt="" title="201202_OTA4" width="168" height="300" class="alignnone size-medium wp-image-594" srcset="/uploads/2012/02/201202_OTA4-168x300.jpg 168w, /blog/uploads/2012/02/201202_OTA4.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][3]<br clear="left" />
   
 更新前と更新後。4.0.1から4.0.2に更新された。
   
@@ -28,7 +28,7 @@ tags:
 
 ちなみに、更新中に表示されるドロイド君も新しくなっていた。お腹の光っている枠が回るアニメーション。こういう点も大切。
 
-[<img src="/blog/uploads/2012/02/201202_OTA3-213x300.jpg" alt="" title="201202_OTA3" width="213" height="300" class="alignnone size-medium wp-image-593" srcset="/blog/uploads/2012/02/201202_OTA3-213x300.jpg 213w, /blog/uploads/2012/02/201202_OTA3.jpg 400w" sizes="(max-width: 213px) 100vw, 213px" />][4]
+[<img src="/uploads/2012/02/201202_OTA3-213x300.jpg" alt="" title="201202_OTA3" width="213" height="300" class="alignnone size-medium wp-image-593" srcset="/uploads/2012/02/201202_OTA3-213x300.jpg 213w, /blog/uploads/2012/02/201202_OTA3.jpg 400w" sizes="(max-width: 213px) 100vw, 213px" />][4]
 
  [1]: /blog/uploads/2012/02/201202_OTA2.jpg
  [2]: /blog/uploads/2012/02/201202_OTA1.jpg

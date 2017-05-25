@@ -11,7 +11,7 @@ tags:
   - 読書
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/Evernote.png" alt="" title="Evernote" width="251" height="251" class="alignnone size-full wp-image-1390" srcset="/blog/uploads/2012/05/Evernote.png 251w, /blog/uploads/2012/05/Evernote-150x150.png 150w" sizes="(max-width: 251px) 100vw, 251px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/Evernote.png" alt="" title="Evernote" width="251" height="251" class="alignnone size-full wp-image-1390" srcset="/uploads/2012/05/Evernote.png 251w, /blog/uploads/2012/05/Evernote-150x150.png 150w" sizes="(max-width: 251px) 100vw, 251px" />][1]
 
 ここ1年ぐらい、Evernoteを使い続けている。私が気に入っているEvernoteの使い方を紹介しようと思う。
 
@@ -33,7 +33,7 @@ tags:
 
 まずは、対象のページを写真で撮る。電子書籍を読んでいる場合は、スクリーンショット。（内容をコピペできる場合は、そのままEvernoteに入れたらOK）
 
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508b-225x300.jpg" alt="" title="20120508b" width="225" height="300" class="alignnone size-medium wp-image-1397" srcset="/blog/uploads/2012/05/20120508b-225x300.jpg 225w, /blog/uploads/2012/05/20120508b.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][2]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508b-225x300.jpg" alt="" title="20120508b" width="225" height="300" class="alignnone size-medium wp-image-1397" srcset="/uploads/2012/05/20120508b-225x300.jpg 225w, /blog/uploads/2012/05/20120508b.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][2]
   
 iPadで電子書籍を読んでいたので、スクリーンショットを取った。
 
@@ -41,7 +41,7 @@ iPadで電子書籍を読んでいたので、スクリーンショットを取�
 
 Skitchを起動して、撮った写真を開く。良かった箇所をマークする。
 
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508a-225x300.jpg" alt="" title="20120508a" width="225" height="300" class="alignnone size-medium wp-image-1398" srcset="/blog/uploads/2012/05/20120508a-225x300.jpg 225w, /blog/uploads/2012/05/20120508a.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][3]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508a-225x300.jpg" alt="" title="20120508a" width="225" height="300" class="alignnone size-medium wp-image-1398" srcset="/uploads/2012/05/20120508a-225x300.jpg 225w, /blog/uploads/2012/05/20120508a.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][3]
   
 今回は緑色で囲ってみた。
 
@@ -49,7 +49,7 @@ Skitchを起動して、撮った写真を開く。良かった箇所をマー�
 
 最後は、Evernoteに送信して完了。
 
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508c-225x300.jpg" alt="" title="20120508c" width="225" height="300" class="alignnone size-medium wp-image-1396" srcset="/blog/uploads/2012/05/20120508c-225x300.jpg 225w, /blog/uploads/2012/05/20120508c.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][4]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120508c-225x300.jpg" alt="" title="20120508c" width="225" height="300" class="alignnone size-medium wp-image-1396" srcset="/uploads/2012/05/20120508c-225x300.jpg 225w, /blog/uploads/2012/05/20120508c.jpg 451w" sizes="(max-width: 225px) 100vw, 225px" />][4]
   
 Evernoteに取り込み後。
 

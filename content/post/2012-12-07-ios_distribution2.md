@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/12/201207a.png" alt="" title="201207a" width="455" height="215" class="alignnone size-full wp-image-2191" srcset="/blog/uploads/2012/12/201207a.png 455w, /blog/uploads/2012/12/201207a-300x141.png 300w" sizes="(max-width: 455px) 100vw, 455px" />][1]
+[<img src="/uploads/2012/12/201207a.png" alt="" title="201207a" width="455" height="215" class="alignnone size-full wp-image-2191" srcset="/uploads/2012/12/201207a.png 455w, /blog/uploads/2012/12/201207a-300x141.png 300w" sizes="(max-width: 455px) 100vw, 455px" />][1]
   
 以前に申請していたアプリだが、見事にリジェクトされてしまった。予想通りだけど、少し凹む・・。
 
@@ -62,7 +62,7 @@ xattrコマンドでファイルの属性を見ると、バックアップ対象
 
 ## 再申請
 
-[<img src="/blog/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/blog/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][8]
+[<img src="/uploads/2012/11/121125-0011.png" alt="" title="121125-0011" width="466" height="235" class="alignnone size-full wp-image-2110" srcset="/uploads/2012/11/121125-0011.png 466w, /blog/uploads/2012/11/121125-0011-300x151.png 300w" sizes="(max-width: 466px) 100vw, 466px" />][8]
   
 再度、バイナリをアップロードして、「Waiting For Review」ステータスになった。また、リジェクトになる気がするなぁ・・。
 

@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120503b.png" alt="" title="20120503b" width="453" height="224" class="alignnone size-full wp-image-1366" srcset="/blog/uploads/2012/05/20120503b.png 453w, /blog/uploads/2012/05/20120503b-300x148.png 300w" sizes="(max-width: 453px) 100vw, 453px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120503b.png" alt="" title="20120503b" width="453" height="224" class="alignnone size-full wp-image-1366" srcset="/uploads/2012/05/20120503b.png 453w, /blog/uploads/2012/05/20120503b-300x148.png 300w" sizes="(max-width: 453px) 100vw, 453px" />][1]
   
 先日、梅田駅の中にあるレトルトカレー専門店「ウメダ カレーコレクション」に行ってきた。
 
@@ -22,7 +22,7 @@ tags:
 
 買ったのは、この３つ。ちょっと高い。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120503a.png" alt="" title="20120503a" width="453" height="196" class="alignnone size-full wp-image-1365" srcset="/blog/uploads/2012/05/20120503a.png 453w, /blog/uploads/2012/05/20120503a-300x129.png 300w" sizes="(max-width: 453px) 100vw, 453px" />][2]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120503a.png" alt="" title="20120503a" width="453" height="196" class="alignnone size-full wp-image-1365" srcset="/uploads/2012/05/20120503a.png 453w, /blog/uploads/2012/05/20120503a-300x129.png 300w" sizes="(max-width: 453px) 100vw, 453px" />][2]
 
   * よこすか開国 ペリーカレー：400円
   * ウッドアイランド 海軍カレー：460円

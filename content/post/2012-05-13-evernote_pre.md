@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120513a.jpg" alt="" title="20120513a" width="320" height="480" class="alignnone size-full wp-image-1433" srcset="/blog/uploads/2012/05/20120513a.jpg 320w, /blog/uploads/2012/05/20120513a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120513a.jpg" alt="" title="20120513a" width="320" height="480" class="alignnone size-full wp-image-1433" srcset="/uploads/2012/05/20120513a.jpg 320w, /blog/uploads/2012/05/20120513a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
   
 Evernoteのプレミアム会員（1ヵ月限定）になった。月のアップロード容量が60MBでは足りなくなってしまったからだ。プレミアム会員になる事で、毎月の容量が1GBまで増やすことが出来る。これでアップロードし放題だ。
 

@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/appbankstore.jpg" alt="" title="appbankstore" width="400" height="456" class="alignnone size-full wp-image-1564" srcset="/blog/uploads/2012/06/appbankstore.jpg 400w, /blog/uploads/2012/06/appbankstore-263x300.jpg 263w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/appbankstore.jpg" alt="" title="appbankstore" width="400" height="456" class="alignnone size-full wp-image-1564" srcset="/uploads/2012/06/appbankstore.jpg 400w, /blog/uploads/2012/06/appbankstore-263x300.jpg 263w" sizes="(max-width: 400px) 100vw, 400px" />][1]
   
 AppBank Store心斎橋店に行ってきた！
 

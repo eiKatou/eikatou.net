@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/blog/uploads/2012/08/201208_senbacurry.jpg" alt="" title="201208_senbacurry" width="602" height="525" class="alignnone size-full wp-image-1962" srcset="/blog/uploads/2012/08/201208_senbacurry.jpg 602w, /blog/uploads/2012/08/201208_senbacurry-300x261.jpg 300w, /blog/uploads/2012/08/201208_senbacurry-344x300.jpg 344w" sizes="(max-width: 602px) 100vw, 602px" />][1]
+[<img src="/uploads/2012/08/201208_senbacurry.jpg" alt="" title="201208_senbacurry" width="602" height="525" class="alignnone size-full wp-image-1962" srcset="/uploads/2012/08/201208_senbacurry.jpg 602w, /blog/uploads/2012/08/201208_senbacurry-300x261.jpg 300w, /blog/uploads/2012/08/201208_senbacurry-344x300.jpg 344w" sizes="(max-width: 602px) 100vw, 602px" />][1]
   
 [船場カリー][2]は、関西で展開しているカレー屋さん。この夏休みを利用して、初めて食べてきた。
 

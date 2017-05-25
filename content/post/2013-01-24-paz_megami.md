@@ -21,7 +21,7 @@ AppBankの攻略も参考になる。
 １回目の挑戦。メンバーは、こんな感じ。
   
 
-<img src="/blog/uploads/2013/01/IMG_1330.jpg" alt="IMG_1330" width="320" height="480" class="alignnone size-full wp-image-2528" srcset="/blog/uploads/2013/01/IMG_1330.jpg 320w, /blog/uploads/2013/01/IMG_1330-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /> 
+<img src="/uploads/2013/01/IMG_1330.jpg" alt="IMG_1330" width="320" height="480" class="alignnone size-full wp-image-2528" srcset="/uploads/2013/01/IMG_1330.jpg 320w, /blog/uploads/2013/01/IMG_1330-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /> 
 
 いろいろと試行錯誤しながら、敵キャラのデータを手に入れた。
   
@@ -47,31 +47,31 @@ AppBankの攻略も参考になる。
 
 ### 出陣
 
-<img src="/blog/uploads/2013/01/IMG_1340.jpg" alt="IMG_1340" width="320" height="480" class="alignnone size-full wp-image-2529" srcset="/blog/uploads/2013/01/IMG_1340.jpg 320w, /blog/uploads/2013/01/IMG_1340-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1340.jpg" alt="IMG_1340" width="320" height="480" class="alignnone size-full wp-image-2529" srcset="/uploads/2013/01/IMG_1340.jpg 320w, /blog/uploads/2013/01/IMG_1340-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 メンバーを変更。ロキを外して、ヘラを投入。 
 
 ### １階
 
-<img src="/blog/uploads/2013/01/IMG_1341.jpg" alt="IMG_1341" width="320" height="480" class="alignnone size-full wp-image-2530" srcset="/blog/uploads/2013/01/IMG_1341.jpg 320w, /blog/uploads/2013/01/IMG_1341-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1341.jpg" alt="IMG_1341" width="320" height="480" class="alignnone size-full wp-image-2530" srcset="/uploads/2013/01/IMG_1341.jpg 320w, /blog/uploads/2013/01/IMG_1341-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 作戦通り、一撃で掃討。
 
 ### ２階
 
-<img src="/blog/uploads/2013/01/IMG_1342.jpg" alt="IMG_1342" width="320" height="480" class="alignnone size-full wp-image-2531" srcset="/blog/uploads/2013/01/IMG_1342.jpg 320w, /blog/uploads/2013/01/IMG_1342-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1342.jpg" alt="IMG_1342" width="320" height="480" class="alignnone size-full wp-image-2531" srcset="/uploads/2013/01/IMG_1342.jpg 320w, /blog/uploads/2013/01/IMG_1342-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 左の３体が倒せずに、１回コンティニュー。エキドナのスキルは溜まっていなかったけど、ほぼ作戦通り。威嚇発動まで２ターン残。
 
 ### ３階
 
-<img src="/blog/uploads/2013/01/IMG_1344.jpg" alt="IMG_1344" width="320" height="480" class="alignnone size-full wp-image-2532" srcset="/blog/uploads/2013/01/IMG_1344.jpg 320w, /blog/uploads/2013/01/IMG_1344-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1344.jpg" alt="IMG_1344" width="320" height="480" class="alignnone size-full wp-image-2532" srcset="/uploads/2013/01/IMG_1344.jpg 320w, /blog/uploads/2013/01/IMG_1344-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 予定通り威嚇を使って、残り２割まで削った。ここでエキドナのスキルを溜める！ということで、ターンを消費していたら、回復しきれなかった。１回コンティニュー。その後、スキルを溜め続ける作業のはずだったのだが、途中で倒してしまった・・。
 
 ### ４階
 
-<img src="/blog/uploads/2013/01/IMG_1346.jpg" alt="IMG_1346" width="320" height="480" class="alignnone size-full wp-image-2533" srcset="/blog/uploads/2013/01/IMG_1346.jpg 320w, /blog/uploads/2013/01/IMG_1346-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1346.jpg" alt="IMG_1346" width="320" height="480" class="alignnone size-full wp-image-2533" srcset="/uploads/2013/01/IMG_1346.jpg 320w, /blog/uploads/2013/01/IMG_1346-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 エキドナの威嚇まで、あと９ターン。ここからが悲惨だった。マイターン攻撃に耐えられず、コンティニューを連発。ここを突破するのに、合計１０回のコンティニューとなった。
   
@@ -79,7 +79,7 @@ AppBankの攻略も参考になる。
 
 ### ５階
 
-<img src="/blog/uploads/2013/01/IMG_1353.jpg" alt="IMG_1353" width="320" height="480" class="alignnone size-full wp-image-2534" srcset="/blog/uploads/2013/01/IMG_1353.jpg 320w, /blog/uploads/2013/01/IMG_1353-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1353.jpg" alt="IMG_1353" width="320" height="480" class="alignnone size-full wp-image-2534" srcset="/uploads/2013/01/IMG_1353.jpg 320w, /blog/uploads/2013/01/IMG_1353-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
   
 ついにヴァルキリー！
 
@@ -87,7 +87,7 @@ AppBankの攻略も参考になる。
 
 ### クリアー
 
-<img src="/blog/uploads/2013/01/IMG_1355.jpg" alt="IMG_1355" width="320" height="480" class="alignnone size-full wp-image-2535" srcset="/blog/uploads/2013/01/IMG_1355.jpg 320w, /blog/uploads/2013/01/IMG_1355-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /><img src="/blog/uploads/2013/01/IMG_1356.jpg" alt="IMG_1356" width="320" height="480" class="alignnone size-full wp-image-2536" srcset="/blog/uploads/2013/01/IMG_1356.jpg 320w, /blog/uploads/2013/01/IMG_1356-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/IMG_1355.jpg" alt="IMG_1355" width="320" height="480" class="alignnone size-full wp-image-2535" srcset="/uploads/2013/01/IMG_1355.jpg 320w, /blog/uploads/2013/01/IMG_1355-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /><img src="/uploads/2013/01/IMG_1356.jpg" alt="IMG_1356" width="320" height="480" class="alignnone size-full wp-image-2536" srcset="/uploads/2013/01/IMG_1356.jpg 320w, /blog/uploads/2013/01/IMG_1356-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />
 
 ## 感想
 

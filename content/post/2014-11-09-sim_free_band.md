@@ -10,7 +10,7 @@ tags:
   - Android
 
 ---
-[<img src="/blog/uploads/2014/11/141109-0001.jpg" alt="141109-0001" width="709" height="314" class="alignnone size-full wp-image-3175" srcset="/blog/uploads/2014/11/141109-0001.jpg 709w, /blog/uploads/2014/11/141109-0001-300x132.jpg 300w, /blog/uploads/2014/11/141109-0001-500x221.jpg 500w" sizes="(max-width: 709px) 100vw, 709px" />][1]
+[<img src="/uploads/2014/11/141109-0001.jpg" alt="141109-0001" width="709" height="314" class="alignnone size-full wp-image-3175" srcset="/uploads/2014/11/141109-0001.jpg 709w, /blog/uploads/2014/11/141109-0001-300x132.jpg 300w, /blog/uploads/2014/11/141109-0001-500x221.jpg 500w" sizes="(max-width: 709px) 100vw, 709px" />][1]
 
 SIMフリーのスマホを買うときは、対応バンドを確認しておいた方が良いことを知りました。今まで、「使えたらいいか」といった感じでしたが、気になったので調べてみました。
 

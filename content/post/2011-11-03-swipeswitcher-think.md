@@ -12,7 +12,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2011/11/icon.png" alt="" title="icon" width="72" height="72" class="alignnone size-full wp-image-168" />][1]
+[<img src="/uploads/2011/11/icon.png" alt="" title="icon" width="72" height="72" class="alignnone size-full wp-image-168" />][1]
 
 SwipeSwitcherを作った理由を説明する。
   

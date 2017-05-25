@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/blog/uploads/2012/08/tactswitch1.jpg" alt="" title="tactswitch1" width="450" height="338" class="alignnone size-full wp-image-1824" />][1]
+[<img src="/uploads/2012/08/tactswitch1.jpg" alt="" title="tactswitch1" width="450" height="338" class="alignnone size-full wp-image-1824" />][1]
   
 今日は、タクトスイッチでユーザの入力を取得できるようにした。タクトスイッチは、押すと回路が繋がるスイッチ。Arduinoと繋げて、タクトスイッチが押されている間は、LEDを光らせるようなプログラムを書いた。
 
@@ -21,7 +21,7 @@ tags:
 
 まずは配線する。プルアップ抵抗をいれる（参考：[センサ道場 第４回 「プルアップ・プルダウン抵抗」][2]）。
   
-[<img src="/blog/uploads/2012/08/tactSwitch.jpg" alt="" title="tactSwitch" width="290" height="344" class="alignnone size-full wp-image-1822" />][3] 
+[<img src="/uploads/2012/08/tactSwitch.jpg" alt="" title="tactSwitch" width="290" height="344" class="alignnone size-full wp-image-1822" />][3] 
 
 読み取りは２番ピンを使用した。ほぼ、サンプルのままなんだけど・・・
   
@@ -71,7 +71,7 @@ digitalWrite(ledPin, LOW);
 
 間違って配線してしまっていた。4本足の差し方は、こう写真のように！
   
-[<img src="/blog/uploads/2012/08/tactswitch2.jpg" alt="" title="tactswitch2" width="400" height="400" class="alignnone size-full wp-image-1823" />][4] 
+[<img src="/uploads/2012/08/tactswitch2.jpg" alt="" title="tactswitch2" width="400" height="400" class="alignnone size-full wp-image-1823" />][4] 
 
 * * *
 

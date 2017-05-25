@@ -11,7 +11,7 @@ tags:
   - Web
 
 ---
-<img src="/blog/uploads/2012/02/rss-info.png" alt="" title="RSSの登録" width="484" height="86" class="alignnone size-full wp-image-776" srcset="/blog/uploads/2012/02/rss-info.png 484w, /blog/uploads/2012/02/rss-info-300x53.png 300w" sizes="(max-width: 484px) 100vw, 484px" />
+<img src="/uploads/2012/02/rss-info.png" alt="" title="RSSの登録" width="484" height="86" class="alignnone size-full wp-image-776" srcset="/uploads/2012/02/rss-info.png 484w, /blog/uploads/2012/02/rss-info-300x53.png 300w" sizes="(max-width: 484px) 100vw, 484px" />
 
 「RSS登録はこちら」といった形で登録を促しているブログがある。Wordpressのプラグインかな、と思っていたが、見つからない。Google先生に聞いても、なかなか分からない。
 
@@ -25,7 +25,7 @@ tags:
 
 ## RSS画像
 
-[<img src="/blog/uploads/2012/02/201202_wprss-300x287.jpg" alt="" title="201202_wprss" width="300" height="287" class="alignnone size-medium wp-image-828" srcset="/blog/uploads/2012/02/201202_wprss-300x287.jpg 300w, /blog/uploads/2012/02/201202_wprss-313x300.jpg 313w, /blog/uploads/2012/02/201202_wprss.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="/uploads/2012/02/201202_wprss-300x287.jpg" alt="" title="201202_wprss" width="300" height="287" class="alignnone size-medium wp-image-828" srcset="/uploads/2012/02/201202_wprss-300x287.jpg 300w, /blog/uploads/2012/02/201202_wprss-313x300.jpg 313w, /blog/uploads/2012/02/201202_wprss.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />][1]
   
 まずは、RSSのアイコン画像が必要。
   
@@ -44,7 +44,7 @@ tags:
   
 普通のフォントではなく、かわいいフォントを使いたい。[フリーフォントで簡単ロゴ作成][6]を使うと、簡単にロゴの作成ができる。
 
-[<img src="/blog/uploads/2012/02/201202_fontlogo.jpg" alt="" title="201202_fontlogo" width="400" height="278" class="alignnone size-full wp-image-814" srcset="/blog/uploads/2012/02/201202_fontlogo.jpg 400w, /blog/uploads/2012/02/201202_fontlogo-300x208.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][7]
+[<img src="/uploads/2012/02/201202_fontlogo.jpg" alt="" title="201202_fontlogo" width="400" height="278" class="alignnone size-full wp-image-814" srcset="/uploads/2012/02/201202_fontlogo.jpg 400w, /blog/uploads/2012/02/201202_fontlogo-300x208.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][7]
   
 こんな感じで、お手軽にロゴが作成できる。 
 
@@ -66,7 +66,7 @@ WordPressへの組み込みは、テーマを編集する。
   
 <a href="<?php bloginfo(&#8216;rss2\_url&#8217;); ?>" title="<?php \_e(&#8216;Syndicate this site using RSS&#8217;); ?>">
   
-<img style="max-width: 97.5%;" src="/blog/uploads/2012/02/rss-info.png" alt="RSSを登録する" title="RSSを登録する" />
+<img style="max-width: 97.5%;" src="/uploads/2012/02/rss-info.png" alt="RSSを登録する" title="RSSを登録する" />
   
 </a>
   

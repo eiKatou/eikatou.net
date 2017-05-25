@@ -37,7 +37,7 @@ SuperIcon 1.0のリリースからの改善は以下になります。
 
 Iconfinderのアイコンをお気に入りにいれたところ。
   
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120501a.png" alt="" title="20120501a" width="360" height="640" class="alignnone size-full wp-image-1357" srcset="/blog/uploads/2012/05/20120501a.png 360w, /blog/uploads/2012/05/20120501a-168x300.png 168w" sizes="(max-width: 360px) 100vw, 360px" />][4] 
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120501a.png" alt="" title="20120501a" width="360" height="640" class="alignnone size-full wp-image-1357" srcset="/uploads/2012/05/20120501a.png 360w, /blog/uploads/2012/05/20120501a-168x300.png 168w" sizes="(max-width: 360px) 100vw, 360px" />][4] 
 
 # ダウンロード
 

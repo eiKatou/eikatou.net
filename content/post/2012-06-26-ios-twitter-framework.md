@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/20120626a.png" alt="" title="20120626a" width="509" height="352" class="alignnone size-full wp-image-1584" srcset="/blog/uploads/2012/06/20120626a.png 509w, /blog/uploads/2012/06/20120626a-300x207.png 300w, /blog/uploads/2012/06/20120626a-433x300.png 433w" sizes="(max-width: 509px) 100vw, 509px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/20120626a.png" alt="" title="20120626a" width="509" height="352" class="alignnone size-full wp-image-1584" srcset="/uploads/2012/06/20120626a.png 509w, /blog/uploads/2012/06/20120626a-300x207.png 300w, /blog/uploads/2012/06/20120626a-433x300.png 433w" sizes="(max-width: 509px) 100vw, 509px" />][1]
   
 iOS Twitter frameworkを使って、Twitterの情報を取得する。
 

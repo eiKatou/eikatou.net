@@ -10,7 +10,7 @@ tags:
   - 読書
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_1.jpg" alt="" title="201203_wired3_1" width="400" height="300" class="alignnone size-full wp-image-1182" srcset="/blog/uploads/2012/03/201203_wired3_1.jpg 400w, /blog/uploads/2012/03/201203_wired3_1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_1.jpg" alt="" title="201203_wired3_1" width="400" height="300" class="alignnone size-full wp-image-1182" srcset="/uploads/2012/03/201203_wired3_1.jpg 400w, /blog/uploads/2012/03/201203_wired3_1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
   
 WIRED Vol.3が発売された。
   
@@ -29,7 +29,7 @@ Vol.3では「破壊者たちの新たなビジネス革命」特集で、
 
 のインタビュー記事がある。とても興味深い。 
 
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_2.jpg" alt="" title="201203_wired3_2.JPG" width="400" height="300" class="alignnone size-full wp-image-1181" srcset="/blog/uploads/2012/03/201203_wired3_2.jpg 400w, /blog/uploads/2012/03/201203_wired3_2-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_2.jpg" alt="" title="201203_wired3_2.JPG" width="400" height="300" class="alignnone size-full wp-image-1181" srcset="/uploads/2012/03/201203_wired3_2.jpg 400w, /blog/uploads/2012/03/201203_wired3_2-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
   
 テクノロジーに興味がある人に、真にお勧めできる。興味が出た人は、近くの本屋で売っているので、探しにいこう。
 
@@ -37,7 +37,7 @@ Vol.3では「破壊者たちの新たなビジネス革命」特集で、
 
 雑誌はAmazonでも買える☞
   
-[[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_1.jpg" alt="" title="201203_wired3_1" width="400" height="300" class="alignnone size-full wp-image-1182" srcset="/blog/uploads/2012/03/201203_wired3_1.jpg 400w, /blog/uploads/2012/03/201203_wired3_1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+[[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_1.jpg" alt="" title="201203_wired3_1" width="400" height="300" class="alignnone size-full wp-image-1182" srcset="/uploads/2012/03/201203_wired3_1.jpg 400w, /blog/uploads/2012/03/201203_wired3_1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
   
 WIRED Vol.3が発売された。
   
@@ -56,7 +56,7 @@ Vol.3では「破壊者たちの新たなビジネス革命」特集で、
 
 のインタビュー記事がある。とても興味深い。 
 
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_2.jpg" alt="" title="201203_wired3_2.JPG" width="400" height="300" class="alignnone size-full wp-image-1181" srcset="/blog/uploads/2012/03/201203_wired3_2.jpg 400w, /blog/uploads/2012/03/201203_wired3_2-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/201203_wired3_2.jpg" alt="" title="201203_wired3_2.JPG" width="400" height="300" class="alignnone size-full wp-image-1181" srcset="/uploads/2012/03/201203_wired3_2.jpg 400w, /blog/uploads/2012/03/201203_wired3_2-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
   
 テクノロジーに興味がある人に、真にお勧めできる。興味が出た人は、近くの本屋で売っているので、探しにいこう。
 

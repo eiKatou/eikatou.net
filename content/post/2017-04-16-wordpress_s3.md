@@ -114,7 +114,7 @@ AWS Route 53の設定については、公式ドキュメントに記載があ�
 
 エリアスレコードを追加するときは、作成したS3のバケットが出てくるので、それを選択すること。
   
-[<img src="/blog/uploads/2017/04/170415-0004_2.jpg" alt="" width="800" height="593" class="alignnone size-full wp-image-3262" srcset="/blog/uploads/2017/04/170415-0004_2.jpg 800w, /blog/uploads/2017/04/170415-0004_2-300x222.jpg 300w, /blog/uploads/2017/04/170415-0004_2-768x569.jpg 768w, /blog/uploads/2017/04/170415-0004_2-405x300.jpg 405w" sizes="(max-width: 800px) 100vw, 800px" />][1] 
+[<img src="/uploads/2017/04/170415-0004_2.jpg" alt="" width="800" height="593" class="alignnone size-full wp-image-3262" srcset="/uploads/2017/04/170415-0004_2.jpg 800w, /blog/uploads/2017/04/170415-0004_2-300x222.jpg 300w, /blog/uploads/2017/04/170415-0004_2-768x569.jpg 768w, /blog/uploads/2017/04/170415-0004_2-405x300.jpg 405w" sizes="(max-width: 800px) 100vw, 800px" />][1] 
 
 最後に、ムームードメインのネームサーバの設定を変更する。ここには、Route53のType「NS」レコードのサーバを設定する。
   
@@ -124,6 +124,6 @@ AWS Route 53の設定については、公式ドキュメントに記載があ�
 
 ドメインでアクセスして、ブログが見えていることを確認した。
 
-<a href="/blog/3299.html" target="_blank">DockerでWordPress環境を構築する</a>に続く。
+<a href="./3299.html" target="_blank">DockerでWordPress環境を構築する</a>に続く。
 
  [1]: /blog/uploads/2017/04/170415-0004_2.jpg
