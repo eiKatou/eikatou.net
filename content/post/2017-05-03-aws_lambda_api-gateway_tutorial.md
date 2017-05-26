@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-<img src="/uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg" alt="" width="300" height="113" class="alignnone size-medium wp-image-3412" srcset="/uploads/2017/05/AmazonWebservices_Logo600-300x113.jpg 300w, /blog/uploads/2017/05/AmazonWebservices_Logo600-500x188.jpg 500w, /blog/uploads/2017/05/AmazonWebservices_Logo600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
+![AWS Logo](/uploads/logo/aws.jpg)
   
 AWSのLambdaのチュートリアルを試している。今回は、<a href="http://docs.aws.amazon.com/ja_jp/lambda/latest/dg/with-on-demand-https-example.html" target="_blank">Amazon API Gateway での AWS Lambda の使用 (オンデマンド HTTPS 経由) &#8211; AWS Lambda</a>をやってみた。意外とひっかかりまくったので、その記録。
 
