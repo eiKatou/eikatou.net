@@ -14,6 +14,9 @@ echo "Backup"
 cd ${WWW_DIR}
 mv ${WWW_PUBLIC}/blog ${WWW_DIR}/blog_`date +%Y%m%d_%I%M%S`
 
+# 4世代以上前を削除（3世代を残す）
+ls -dt blog* | tail +4 | xargs rm -rf
+
 # copy
 echo "Copy blog"
 cp -r ${BLOG_SOURCE_DIR}/public ${WWW_PUBLIC}/blog
