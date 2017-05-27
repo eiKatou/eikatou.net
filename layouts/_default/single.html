@@ -6,6 +6,18 @@
         {{ .Content }}
       </article>
 
+      {{ if .Params.tags }}
+      <div class="post-heading" style="padding:20px 0px">
+        <!--<span style="font-weight: 800;font-size: 14px;">Tags&nbsp;&nbsp;</span>-->
+        <span class="post-preview post-meta">
+          Tags&nbsp;
+        {{ range .Params.tags }}
+          #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
+        {{ end }}
+        </span>
+      </div>
+      {{ end }}
+
       <ul class="pager blog-pager">
         {{ if .PrevInSection }}
           <li class="previous">
