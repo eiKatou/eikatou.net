@@ -54,18 +54,8 @@ tags:
 
 [<img src="/uploads/2012/08/arduino_remocon_kansei2.jpg" alt="" title="arduino_remocon_kansei2" width="301" height="451" class="alignnone size-full wp-image-1903" srcset="/uploads/2012/08/arduino_remocon_kansei2.jpg 301w, /blog/uploads/2012/08/arduino_remocon_kansei2-200x300.jpg 200w" sizes="(max-width: 301px) 100vw, 301px" />][2]
   
-Dropboxの中の設定ファイルを書き換えるために、iPhone用アプリをインストール。「PlainText」フォルダの中しか同期できないのが残念だが、無料なのでコレにした。
+Dropboxの中の設定ファイルを書き換えるために、iPhone用アプリをインストール。「PlainText」フォルダの中しか同期できないのが残念だが、無料なので「PlainText」にした。
 
-<div class="sticky-itslink">
-  <a href="http://itunes.apple.com/jp/app/plaintext-dropbox-text-editing/id391254385?mt=8&#038;uo=4" rel="nofollow" target="_blank"><img src="http://a1.mzstatic.com/us/r1000/084/Purple/v4/ad/71/11/ad711158-4aec-36ae-68d8-c960f9e077c3/Icon-57.png" style="border-style:none;float:left;margin:5px;" alt="PlainText - Dropbox text editing" title="PlainText - Dropbox text editing" /></a></p> 
-  
-  <div class="sticky-itslinktext">
-    <a href="http://itunes.apple.com/jp/app/plaintext-dropbox-text-editing/id391254385?mt=8&#038;uo=4" rel="nofollow" target="_blank">PlainText &#8211; Dropbox text editing</a><br />Hog Bay Software<br />価格： 0円 <a href="http://itunes.apple.com/jp/app/plaintext-dropbox-text-editing/id391254385?mt=8&#038;uo=4" rel="nofollow" target="_blank"><img src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" alt ="iTunesで見る" style="border-style:none;" /></a><br /><span style="font-size:xx-small;">posted with <a href="http://sticky.linclip.com/linkmaker/" target="_blank">sticky</a> on 2012.8.6</span><br style="clear:left;" />
-  </div>
-</div>
-
-<div style="height:20px;">
-</div></p> 
 
 ## 運用開始！
 
@@ -142,10 +132,10 @@ PlainTextで設定ファイルを書き換えて、しばらく待つと・・
 
  [1]: /blog/uploads/2012/08/arduino_remocon_kansei1.jpg
  [2]: /blog/uploads/2012/08/arduino_remocon_kansei2.jpg
- [3]: http://eikatou.net/blog/2013/07/arduino_remocon_mente/
- [4]: http://eikatou.net/blog/2012/08/arduino_remocon_kansei/
- [5]: http://eikatou.net/blog/2012/08/arduino_remocon_sw/
- [6]: http://eikatou.net/blog/2012/08/arduino_remocon_hw/
+ [3]: /tags/arduino/
+ [4]: /tags/arduino/
+ [5]: /tags/arduino/
+ [6]: /tags/arduino/
  [7]: http://www.switch-science.com/products/detail.php?product_id=698
  [8]: http://www.switch-science.com/products/detail.php?product_id=990
  [9]: http://akizukidenshi.com/catalog/g/gI-04311/

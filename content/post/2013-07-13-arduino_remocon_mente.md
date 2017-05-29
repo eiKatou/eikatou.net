@@ -16,7 +16,7 @@ tags:
 
 HTTPリクエストを投げるときに、Hostを指定してあげると取得できるようになった。
 
-[c]
+```c
   
 client.println("GET " + String(urlPath) + " HTTP/1.0");
   
@@ -24,10 +24,10 @@ client.println("Host: dl.dropboxusercontent.com");
   
 client.println();
   
-[/c] 
+```
 
 ## 思ったこと
 
 ちょっと手を抜いていたところで、こういう問題が出てしまった。「手抜きすると、後で何倍も時間がかかることになる」と思った。手の抜きどころって難しい。
 
- [1]: http://eikatou.net/blog/2012/08/arduino_remocon_kansei/
+ [1]: /tags/arduino/

@@ -70,8 +70,7 @@ Windowsでも、ソースコードが配置されるフォルダと一緒の階�
 
 こんなファイル（[Controller.txt][10]）を置いている。
   
-[bash]
-  
+```bash  
 ;Format:"$HHMM:COMMAND"
 
 -start-
@@ -87,8 +86,7 @@ $0430:ON
 $0520:OFF
 
 -end-
-
-[/bash] 
+```
 
 プログラム内で”$HHMM:”から始まる文字を探しに行って、見つかると”ON”か”OFF”のコマンドを読み込む。ONだとエアコンにスイッチを入れる制御信号を送り、OFFだとスイッチを切る制御信号を送る。”$”以外から始まるの行はスキップされる。
 
@@ -103,13 +101,13 @@ $0520:OFF
 [Arduinoで創るネットワーク対応リモコン（完成！）][11]につづく・・
 
  [1]: /blog/uploads/2012/08/arduino_remocon_sw1.jpg
- [2]: http://eikatou.net/blog/2012/08/arduino_remocon_hw/
+ [2]: /tags/arduino/
  [3]: /blog/uploads/2012/08/NetController.zip
  [4]: /blog/uploads/2012/08/NetController.ino_20130713.zip
- [5]: http://eikatou.net/blog/2012/07/arduino-remocon/
+ [5]: /tags/arduino/
  [6]: http://hsgw.blog10.fc2.com/blog-entry-16.html
  [7]: http://arduino.cc/en/Reference/PROGMEM
- [8]: http://eikatou.net/blog/2012/07/arduino-network/
+ [8]: /tags/arduino/
  [9]: http://arms22.blog91.fc2.com/blog-entry-445.html
  [10]: /blog/uploads/2012/08/Controller.txt
- [11]: http://eikatou.net/blog/2012/08/arduino_remocon_kansei/
+ [11]: /tags/arduino/

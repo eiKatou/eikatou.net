@@ -25,8 +25,7 @@ tags:
 
 読み取りは２番ピンを使用した。ほぼ、サンプルのままなんだけど・・・
   
-[c]
-  
+```c
 const int buttonPin = 2; // the number of the pushbutton pin
   
 const int ledPin = 9; // the number of the LED pin
@@ -62,8 +61,7 @@ digitalWrite(ledPin, LOW);
 }
   
 }
-
-[/c] 
+```
 
 ボタンを押している間は、Arduino上のLEDが光っていた。
 

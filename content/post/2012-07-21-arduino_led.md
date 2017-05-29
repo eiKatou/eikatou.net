@@ -30,39 +30,25 @@ LEDを光らせるために、いろいろとお買い物もした。送料込�
 
 内蔵のLEDもあるので、まずは内蔵LEDで挑戦。サンプルのコードは13番ピンを指定しているが、Arduino Ethernetは9番ピンを指定する。
   
-[c]
-  
+```c  
 // Pin 13 has an LED connected on most Arduino boards.
-  
 // give it a name:
-  
 int led = 9;
 
 // the setup routine runs once when you press reset:
-  
 void setup() {
-    
-// initialize the digital pin as an output.
-    
-pinMode(led, OUTPUT);
-  
+  // initialize the digital pin as an output.
+  pinMode(led, OUTPUT);
 }
 
 // the loop routine runs over and over again forever:
-  
 void loop() {
-    
-digitalWrite(led, HIGH); // turn the LED on (HIGH is the voltage level)
-    
-delay(500); // wait for a second
-    
-digitalWrite(led, LOW); // turn the LED off by making the voltage LOW
-    
-delay(2000); // wait for a second
-  
+  digitalWrite(led, HIGH); // turn the LED on (HIGH is the voltage level)
+  delay(500); // wait for a second
+  digitalWrite(led, LOW); // turn the LED off by making the voltage LOW
+  delay(2000); // wait for a second
 }
-
-[/c]
+```
 
 [<img src="/uploads/2012/07/Arduino_led1.jpg" alt="" title="Arduino_led1" width="338" height="451" class="alignnone size-full wp-image-1703" srcset="/uploads/2012/07/Arduino_led1.jpg 338w, /blog/uploads/2012/07/Arduino_led1-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][2]
   
@@ -80,49 +66,31 @@ delay(2000); // wait for a second
 
 最後は、LEDをプログラムから制御する。さっきは電源から繋いでいたが、今度は6番ピンと9番ピンから繋ぐ。6番ピンと9番ピンは、パルス幅変調（PWM）に対応しているので、明るさを制御することが出来る。
 
-[c]
-  
+```c  
 int led1 = 6;
-  
 int led2 = 9;
-
 void setup() {
-    
-pinMode(led1, OUTPUT);
-    
-pinMode(led2, OUTPUT);
-  
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
 }
 
 void loop() {
-    
-for (int i=0; i<256; i++) {
-      
-analogWrite(led1, i);
-      
-analogWrite(led2, 255-i);
-      
-delay(10);
-    
-}
-    
-delay(1000);
+  for (int i=0; i<256; i++) {
+    analogWrite(led1, i);
+    analogWrite(led2, 255-i);
+    delay(10);
+  }
+  delay(1000);
 
-for (int i=0; i<256; i++) {
-      
-analogWrite(led1, 255-i);
-      
-analogWrite(led2, i);
-      
-delay(10);
-    
-}
-
-delay(1000);
+  for (int i=0; i<256; i++) {
+    analogWrite(led1, 255-i);
+    analogWrite(led2, i);
+    delay(10);
+  }
+  delay(1000);
   
 }
-
-[/c]
+```
   
 明るさを制御するには、analogWrite関数を使用する。第1引数がピン番号で、第2引数が出力(min 0 〜 max 255)だ。このプログラムを動かすと、6番ピンのLEDが明るくなっていき、9番ピンのLEDが暗くなっていく。その後、1秒停止して、6番ピンは暗く、9番ピンは明るくなる。
 
