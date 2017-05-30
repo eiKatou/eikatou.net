@@ -28,24 +28,20 @@ tags:
   
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
-      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0045CI0MY/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">日本トラストテクノロジー マルチスタンド breffo spider podium Black SPIDERPODIUMBK</a></p> 
-      
+      <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0045CI0MY/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">日本トラストテクノロジー マルチスタンド breffo spider podium Black SPIDERPODIUMBK</a> 
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/browse/ASIN/B0045CI0MY/eikatou-22/ref=nosim/" title="日本トラストテクノロジー マルチスタンド breffo spider podium Black SPIDERPODIUMBK" target="_blank">amazlet</a> at 12.08.06
       </div>
     </div>
-    
     <div class="amazlet-detail">
       日本トラストテクノロジー (2010-10-06)<br />売り上げランキング: 29697
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0045CI0MY/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
 </div>
@@ -105,37 +101,32 @@ PlainTextで設定ファイルを書き換えて、しばらく待つと・・
   <div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
     <a href="http://www.amazon.co.jp/exec/obidos/ASIN/487311537X/eikatou-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51zFePM-naL._SL160_.jpg" alt="Arduinoをはじめよう 第2版 (Make:PROJECTS)" style="border: none;" /></a>
   </div>
-  
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/487311537X/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Arduinoをはじめよう 第2版 (Make:PROJECTS)</a></p> 
-      
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/browse/ASIN/487311537X/eikatou-22/ref=nosim/" title="Arduinoをはじめよう 第2版 (Make:PROJECTS)" target="_blank">amazlet</a> at 12.08.09
       </div>
     </div>
-    
     <div class="amazlet-detail">
       Massimo Banzi <br />オライリージャパン <br />売り上げランキング: 2097
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/487311537X/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
 </div>
 
  [1]: /blog/uploads/2012/08/arduino_remocon_kansei1.jpg
  [2]: /blog/uploads/2012/08/arduino_remocon_kansei2.jpg
- [3]: /tags/arduino/
- [4]: /tags/arduino/
- [5]: /tags/arduino/
- [6]: /tags/arduino/
+ [3]: /2954.html
+ [4]: /1898.html
+ [5]: /1872.html
+ [6]: /1837.html
  [7]: http://www.switch-science.com/products/detail.php?product_id=698
  [8]: http://www.switch-science.com/products/detail.php?product_id=990
  [9]: http://akizukidenshi.com/catalog/g/gI-04311/

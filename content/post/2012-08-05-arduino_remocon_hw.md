@@ -107,11 +107,11 @@ ACアダプタに繋いで、赤外線LED、赤色LED、青色LED、タクトス
  [9]: http://akizukidenshi.com/catalog/g/gI-03988/
  [10]: http://akizukidenshi.com/catalog/g/gP-03647/
  [11]: http://akizukidenshi.com/catalog/g/gR-25331/
- [12]: /tags/arduino/
- [13]: /tags/arduino/
- [14]: /tags/arduino/
- [15]: /tags/arduino/
- [16]: /tags/arduino/
+ [12]: /1821.html
+ [13]: /1796.html
+ [14]: /1760.html
+ [15]: /1699.html
+ [16]: /1663.html
  [17]: http://d.hatena.ne.jp/OkibiWorksLabo/20100429/shield
  [18]: http://www.switch-science.com/products/detail.php?product_id=990
  [19]: http://www.switch-science.com/products/detail.php?product_id=92
@@ -119,4 +119,4 @@ ACアダプタに繋いで、赤外線LED、赤色LED、青色LED、タクトス
  [21]: /blog/uploads/2012/08/arduino_remocon_hd3.jpg
  [22]: /blog/uploads/2012/08/arduino_remocon_hd6.jpg
  [23]: /blog/uploads/2012/08/arduino_remocon_hd4.jpg
- [24]: /tags/arduino/
+ [24]: /1872.html

@@ -27,40 +27,25 @@ tags:
   
 ```c
 const int buttonPin = 2; // the number of the pushbutton pin
-  
 const int ledPin = 9; // the number of the LED pin
-  
 int buttonState = 0;
 
 void setup() {
-    
-pinMode(ledPin, OUTPUT);
-    
-pinMode(buttonPin, INPUT);
-  
+  pinMode(ledPin, OUTPUT);
+  pinMode(buttonPin, INPUT);
 }
 
-void loop(){
-    
-buttonState = digitalRead(buttonPin);
+void loop() {
+  buttonState = digitalRead(buttonPin);
+  if (buttonState == LOW) {
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+}
 
-if (buttonState == LOW) {
-      
-// turn LED on:
-      
-digitalWrite(ledPin, HIGH);
-    
-}
-    
-else {
-      
-// turn LED off:
-      
-digitalWrite(ledPin, LOW);
-    
-}
-  
-}
 ```
 
 ボタンを押している間は、Arduino上のLEDが光っていた。

@@ -28,85 +28,55 @@ Googleへのアクセスを行う。
 サンプルのMACアドレスと、GoogleのIPアドレスを変更して動かしてみた。MACアドレスは、Arduinoの裏面にシールで貼ってある。IPアドレスは、[IPドメインLOOKUP][1]で、「google.com」で調べると良い。
 
 ```c  
-#include <SPI.h>
-  
-#include <Ethernet.h>
-
-byte mac[] = { 0x90,0xA2, 0xDA, 0x0D, 0x27, 0xBE };
-  
-IPAddress server(74,125,235,66); // Google
-  
+#include < SPI.h >
+#include < Ethernet.h >
+  byte mac[] = {
+    0x90,
+    0xA2,
+    0xDA,
+    0x0D,
+    0x27,
+    0xBE
+  };
+IPAddress server(74, 125, 235, 66); // Google
 EthernetClient client;
 
 void setup() {
-    
-Serial.begin(9600);
-     
-while (!Serial) {
-      
-;
-    
-}
-
-if (Ethernet.begin(mac) == 0) {
-      
-Serial.println("Failed to configure Ethernet using DHCP");
-      
-for(;;)
-        
-;
-    
-}
-    
-delay(1000);
-    
-Serial.println("connecting&#8230;");
-
-if (client.connect(server, 80)) {
-      
-Serial.println("connected");
-      
-client.println("GET /search?q=arduino HTTP/1.0");
-      
-client.println();
-    
-}
-    
-else {
-      
-Serial.println("connection failed");
-    
-}
-  
+  Serial.begin(9600);
+  while (!Serial) {
+    ;
+  }
+  if (Ethernet.begin(mac) == 0) {
+    Serial.println("Failed to configure Ethernet using DHCP");
+    for (;;)
+    ;
+  }
+  delay(1000);
+  Serial.println("connecting&#8230;");
+  if (client.connect(server, 80)) {
+    Serial.println("connected");
+    client.println("GET /search?q=arduino HTTP/1.0");
+    client.println();
+  } else {
+    Serial.println("connection failed");
+  }
 }
 
 void loop()
-  
 {
-    
-if (client.available()) {
-      
-char c = client.read();
-      
-Serial.print(c);
-    
+  if (client.available()) {
+    char c = client.read();
+    Serial.print(c);
+  }
+  if (!client.connected()) {
+    Serial.println();
+    Serial.println("disconnecting.");
+    client.stop();
+    for (;;)
+    ;
+  }
 }
 
-if (!client.connected()) {
-      
-Serial.println();
-      
-Serial.println("disconnecting.");
-      
-client.stop();
-
-for(;;)
-        
-;
-    
-}
-  
-}
 ```
   
 setupで接続を開始して、loopで戻り値を取得している。”client.read()”で、HTTPのレスポンスが読めるみたいだ。 
@@ -120,86 +90,58 @@ setupで接続を開始して、loopで戻り値を取得している。”clien
 今度は、Dropboxの公開フォルダに置いたファイルを参照しに行く。先ほどと違うのは、ドメイン名を指定している点。IPアドレスは変わるかもしれないので、ドメイン名で指定した方が良い。
 
 ```c  
-#include <SPI.h>
-  
-#include <Ethernet.h>
+  #include < SPI.h >
+  #include < Ethernet.h >
 
-byte mac[] = { 0x90,0xA2, 0xDA, 0x0D, 0x27, 0xBE };
-  
-IPAddress server(74,125,235,66); // Google
-  
+  byte mac[] = {
+    0x90,
+    0xA2,
+    0xDA,
+    0x0D,
+    0x27,
+    0xBE
+  };
+
+IPAddress server(74, 125, 235, 66); // Google
 char serverName[] = "dl.dropbox.com";
-  
 EthernetClient client;
 
 void setup() {
-    
-Serial.begin(9600);
-     
-while (!Serial) {
-      
-;
-    
-}
-
-if (Ethernet.begin(mac) == 0) {
-      
-Serial.println("Failed to configure Ethernet using DHCP");
-      
-for(;;)
-        
-;
-    
-}
-    
-delay(1000);
-    
-Serial.println("connecting&#8230;");
-
-if (client.connect(serverName, 80)) {
-      
-Serial.println("connected");
-      
-client.println("GET /u/7551322/hello.txt HTTP/1.0");
-      
-client.println();
-    
-}
-    
-else {
-      
-Serial.println("connection failed");
-    
-}
-  
+  Serial.begin(9600);
+  while (!Serial) {
+    ;
+  }
+  if (Ethernet.begin(mac) == 0) {
+    Serial.println("Failed to configure Ethernet using DHCP");
+    for (;;)
+    ;
+  }
+  delay(1000);
+  Serial.println("connecting&#8230;");
+  if (client.connect(serverName, 80)) {
+    Serial.println("connected");
+    client.println("GET /u/7551322/hello.txt HTTP/1.0");
+    client.println();
+  } else {
+    Serial.println("connection failed");
+  }
 }
 
 void loop()
-  
 {
-    
-if (client.available()) {
-      
-char c = client.read();
-      
-Serial.print(c);
-    
-}
 
-if (!client.connected()) {
-      
-Serial.println();
-      
-Serial.println("disconnecting.");
-      
-client.stop();
+  if (client.available()) {
+    char c = client.read();
+    Serial.print(c);
+  }
 
-for(;;)
-        
-;
-    
-}
-  
+  if (!client.connected()) {
+    Serial.println();
+    Serial.println("disconnecting.");
+    client.stop();
+    for (;;)
+    ;
+  }
 }
   
 ```
@@ -214,125 +156,79 @@ IPアドレスをドメイン名に変えて、hello.txtまでのパスを書い
 
 次は、一定時間おきにネットワーク接続を行う。実際の運用になると、数分おきにネットワーク接続する事になるだろう。一定時間おきに、Dropboxのファイルを参照するプログラムを書いた。
 
-```c  
-#include <SPI.h>
-  
-#include <Ethernet.h>
-
+```c
+#include < SPI.h >
+#include < Ethernet.h >
 #define LED_PIN 9
-
 #define MODE_CONNECT 1
-  
 #define MODE_ALLREADED 2
-  
 #define MODE_DISCONNECT 3
 
-byte mac[] = { 0x90,0xA2, 0xDA, 0x0D, 0x27, 0xBE };
-  
+byte mac[] = {
+  0x90,
+  0xA2,
+  0xDA,
+  0x0D,
+  0x27,
+  0xBE
+};
+
 char serverName[] = "dl.dropbox.com";
-  
 EthernetClient client;
-  
 int mode = MODE_DISCONNECT;
 
 void setup() {
-    
-pinMode(LED_PIN, OUTPUT);
-
-Serial.begin(9600);
-     
-while (!Serial) {
-      
-;
-    
-}
-
-if (Ethernet.begin(mac) == 0) {
-      
-Serial.println("Failed to configure Ethernet using DHCP");
-      
-for(;;)
-        
-;
-    
-}
-
-delay(1000);
-    
-Serial.println("ready.");
-    
-Serial.println();
-  
+  pinMode(LED_PIN, OUTPUT);
+  Serial.begin(9600);
+  while (!Serial) {
+    ;
+  }
+  if (Ethernet.begin(mac) == 0) {
+    Serial.println("Failed to configure Ethernet using DHCP");
+    for (;;)
+    ;
+  }
+  delay(1000);
+  Serial.println("ready.");
+  Serial.println();
 }
 
 void loop()
-  
 {
-    
-if (mode == MODE_CONNECT) {
-      
-if (client.available()) {
-        
-char c = client.read();
-        
-Serial.print(c);
+  if (mode == MODE_CONNECT) {
+    if (client.available()) {
+      char c = client.read();
+      Serial.print(c);
+      if (c == & #8216;$&# 8217;) {
+        mode = MODE_ALLREADED;
+      }
+    }
+  }
 
-if (c == &#8216;$&#8217;){
-          
-mode = MODE_ALLREADED;
-        
-}
-      
-}
-    
-}
+  if (mode == MODE_DISCONNECT) {
+    Serial.println("connecting&#8230;");
+    mode = MODE_CONNECT;
+    digitalWrite(LED_PIN, HIGH);
+    if (client.connect(serverName, 80)) {
+      Serial.println("connected");
+      Serial.println();
+      client.println("GET /u/7551322/hello.txt HTTP/1.0");
+      client.println();
+    } else {
+      Serial.println("connection failed");
+    }
+  }
 
-if (mode == MODE_DISCONNECT) {
-      
-Serial.println("connecting&#8230;");
-      
-mode = MODE_CONNECT;
-      
-digitalWrite(LED_PIN, HIGH);
-
-if (client.connect(serverName, 80)) {
-        
-Serial.println("connected");
-        
-Serial.println();
-        
-client.println("GET /u/7551322/hello.txt HTTP/1.0");
-        
-client.println();
-      
-} else {
-        
-Serial.println("connection failed");
-      
-}
-    
-}
-
-if (mode == MODE_ALLREADED || !client.connected()) {
-      
-Serial.println();
-      
-Serial.println("disconnecting.");
-      
-Serial.println();
-      
-Serial.println();
-      
-client.stop();
-      
-digitalWrite(LED_PIN, LOW);
-      
-delay(5000);
-      
-mode = MODE_DISCONNECT;
-    
-}
-  
+  if (mode == MODE_ALLREADED || !client.connected()) {
+    Serial.println();
+    Serial.println("disconnecting.");
+    Serial.println();
+    Serial.println();
+    client.stop();
+    digitalWrite(LED_PIN, LOW);
+    delay(5000);
+    mode = MODE_DISCONNECT;
+  }
 }
 ```
   
