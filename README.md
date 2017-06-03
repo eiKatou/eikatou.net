@@ -14,6 +14,8 @@ hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 横400pxまで。
 スマホのスクショは縦600pxにする。
 
+## 便利なサイト
+- [スマホアプリ紹介](http://mama-hack.com/app-reach/)
 
 ## テーマ指定でサーバを起動
 ```bash
