@@ -10,6 +10,11 @@ POSTNAME=goodby_wordpress
 hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
 
+## 画像サイズ
+横400pxまで。
+スマホのスクショは縦600pxにする。
+
+
 ## テーマ指定でサーバを起動
 ```bash
 hugo server --theme=beautifulhugo --buildDrafts
@@ -19,7 +24,8 @@ hugo server --theme=beautifulhugo --buildDrafts
 http://localhost:1313/blog/
 
 ## 公開
-GitHubにプッシュ
+公開前にドラフトを消して、GitHubにプッシュ。
+その後、S3に展開。
 ```bash
 ./blog_publish.sh
 ```
