@@ -5,7 +5,6 @@ author: eiKatou
 date: 2017-05-21T13:14:54+09:00
 tags:
 - Dev
-- Web
 - Vue.js
 title: "Vue.jsを始めました"
 type: post
