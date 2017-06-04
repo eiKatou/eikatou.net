@@ -31,5 +31,10 @@ cp ${WWW_DIR}/google8f78f6eb936c1d12.html ${WWW_PUBLIC}/blog
 # s3 sync
 echo "s3 sync"
 aws s3 rm s3://eikatou.net/blog/index.html
+aws s3 rm s3://eikatou.net/blog/index.xml
+aws s3 rm s3://eikatou.net/blog/archives/index.html
+aws s3 rm s3://eikatou.net/blog/archives/index.xml
+aws s3 rm s3://eikatou.net/blog/tags/index.html
+aws s3 rm s3://eikatou.net/blog/tags/index.xml
 aws s3 sync --size-only --delete ${WWW_PUBLIC} s3://eikatou.net --exclude *.tmp --exclude .DS_Store
 aws s3 ls s3://eikatou.net
