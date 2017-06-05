@@ -6,6 +6,7 @@ eikatou.netのソースです
 ## ブログ記事を作成
 ```bash
 cd /Users/ei/GitHub/eikatou.net
+ls content/post | tail -4
 POSTNAME=goodby_wordpress
 hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
