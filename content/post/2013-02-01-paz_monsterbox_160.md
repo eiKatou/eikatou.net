@@ -33,7 +33,7 @@ tags:
 
 全てのモンスター。
   
-<img src="/uploads/2013/01/ALL.jpg" alt="ALL" width="320" height="1112" class="alignnone size-full wp-image-2549" srcset="/uploads/2013/01/ALL.jpg 320w, /blog/uploads/2013/01/ALL-86x300.jpg 86w" sizes="(max-width: 320px) 100vw, 320px" />
+<img src="/uploads/2013/01/ALL.jpg" alt="ALL" width="320" height="1112" class="alignnone size-full wp-image-2549" srcset="/uploads/2013/01/ALL.jpg 320w, /uploads/2013/01/ALL-86x300.jpg 86w" sizes="(max-width: 320px) 100vw, 320px" />
 
 引き続き、光と火を中心に強化していく予定。木属性が壊滅的なのを解決したいので、クーフーリンを手に入れなきゃ。
 

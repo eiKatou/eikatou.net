@@ -11,7 +11,7 @@ tags:
   - Apple
 
 ---
-[<img src="/uploads/2011/11/20111113a.png" alt="" title="20111113a" width="600" height="598" class="alignnone size-full wp-image-250" srcset="/uploads/2011/11/20111113a.png 600w, /blog/uploads/2011/11/20111113a-150x150.png 150w, /blog/uploads/2011/11/20111113a-300x300.png 300w, /blog/uploads/2011/11/20111113a-301x300.png 301w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img src="/uploads/2011/11/20111113a.png" alt="" title="20111113a" width="600" height="598" class="alignnone size-full wp-image-250" srcset="/uploads/2011/11/20111113a.png 600w, /uploads/2011/11/20111113a-150x150.png 150w, /uploads/2011/11/20111113a-300x300.png 300w, /uploads/2011/11/20111113a-301x300.png 301w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 Pixelmator 2.0が発売された。
 
@@ -24,6 +24,6 @@ GIMPを愛用していたのだが、使いにくさを感じていた。Pixelma
 
 後日、レビューを書く予定。
 
- [1]: /blog/uploads/2011/11/20111113a.png
+ [1]: /uploads/2011/11/20111113a.png
  [2]: http://www.pixelmator.com/
  [3]: http://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ls=1

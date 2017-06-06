@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/03/android-254x300.png" alt="" title="android" width="254" height="300" class="alignnone size-medium wp-image-1224" srcset="/uploads/2012/03/android-254x300.png 254w, /blog/uploads/2012/03/android.png 339w" sizes="(max-width: 254px) 100vw, 254px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/uploads/2012/03/android-254x300.png" alt="" title="android" width="254" height="300" class="alignnone size-medium wp-image-1224" srcset="/uploads/2012/03/android-254x300.png 254w, /uploads/2012/03/android.png 339w" sizes="(max-width: 254px) 100vw, 254px" />][1]
   
 よく、「おすすめの携帯は？」と聞かれる。そういう時は、「iPhone、Galaxyシリーズ、Xperiaシリーズがおすすめ」と言っている。そして、最後に必ず注意するのは「日本製のスマホは止めておけ」。
 
@@ -59,7 +59,7 @@ Androidでは、裏で処理を実行できる機能が用意されている。�
 
 ちなみに、SHARPの[INFOBAR][5]は大好きです。
 
- [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/03/android.png
+ [1]: http://eikatou.net/blog/wp-content/uploads/2012/03/android.png
  [2]: http://d.hatena.ne.jp/Tackn1977/20120317/1331963237
  [3]: http://togetter.com/li/273604
  [4]: http://blog.livedoor.jp/an_square/archives/51744221.html

@@ -60,7 +60,7 @@ void loop() {
 
 目的の「Arduinoで創るネットワーク対応リモコン」まで、あと少しだ。タクトスイッチは、赤外線送信のテスト用ボタンとして用意する予定。
 
- [1]: /blog/uploads/2012/08/tactswitch1.jpg
+ [1]: /uploads/2012/08/tactswitch1.jpg
  [2]: http://www.netdecheck.com/coffee_break/dojyo/004/index.html
- [3]: /blog/uploads/2012/08/tactSwitch.jpg
- [4]: /blog/uploads/2012/08/tactswitch2.jpg
+ [3]: /uploads/2012/08/tactSwitch.jpg
+ [4]: /uploads/2012/08/tactswitch2.jpg

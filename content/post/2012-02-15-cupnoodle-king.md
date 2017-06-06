@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/uploads/2012/02/201202_cupnoodle0.jpg" alt="" title="201202_cupnoodle0" width="600" height="259" class="alignleft size-full wp-image-616" srcset="/uploads/2012/02/201202_cupnoodle0.jpg 600w, /blog/uploads/2012/02/201202_cupnoodle0-300x129.jpg 300w, /blog/uploads/2012/02/201202_cupnoodle0-500x215.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img src="/uploads/2012/02/201202_cupnoodle0.jpg" alt="" title="201202_cupnoodle0" width="600" height="259" class="alignleft size-full wp-image-616" srcset="/uploads/2012/02/201202_cupnoodle0.jpg 600w, /uploads/2012/02/201202_cupnoodle0-300x129.jpg 300w, /uploads/2012/02/201202_cupnoodle0-500x215.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 カップヌードル40周年記念で、カップヌードルキングが発売されている。
   
@@ -18,7 +18,7 @@ tags:
 
 <!--more-->
 
-[<img src="/uploads/2012/02/201202_cupnoodle1.jpg" alt="" title="201202_cupnoodle1" width="400" height="300" class="alignnone size-full wp-image-617" srcset="/uploads/2012/02/201202_cupnoodle1.jpg 400w, /blog/uploads/2012/02/201202_cupnoodle1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+[<img src="/uploads/2012/02/201202_cupnoodle1.jpg" alt="" title="201202_cupnoodle1" width="400" height="300" class="alignnone size-full wp-image-617" srcset="/uploads/2012/02/201202_cupnoodle1.jpg 400w, /uploads/2012/02/201202_cupnoodle1-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
 
 何と比較しようか迷ったが、目薬にした。この目薬は、私のおすすめ目薬である。
 
@@ -35,6 +35,6 @@ tags:
 結論、今しか食べられないので食べておくべし！！
 
  [1]: http://www.cupnoodle.jp/product/king/index.html
- [2]: /blog/uploads/2012/02/201202_cupnoodle1.jpg
- [3]: /blog/uploads/2012/02/201202_cupnoodle2.jpg
- [4]: /blog/uploads/2012/02/201202_cupnoodle3.jpg
+ [2]: /uploads/2012/02/201202_cupnoodle1.jpg
+ [3]: /uploads/2012/02/201202_cupnoodle2.jpg
+ [4]: /uploads/2012/02/201202_cupnoodle3.jpg

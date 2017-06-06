@@ -16,7 +16,7 @@ tags:
   
 [MyTweet+ （iTunes App Store）][1]
   
-[<img src="/uploads/2012/12/20121216_mytweet1-200x300.jpg" alt="" title="20121216_mytweet1" width="200" height="300" class="alignnone size-medium wp-image-2230" srcset="/uploads/2012/12/20121216_mytweet1-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet1.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][2] 
+[<img src="/uploads/2012/12/20121216_mytweet1-200x300.jpg" alt="" title="20121216_mytweet1" width="200" height="300" class="alignnone size-medium wp-image-2230" srcset="/uploads/2012/12/20121216_mytweet1-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet1.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][2] 
 
 な、長かった〜
 
@@ -43,31 +43,31 @@ MyTweet+は、ツイートを管理するアプリ。お気に入りにしたツ
 
 一覧が表示される。
   
-[<img src="/uploads/2012/12/20121216_mytweet2-200x300.jpg" alt="" title="20121216_mytweet2" width="200" height="300" class="alignnone size-medium wp-image-2229" srcset="/uploads/2012/12/20121216_mytweet2-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet2.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][3]
+[<img src="/uploads/2012/12/20121216_mytweet2-200x300.jpg" alt="" title="20121216_mytweet2" width="200" height="300" class="alignnone size-medium wp-image-2229" srcset="/uploads/2012/12/20121216_mytweet2-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet2.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][3]
 
 ツイートを確認。この うさぎさんの画像がお気に入り。
   
-[<img src="/uploads/2012/12/20121216_mytweet3-200x300.jpg" alt="" title="20121216_mytweet3" width="200" height="300" class="alignnone size-medium wp-image-2228" srcset="/uploads/2012/12/20121216_mytweet3-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet3.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][4] 
+[<img src="/uploads/2012/12/20121216_mytweet3-200x300.jpg" alt="" title="20121216_mytweet3" width="200" height="300" class="alignnone size-medium wp-image-2228" srcset="/uploads/2012/12/20121216_mytweet3-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet3.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][4] 
 
 ### その２（タグをつける）
 
 右上の「Tag」ボタンを押すと・・、タグの一覧が表示あれるので、「ワンコ＆ネコ」のタグにチェックを入れて「Save」する。（ツッコミなしで・・）
   
-[<img src="/uploads/2012/12/20121216_mytweet4-200x300.jpg" alt="" title="20121216_mytweet4" width="200" height="300" class="alignnone size-medium wp-image-2227" srcset="/uploads/2012/12/20121216_mytweet4-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet4.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][5] 
+[<img src="/uploads/2012/12/20121216_mytweet4-200x300.jpg" alt="" title="20121216_mytweet4" width="200" height="300" class="alignnone size-medium wp-image-2227" srcset="/uploads/2012/12/20121216_mytweet4-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet4.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][5] 
 
 ### その３（タグからツイートを見つける）
 
 下にあるタブバーの「Tag」を押すと、作成したタグの一覧が表示される。
   
-[<img src="/uploads/2012/12/20121216_mytweet5-200x300.jpg" alt="" title="20121216_mytweet5" width="200" height="300" class="alignnone size-medium wp-image-2226" srcset="/uploads/2012/12/20121216_mytweet5-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet5.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][6] 
+[<img src="/uploads/2012/12/20121216_mytweet5-200x300.jpg" alt="" title="20121216_mytweet5" width="200" height="300" class="alignnone size-medium wp-image-2226" srcset="/uploads/2012/12/20121216_mytweet5-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet5.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][6] 
 
 先ほど保存した「ワンコ＆ネコ」をクリックすると、タグをつけた一覧が表示される。
   
-[<img src="/uploads/2012/12/20121216_mytweet6-200x300.jpg" alt="" title="20121216_mytweet6" width="200" height="300" class="alignnone size-medium wp-image-2225" srcset="/uploads/2012/12/20121216_mytweet6-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet6.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][7]
+[<img src="/uploads/2012/12/20121216_mytweet6-200x300.jpg" alt="" title="20121216_mytweet6" width="200" height="300" class="alignnone size-medium wp-image-2225" srcset="/uploads/2012/12/20121216_mytweet6-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet6.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][7]
 
 もちろんツイートも見られるし、うさぎさん画像も見ることが出来る。
   
-[<img src="/uploads/2012/12/20121216_mytweet7-200x300.jpg" alt="" title="20121216_mytweet7" width="200" height="300" class="alignnone size-medium wp-image-2223" srcset="/uploads/2012/12/20121216_mytweet7-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet7.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][8][<img src="/uploads/2012/12/20121216_mytweet8-200x300.jpg" alt="" title="20121216_mytweet8" width="200" height="300" class="alignnone size-medium wp-image-2224" srcset="/uploads/2012/12/20121216_mytweet8-200x300.jpg 200w, /blog/uploads/2012/12/20121216_mytweet8.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][9]
+[<img src="/uploads/2012/12/20121216_mytweet7-200x300.jpg" alt="" title="20121216_mytweet7" width="200" height="300" class="alignnone size-medium wp-image-2223" srcset="/uploads/2012/12/20121216_mytweet7-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet7.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][8][<img src="/uploads/2012/12/20121216_mytweet8-200x300.jpg" alt="" title="20121216_mytweet8" width="200" height="300" class="alignnone size-medium wp-image-2224" srcset="/uploads/2012/12/20121216_mytweet8-200x300.jpg 200w, /uploads/2012/12/20121216_mytweet8.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][9]
 
 ## 使ってみた感想
 
@@ -80,11 +80,11 @@ MyTweet+は、ツイートを管理するアプリ。お気に入りにしたツ
 [MyTweet+ （iTunes App Store）][1]（注意：iOS6専用です）
 
  [1]: https://itunes.apple.com/us/app/mytweet+/id581752631
- [2]: /blog/uploads/2012/12/20121216_mytweet1.jpg
- [3]: /blog/uploads/2012/12/20121216_mytweet2.jpg
- [4]: /blog/uploads/2012/12/20121216_mytweet3.jpg
- [5]: /blog/uploads/2012/12/20121216_mytweet4.jpg
- [6]: /blog/uploads/2012/12/20121216_mytweet5.jpg
- [7]: /blog/uploads/2012/12/20121216_mytweet6.jpg
- [8]: /blog/uploads/2012/12/20121216_mytweet7.jpg
- [9]: /blog/uploads/2012/12/20121216_mytweet8.jpg
+ [2]: /uploads/2012/12/20121216_mytweet1.jpg
+ [3]: /uploads/2012/12/20121216_mytweet2.jpg
+ [4]: /uploads/2012/12/20121216_mytweet3.jpg
+ [5]: /uploads/2012/12/20121216_mytweet4.jpg
+ [6]: /uploads/2012/12/20121216_mytweet5.jpg
+ [7]: /uploads/2012/12/20121216_mytweet6.jpg
+ [8]: /uploads/2012/12/20121216_mytweet7.jpg
+ [9]: /uploads/2012/12/20121216_mytweet8.jpg

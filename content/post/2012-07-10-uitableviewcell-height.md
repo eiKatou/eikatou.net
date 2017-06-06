@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/07/20120710b.png" alt="" title="20120710b" width="184" height="358" class="alignnone size-full wp-image-1655" srcset="/uploads/2012/07/20120710b.png 184w, /blog/uploads/2012/07/20120710b-154x300.png 154w" sizes="(max-width: 184px) 100vw, 184px" />][1]
+[<img src="/uploads/2012/07/20120710b.png" alt="" title="20120710b" width="184" height="358" class="alignnone size-full wp-image-1655" srcset="/uploads/2012/07/20120710b.png 184w, /uploads/2012/07/20120710b-154x300.png 154w" sizes="(max-width: 184px) 100vw, 184px" />][1]
   
 UITableViewCellに大量の文字を表示しようとしている。Twitterクライアントのような感じで。いろいろと試しているうちに、２つのポイントがあることが分かった。
 
@@ -32,7 +32,7 @@ UITableViewCellに大量の文字を表示しようとしている。Twitterク�
 
 まずは、表示するラベルとセル全体の大きさを把握する。
 
-[<img src="/uploads/2012/07/20120710a.png" alt="" title="20120710a" width="646" height="291" class="alignnone size-full wp-image-1653" srcset="/uploads/2012/07/20120710a.png 646w, /blog/uploads/2012/07/20120710a-300x135.png 300w, /blog/uploads/2012/07/20120710a-500x225.png 500w" sizes="(max-width: 646px) 100vw, 646px" />][3]
+[<img src="/uploads/2012/07/20120710a.png" alt="" title="20120710a" width="646" height="291" class="alignnone size-full wp-image-1653" srcset="/uploads/2012/07/20120710a.png 646w, /uploads/2012/07/20120710a-300x135.png 300w, /uploads/2012/07/20120710a-500x225.png 500w" sizes="(max-width: 646px) 100vw, 646px" />][3]
 
 真ん中のラベルの横幅が255で、高さが52。セル全体の高さは100となっている。 
 
@@ -72,6 +72,6 @@ return size.height + 50.0;
 
 ※ ラベルの横幅の直接指定をなくそうと苦労したが、どこからも取得できなかった。
 
- [1]: /blog/uploads/2012/07/20120710b.png
+ [1]: /uploads/2012/07/20120710b.png
  [2]: http://ameblo.jp/dokugakumono/entry-10852241820.html
- [3]: /blog/uploads/2012/07/20120710a.png
+ [3]: /uploads/2012/07/20120710a.png

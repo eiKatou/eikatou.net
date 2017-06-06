@@ -11,7 +11,7 @@ tags:
   - 雑記
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/06/appbankstore.jpg" alt="" title="appbankstore" width="400" height="456" class="alignnone size-full wp-image-1564" srcset="/uploads/2012/06/appbankstore.jpg 400w, /blog/uploads/2012/06/appbankstore-263x300.jpg 263w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/uploads/2012/06/appbankstore.jpg" alt="" title="appbankstore" width="400" height="456" class="alignnone size-full wp-image-1564" srcset="/uploads/2012/06/appbankstore.jpg 400w, /uploads/2012/06/appbankstore-263x300.jpg 263w" sizes="(max-width: 400px) 100vw, 400px" />][1]
   
 AppBank Store心斎橋店に行ってきた！
 
@@ -27,5 +27,5 @@ Apple Store 心斎橋店のすぐ近くに出店しているので、Apple Store
 
 今度、近くまで行く機会があったら、AppBank Storeでレアアイテムを探してみようと思う。
 
- [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/06/appbankstore.jpg
+ [1]: http://eikatou.net/blog/wp-content/uploads/2012/06/appbankstore.jpg
  [2]: http://www.appbank.net/2012/06/01/iphone-news/420847.php

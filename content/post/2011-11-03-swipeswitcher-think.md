@@ -58,4 +58,4 @@ SwipePadは非常に良く出来ているアプリで、開発者は本当にす
   
 その認識で、SwipeSwitcherを利用してもらえれば、とてもうれしく思う。
 
- [1]: /blog/uploads/2011/11/icon.png
+ [1]: /uploads/2011/11/icon.png

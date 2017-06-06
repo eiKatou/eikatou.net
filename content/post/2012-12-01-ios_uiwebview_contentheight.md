@@ -69,5 +69,5 @@ NSLog(@"contentHeight is %d", contentHeight);
   
 [<img src="/uploads/2012/12/20121201a.jpg" alt="" title="20121201a" width="160" height="240" class="alignnone size-full wp-image-2151" />][2]
 
- [1]: /blog/uploads/2012/12/20121201b.jpg
- [2]: /blog/uploads/2012/12/20121201a.jpg
+ [1]: /uploads/2012/12/20121201b.jpg
+ [2]: /uploads/2012/12/20121201a.jpg

@@ -11,7 +11,7 @@ tags:
   - Apple
 
 ---
-[<img src="http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120525a-200x300.jpg" alt="" title="20120525a" width="200" height="300" class="alignnone size-medium wp-image-1493" srcset="/uploads/2012/05/20120525a-200x300.jpg 200w, /blog/uploads/2012/05/20120525a.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][1]
+[<img src="http://eikatou.net/blog/wp-content/uploads/2012/05/20120525a-200x300.jpg" alt="" title="20120525a" width="200" height="300" class="alignnone size-medium wp-image-1493" srcset="/uploads/2012/05/20120525a-200x300.jpg 200w, /uploads/2012/05/20120525a.jpg 320w" sizes="(max-width: 200px) 100vw, 200px" />][1]
   
 iPhoneのTwitterクライアントで有名なTweetbot。今日、新しい小技を発見した。下の段の一番左のアイコンをダブルタップだ。
 
@@ -33,4 +33,4 @@ Tweetbotは、上方向（古いツイートから新しいツイートに向か
   
 そのため、新着ツイートに素早くアクセスする手段として、この機能を実装したのだろう。
 
- [1]: http://eikatou.net/blog/wp-content/blog/uploads/2012/05/20120525a.jpg
+ [1]: http://eikatou.net/blog/wp-content/uploads/2012/05/20120525a.jpg

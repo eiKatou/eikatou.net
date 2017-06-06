@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/08/arduino_remocon_sw1.jpg" alt="" title="arduino_remocon_sw1" width="376" height="451" class="alignnone size-full wp-image-1905" srcset="/uploads/2012/08/arduino_remocon_sw1.jpg 376w, /blog/uploads/2012/08/arduino_remocon_sw1-250x300.jpg 250w" sizes="(max-width: 376px) 100vw, 376px" />][1]
+[<img src="/uploads/2012/08/arduino_remocon_sw1.jpg" alt="" title="arduino_remocon_sw1" width="376" height="451" class="alignnone size-full wp-image-1905" srcset="/uploads/2012/08/arduino_remocon_sw1.jpg 376w, /uploads/2012/08/arduino_remocon_sw1-250x300.jpg 250w" sizes="(max-width: 376px) 100vw, 376px" />][1]
   
 [前回のハードウェア編][2]の続きの内容。ハードウェアが出来たので、ソフトウェアを書き込む。
 
@@ -100,14 +100,14 @@ $0520:OFF
 
 [Arduinoで創るネットワーク対応リモコン（完成！）][11]につづく・・
 
- [1]: /blog/uploads/2012/08/arduino_remocon_sw1.jpg
+ [1]: /uploads/2012/08/arduino_remocon_sw1.jpg
  [2]: /1837.html
- [3]: /blog/uploads/2012/08/NetController.zip
- [4]: /blog/uploads/2012/08/NetController.ino_20130713.zip
+ [3]: /uploads/2012/08/NetController.zip
+ [4]: /uploads/2012/08/NetController.ino_20130713.zip
  [5]: /1796.html
  [6]: http://hsgw.blog10.fc2.com/blog-entry-16.html
  [7]: http://arduino.cc/en/Reference/PROGMEM
  [8]: /1760.html
  [9]: http://arms22.blog91.fc2.com/blog-entry-445.html
- [10]: /blog/uploads/2012/08/Controller.txt
+ [10]: /uploads/2012/08/Controller.txt
  [11]: /1898.html

@@ -12,7 +12,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/08/AWT1.6.5.jpg" alt="" title="AWT1.6.5" width="226" height="401" class="alignnone size-full wp-image-1921" srcset="/uploads/2012/08/AWT1.6.5.jpg 226w, /blog/uploads/2012/08/AWT1.6.5-169x300.jpg 169w" sizes="(max-width: 226px) 100vw, 226px" />][1]
+[<img src="/uploads/2012/08/AWT1.6.5.jpg" alt="" title="AWT1.6.5" width="226" height="401" class="alignnone size-full wp-image-1921" srcset="/uploads/2012/08/AWT1.6.5.jpg 226w, /uploads/2012/08/AWT1.6.5-169x300.jpg 169w" sizes="(max-width: 226px) 100vw, 226px" />][1]
   
 Auto WiFi Toggleを1.6.5にアップデートしました。
 
@@ -49,4 +49,4 @@ if (ConnectivityManager.TYPE_WIFI != networkInfo.getType()) {
 
 AdMobの6.1.0に上げました。ADT r17でビルドすると、Proguardでエラーになってしまいましたが、ADT r20に上げると解消されました。なんだったんだろう・・
 
- [1]: /blog/uploads/2012/08/AWT1.6.5.jpg
+ [1]: /uploads/2012/08/AWT1.6.5.jpg

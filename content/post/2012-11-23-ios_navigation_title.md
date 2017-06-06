@@ -21,7 +21,7 @@ self.title = @"Tweet";
   
 すると、タブのタイトルも一緒に変わってしまう（以下の画像の枠の箇所）。
   
-[<img src="/uploads/2012/11/ios_navigationbar_title-208x300.png" alt="" title="ios_navigationbar_title" width="208" height="300" class="alignnone size-medium wp-image-2091" srcset="/uploads/2012/11/ios_navigationbar_title-208x300.png 208w, /blog/uploads/2012/11/ios_navigationbar_title.png 320w" sizes="(max-width: 208px) 100vw, 208px" />][1]
+[<img src="/uploads/2012/11/ios_navigationbar_title-208x300.png" alt="" title="ios_navigationbar_title" width="208" height="300" class="alignnone size-medium wp-image-2091" srcset="/uploads/2012/11/ios_navigationbar_title-208x300.png 208w, /uploads/2012/11/ios_navigationbar_title.png 320w" sizes="(max-width: 208px) 100vw, 208px" />][1]
 
 ナビゲーションバーのタイトルのみを変更したいのだ。タブのタイトルは変更したくない。そういう時は、以下のようにすれば良い。
   
@@ -35,4 +35,4 @@ self.navigationItem.title = @"Tweet";
 
 self.titleは、なぜ両方のタイトルを変えるような仕様になっているのだろう・・。分かりにくいなぁ。
 
- [1]: /blog/uploads/2012/11/ios_navigationbar_title.png
+ [1]: /uploads/2012/11/ios_navigationbar_title.png
