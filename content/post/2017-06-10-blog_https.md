@@ -6,7 +6,7 @@ date: 2017-06-10T22:02:15+09:00
 tags:
 - AWS
 - Web
-title: "ブログをHTTPS化した（ACMとCloudFront）"
+title: "ブログを常時SSL化した（ACMとCloudFront）"
 type: post
 url: /20170610.html
 ---
@@ -74,3 +74,5 @@ aws cloudfront create-invalidation --distribution-id XXXXXX \
 ```
 
 キャッシュの指定の仕方は、本当にブラウザに入れるURLを指定すること。例えば、/blog/のキャッシュを削除したい時は、/blog/index.htmlを指定しても削除されない。/blog/を指定する必要がある。
+
+基本的に全ページをキャッシュするようにしているので、どこのキャッシュを消すかは慎重に調べていく必要がある。次ページに行った時やタグ一覧ページ、RSS提供ページなどのキャッシュクリアを忘れないようにしよう。
