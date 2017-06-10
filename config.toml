@@ -1,4 +1,4 @@
-baseURL = "http://eikatou.net/blog/"
+baseURL = "https://eikatou.net/blog/"
 canonifyurls = true
 languageCode = "ja"
 title = "eiKatouの日記"
