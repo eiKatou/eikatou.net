@@ -42,5 +42,7 @@ aws cloudfront create-invalidation --distribution-id E1SK2Q7CXNWG24 \
   --paths /blog/ /blog/index.html /blog/index.xml \
           /blog/archives/ /blog/archives/* \
           /blog/tags/ /blog/tags/* \
-          /blog/page/*
-aws cloudfront list-invalidations --distribution-id E1SK2Q7CXNWG24 --max-items 1
+          /blog/page/* \
+          /blog/feed/* /blog/post/*
+
+echo "aws cloudfront list-invalidations --distribution-id E1SK2Q7CXNWG24 --max-items 1"
