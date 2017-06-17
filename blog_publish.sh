@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BLOG_SOURCE_DIR=/Users/ei/GitHub/eikatou.net
+BLOG_SOURCE_DIR=/Users/ei/Documents/GitHub/eikatou.net
 WWW_DIR=/Users/ei/www
 WWW_PUBLIC=${WWW_DIR}/eikatou.net
 
@@ -30,6 +30,7 @@ cp ${WWW_DIR}/google8f78f6eb936c1d12.html ${WWW_PUBLIC}/blog
 
 # s3 sync
 echo "s3 sync"
+export AWS_DEFAULT_PROFILE=blogger
 aws s3 rm s3://eikatou.net/blog/index.html
 aws s3 rm s3://eikatou.net/blog/index.xml
 aws s3 rm s3://eikatou.net/blog/archives/index.html
