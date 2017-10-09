@@ -125,3 +125,7 @@ p-item">
 > <a href="{{ $.Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}" class="l
 ist-group-item">
 ```
+
+## RSSのリンクを正しくする
+2017/10/07 HUGO v0.29に上げた時の問題
+https://github.com/eiKatou/eikatou.net/commit/87226828de4ed63b2b3828b208c5036c6e7b08c3
