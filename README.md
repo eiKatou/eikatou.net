@@ -10,6 +10,7 @@ ls content/post | tail -4
 POSTNAME=goodby_wordpress
 hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
+Command+Pでファイルを開く。
 
 ## 画像サイズ
 横400pxまで。
