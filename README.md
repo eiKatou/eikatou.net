@@ -28,7 +28,15 @@ hugo server --theme=beautifulhugo --buildDrafts
 http://localhost:1313/blog/
 
 ## 公開
-公開前にドラフトを消して、GitHubにプッシュ。
+公開前にドラフトを消す。  
+Control+Shift+@で統合ターミナルを開く。
+```bash
+git status
+git add -A
+git commit -m "記事を追加"
+git log --oneline -5
+git push origin master
+```
 その後、S3に展開。
 ```bash
 ./blog_publish.sh
