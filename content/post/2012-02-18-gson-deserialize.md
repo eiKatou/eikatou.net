@@ -8,9 +8,11 @@ archives:
   - 2012
 tags:
   - Dev
+  - Java
 
 ---
-<img src="/uploads/2012/02/201202_gson_logo.jpg" alt="" title="201202_gson_logo" width="470" height="77" class="alignnone size-full wp-image-697" srcset="/uploads/2012/02/201202_gson_logo.jpg 470w, /uploads/2012/02/201202_gson_logo-300x49.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />
+
+![gson_logo](/uploads/2012/02/201202_gson_logo.jpg)
 
 前のAndroidアプリの開発で、JSONデータをJava Objectsに変換したかった。この時にGsonを知った。JSONデータのデシリアライズの方法を紹介する。
 
@@ -39,67 +41,41 @@ eiKatouは私のアカウント。自分のアカウント名でお試しあれ�
   
 <https://twitter.com/users/show/eiKatou.json>
 
-[javascript]
-  
+```javascript
 {
-    
-id: 115794727,
-    
-screen_name: "eiKatou",
-    
-location: "兵庫県",
-    
-name: "かとう えい",
-    
-その他・・
-  
+  id: 115794727,
+  screen_name: "eiKatou",
+  location: "兵庫県",
+  name: "かとう えい",
+  その他・・
 }
-
-[/javascript]
+```
   
 上記の内容が入っている。このデータをJavaのオブジェクトへ変換する。
 
 ## Javaへ変換して表示
 
-[java]
-  
+```java
 public class User {
-	  
-String id;
-	  
-String screen_name;
-	  
-String name;
-	  
-@SerializedName("location")
-	  
-String basho;
-  
+  String id;
+  String screen_name;
+  String name;
+  @SerializedName("location")
+  String basho;
 }
-
-[/java]
+```
   
 上記はJSONデータを格納するUserクラス。
 
-[java]
-  
+```java
 // JSON to Java
-  
 Gson gson = new Gson();
-  
-User user = gson.fromJson(jsonData.toString(),
-		  
-User.class);
-
+User user = gson.fromJson(jsonData.toString(), User.class);
 System.out.println("id = " + user.getId());
-  
 System.out.println("screen name = " + user.getScreen_name());
-  
 System.out.println("name = " + user.getName());
-  
 System.out.println("basho = " + user.getBasho());
-
-[/java]
+```
   
 Userクラスを指定して、JSONをデシリアライズする。これを実行すると、対象のデータを表示する。 
 
@@ -119,67 +95,36 @@ JSONデータを呼び出せることを確認。
   
 <http://api.twitter.com/1/statuses/user_timeline/115794727.json>
 
-[javascript]
-  
-[
-    
-{
-      
-id_str: "170792755415625728",
-      
-created_at: "Sat Feb 18 08:52:20 +0000 2012",
-      
-user: {
-        
-id: 115794727,
-        
-location: "兵庫県",
-        
-name: "かとう えい",
-        
-その他省略・・
-      
-},
-      
-id: 170792755415625730,
-      
-text: "今日はブログを書く。",
-      
-その他省略・・
-    
-},
-    
-{
-      
-id_str: "170760803748818944",
-      
-created_at: "Sat Feb 18 06:45:22 +0000 2012",
-      
-user: {
-        
-id: 115794727,
-        
-location: "兵庫県",
-        
-name: "かとう えい",
-        
-その他省略・・
-      
-},
-      
-id: 170760803748818940,
-      
-text: "WIRED.jp http://t.co/5X0hk4po",
-      
-その他省略・・
-    
-},
-    
-その他のTweet省略・・
-  
+```javascript
+[{
+    id_str: "170792755415625728",
+    created_at: "Sat Feb 18 08:52:20 +0000 2012",
+    user: {
+      id: 115794727,
+      location: "兵庫県",
+      name: "かとう えい",
+      その他省略・・
+    },
+    id: 170792755415625730,
+    text: "今日はブログを書く。",
+    その他省略・・
+  }, {
+    id_str: "170760803748818944",
+    created_at: "Sat Feb 18 06:45:22 +0000 2012",
+    user: {
+      id: 115794727,
+      location: "兵庫県",
+      name: "かとう えい",
+      その他省略・・
+    },
+    id: 170760803748818940,
+    text: "WIRED.jp http://t.co/5X0hk4po",
+    その他省略・・
+  },
+  その他のTweet省略・・
 ]
 
-[/javascript]
+```
   
 上記の内容が入っている（かなり省略した）。先ほどと違うのは、配列で返ってきていること。配列の中身はTweetの情報。
   
@@ -187,53 +132,31 @@ text: "WIRED.jp http://t.co/5X0hk4po",
 
 ## Javaへ変換して表示
 
-[java]
-  
+```java
 public class Tweet {
-	  
-private String id_str;
-	  
-private String id;
-	  
-private String text;
-	  
-private User user;
-
-// getter, setterは記述を省略・・
-  
+  private String id_str;
+  private String id;
+  private String text;
+  private User user;
+  // getter, setterは記述を省略・・
 }
-
-[/java]
+```
   
 上記がTweetを格納するクラス。
 
-[java]
-  
+```java
 // JSON to Java
-  
 Gson gson = new Gson();
-  
 Type collectionType = new TypeToken<Collection<Tweet>>(){}.getType();
-  
-List<Tweet> timeLine = gson.fromJson(jsonData.toString(),
-		  
-collectionType);
-
+List<Tweet> timeLine = gson.fromJson(jsonData.toString(), collectionType);
 for (Tweet tweet : timeLine) {
-	  
-System.out.println("tweet user = " + tweet.getUser().name);
-	  
-System.out.println("id\_str = " + tweet.getId\_str());
-	  
-System.out.println("id = " + tweet.getId());
-	  
-System.out.println("text = " + tweet.getText());
-	  
-System.out.println();
-  
+  System.out.println("tweet user = " + tweet.getUser().name);
+  System.out.println("id\_str = " + tweet.getId\_str());
+  System.out.println("id = " + tweet.getId());
+  System.out.println("text = " + tweet.getText());
+  System.out.println();
 }
-
-[/java]
+```
   
 コレクション型を指定して、JSONをデシリアライズする。実行すると、対象のTweetデータを表示する。20件ほど表示される。
 
@@ -249,71 +172,37 @@ JSONデータを呼び出せることを確認。「eiKatou」で検索した場
   
 <http://search.twitter.com/search.json?q=eiKatou>
 
-[javascript]
-  
+```javascript
 {
-    
-page: 1,
-    
-query: "eiKatou",
-    
-refresh\_url: "?since\_id=170794708556197888&q=eiKatou",
-    
-results: [
-      
-{
-        
-created_at: "Sat, 18 Feb 2012 09:00:06 +0000",
-        
-from_user: "eiKatou",
-        
-from\_user\_id: 115794727,
-        
-from\_user\_id_str: "115794727",
-        
-from\_user\_name: "かとう えい",
-        
-id: 170794708556197900,
-        
-id_str: "170794708556197888",
-        
-text: "今日はいい天気。",
-        
-省略・・
-      
-},
-      
-{
-        
-created_at: "Sat, 18 Feb 2012 09:00:06 +0000",
-        
-from_user: "eiKatou",
-        
-from\_user\_id: 115794727,
-        
-from\_user\_id_str: "115794727",
-        
-from\_user\_name: "かとう えい",
-        
-id: 170794708556197900,
-        
-id_str: "170794708556197888",
-        
-text: "フォローミー！",
-        
-省略・・
-      
-},
-      
-省略・・
-    
-],
-    
-省略・・
-  
+  page: 1,
+  query: "eiKatou",
+  refresh\ _url: "?since\_id=170794708556197888&q=eiKatou",
+  results: [{
+      created_at: "Sat, 18 Feb 2012 09:00:06 +0000",
+      from_user: "eiKatou",
+      from\ _user\ _id: 115794727,
+      from\ _user\ _id_str: "115794727",
+      from\ _user\ _name: "かとう えい",
+      id: 170794708556197900,
+      id_str: "170794708556197888",
+      text: "今日はいい天気。",
+      省略・・
+    }, {
+      created_at: "Sat, 18 Feb 2012 09:00:06 +0000",
+      from_user: "eiKatou",
+      from\ _user\ _id: 115794727,
+      from\ _user\ _id_str: "115794727",
+      from\ _user\ _name: "かとう えい",
+      id: 170794708556197900,
+      id_str: "170794708556197888",
+      text: "フォローミー！",
+      省略・・
+    },
+    省略・・
+  ],
+  省略・・
 }
-
-[/javascript]
+```
   
 上記の内容が入っている。先ほどと違うのは、オブジェクトの中に配列があること。
   
@@ -321,59 +210,38 @@ text: "フォローミー！",
 
 ## Javaへ変換して表示
 
-[java]
-  
+```java
 public class SearchResults {
-	  
-private int page;
-	  
-private String query;
-	  
-private List<Tweet> results;
-
-// getter, setterは記述を省略・・
-  
+  private int page;
+  private String query;
+  private List<Tweet> results;
+  // getter, setterは記述を省略・・
+    
 }
-  
-[/java]
+```
   
 上記はJSONデータを格納するSearchResultsクラス。
   
 resultsはJSONのフィールド名と同じにしている。検索結果のTweetがresultsに入ってくる。
 
-[java]
-  
+```java
 // JSON to Java
-  
 Gson gson = new Gson();
-  
 SearchResults results = gson.fromJson(jsonData.toString(),
-		  
 SearchResults.class);
-
 System.out.println("page = " + results.getPage());
-  
 System.out.println("query = " + results.getQuery());
-  
 System.out.println();
-  
 for (Tweet tweet : results.getResults()) {
-	  
-// tweet.getUser() is null.
-  
-// System.out.println("tweet user = " + tweet.getUser().getName());
-	  
-System.out.println("id\_str = " + tweet.getId\_str());
-	  
-System.out.println("id = " + tweet.getId());
-	  
-System.out.println("text = " + tweet.getText());
-	  
-System.out.println();
-  
+  // tweet.getUser() is null.
+  // System.out.println("tweet user = " + tweet.getUser().getName());
+  System.out.println("id\_str = " + tweet.getId\_str());
+  System.out.println("id = " + tweet.getId());
+  System.out.println("text = " + tweet.getText());
+  System.out.println();
 }
   
-[/java]
+```
   
 これを実行すると、検索結果のtweet一覧が表示される。中に配列が入っていても簡単！ 
 
@@ -395,12 +263,8 @@ Gson以外だと、[JsonPullParser][4]も気になっている。
   
 Gsonは、Androidでも使うことが出来る。AndroidでTwitterアプリを作りたい方、私好みのTwitterアプリを作ってください！
 
-（追伸3）
-  
-「[eiKatou][5]」をフォローミー！
 
  [1]: http://code.google.com/p/google-gson/
  [2]: http://sites.google.com/site/gson/gson-user-guide
  [3]: /uploads/2012/02/gson_sample1.zip
  [4]: https://github.com/vvakame/JsonPullParser/wiki/JsonPullParser_ja
- [5]: https://twitter.com/#!/eiKatou
