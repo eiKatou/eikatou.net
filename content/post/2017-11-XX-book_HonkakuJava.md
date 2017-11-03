@@ -1,9 +1,9 @@
 ---
 title: "読書：Java本格入門"
-date: 2017-11-02T06:30:51+09:00
+date: 2017-11-03T09:00:00+09:00
 author: eiKatou
 type: post
-url: /201711XX.html
+url: /20171103.html
 archives:
   - 2017
 tags:
@@ -19,11 +19,46 @@ tags:
 
 少し前に話題になったJava本。「Javaを使ってきたけど、最新のJavaのトレンドを抑えたい」という気持ちで購入した。非常に役に立つ本だった。
 
-<!--more-->
-
 コレクションの使い方から、マルチスレッド時の注意事項、Apache Commonsなどのライブラリの事まで、幅広く記載されている。幅広いけど実戦で使える内容に絞られている。短時間で役に立つ知識が身につけられる一冊。
 
-# 内容紹介
+自分の知識が増えたと思う内容をまとめておく。
+
+<!--more-->
+
+
+# プリミティブ型
+
+プリミティブ型からラッパークラスに変換するときは、valueOfメソッドを使う。-127から128の範囲であれば、事前にオブジェクトが生成済みで、新規にオブジェクトを生成することがなく効率的。
+
+いつも、IntegerとintとStringの変換メソッドが思い出せないので、以下にまとめておく。
+
+```java
+// StringとInteger
+Integer num = Integer.valueOf("1");
+String str = num.toString();
+
+// Integerとint
+Integer num = Integer.valueOf(2);
+int i = num.intValue();
+
+// intとString
+int i = Integer.parseInt("3");
+String str = String.valueOf(i)
+```
+
+# 配列の初期化
+
+配列の初期化方法は3パターン。
+
+```java
+int[] array 1 = new int[ 10]; // 宣言時に内容が決まっていないとき
+int[] array 2 = { 1, 2, 3, 4, 5 }; // 宣言時時に内容が決まっているとき
+int[] array 3 = new int[] { 10, 9, 8, 7, 6 }; // 宣言時時に内容が決まっているとき
+```
+
+配列のコピーには、Arrays.copyOfメソッドが使える。
+
+# コレクション
 
 コレクションクラスのところでは、使い所がまとめられている。まとめがあると分かりやすいし、なぜこういう使い分けをするべきかも書かれている。
 
@@ -43,11 +78,22 @@ tags:
     ・その他の場合
     →　HashMap
 
+# マルチスレッド
+
 マルチスレッドのところでは、以下のような注意事項があったり・・。どう対応するのかも書かれている。
 
     HashMapに対して複数のスレッドから同時にアクセスする場合は、次のような対処が必要になります。
     ・複数のスレッドから同時にアクセスできないように、synchronizedなどにより同期化する
     ・複数のスレッドからアクセスされても安全に使えるConcurrentHashMapを使用する
+
+# ユーティリティクラス
+
+ユーティリティクラスはstaticメソッドにしない。利用する側のクラスに、staticインスタンスで持たせる方法があるという話し。テストの時にモック化できない問題は分かるけど、利用側クラスでstaticインスタンスにしてくれるか心配。自分はIoCコンテナに登録しておく方法を使っている。
+
+    全てのメソッドをstaticとする、ユーティリティクラスを作成することがよくあります。ユーティリティクラスのメソッドがすべてstaticである理由は、インスタンス生成の無駄を省くことにあります。ユーティリティクラスを毎回newしてメソッドを呼び出すよりも、直接メソッドを>呼び出したほうが効率的だからです。
+    ただし、staticメソッドばかりでは拡張性がなく、またテストをおこなう際にメソッドをモック化できないため、筆者は普段、ユーティリティクラス自体は非staticメソッドで構成して、インスタンスをstaticにする手法を採用しています。
+
+# ログ出力
 
 ログの出力のところでは、このような問題があることが記載されている。
 
@@ -56,7 +102,7 @@ tags:
 
     アプリケーションのログレベルがINFOで動作していた場合、DEBUGレベルのログは出力されません。しかし、その出力レベルの判定は、ライブラリの中でおこなわれます。上記のコードでは、ライブラリの中に入る前に、employeeオブジェクトとdepartmentオブジェクトのtoStringメソッドを実行することになり、toStringメソッドの処理が重いために、アプリケーションのパフォーマンスも悪くなってしまいます。
 
-これは、少し前に仕事で問題となったところだった。SL4Jではこの問題は解決されていて、プレースホルダーを利用することで、ライブラリ内でtoStringメソッドが実行されるようになっているとのこと。つまり、INFOで動作しているときはtoStringメソッドは呼ばれずにパフォーマンスが悪くなることもない。
+これは、少し前に仕事で問題となったところだった。SL4Jではこの問題は解決されていて、プレースホルダーを利用することで、ライブラリ内でtoStringメソッドが実行されるようになっているとのこと。つまり、INFOで動作しているときはdebugメソッド内のtoStringメソッドは呼ばれずに、パフォーマンスが悪くなることもない。
 
 ---
 <div class="amazlet-box" style="margin-bottom:0px;"><div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B071D8RYR5/eikatou-22/ref=nosim/" name="amazletlink" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BIaJT2TKL._SL160_.jpg" alt="Java本格入門 ～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで" style="border: none;" /></a></div><div class="amazlet-info" style="line-height:120%; margin-bottom: 10px"><div class="amazlet-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B071D8RYR5/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Java本格入門 ～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで</a><div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 17.11.01</div></div><div class="amazlet-detail">技術評論社 (2017-04-18)<br />売り上げランキング: 20,973<br /></div><div class="amazlet-sub-info" style="float: left;"><div class="amazlet-link" style="margin-top: 5px"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B071D8RYR5/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a></div></div></div><div class="amazlet-footer" style="clear: left"></div></div>
