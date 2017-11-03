@@ -18,23 +18,19 @@ tags:
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4800200725/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">珈琲店タレーランの事件簿 また会えたなら、あなたの淹れた珈琲を (宝島社文庫 『このミス』大賞シリーズ)</a></p> 
-      
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/" title="amazlet" target="_blank">amazlet</a> at 13.05.17
       </div>
     </div>
-    
     <div class="amazlet-detail">
       岡崎 琢磨 <br />宝島社 (2012-08-04)<br />売り上げランキング: 1,352
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4800200725/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jpで詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
 </div>
