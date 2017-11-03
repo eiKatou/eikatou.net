@@ -16,27 +16,22 @@ tags:
   <div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
     <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4873115574/eikatou-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41jDv9YsOuL._SL160_.jpg" alt="インタフェースデザインの心理学 ―ウェブやアプリに新たな視点をもたらす100の指針" style="border: none;" /></a>
   </div>
-  
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4873115574/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">インタフェースデザインの心理学 ―ウェブやアプリに新たな視点をもたらす100の指針</a></p> 
-      
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/browse/ASIN/4873115574/eikatou-22/ref=nosim/" title="インタフェースデザインの心理学 ―ウェブやアプリに新たな視点をもたらす100の指針" target="_blank">amazlet</a> at 12.12.15
       </div>
     </div>
-    
     <div class="amazlet-detail">
       Susan Weinschenk <br />オライリージャパン <br />売り上げランキング: 1045
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4873115574/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
 </div>

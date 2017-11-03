@@ -10,36 +10,31 @@ tags:
   - 読書
 
 ---
-「[この世で一番おもしろいマクロ経済学][1]<img src="http://www.assoc-amazon.jp/e/ir?t=eikatou-22&#038;l=as2&#038;o=9&#038;a=4478017832" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」という本を見つけて、買ってきた。
+「この世で一番おもしろいマクロ経済学」という本を見つけて、買ってきた。
 
 <div class="amazlet-box" style="margin-bottom:0px;">
   <div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
     <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478017832/eikatou-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/611yG6IV2OL._SL160_.jpg" alt="この世で一番おもしろいマクロ経済学――みんながもっと豊かになれるかもしれない16講" style="border: none;" /></a>
   </div>
-  
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478017832/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">この世で一番おもしろいマクロ経済学――みんながもっと豊かになれるかもしれない16講</a></p> 
-      
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/browse/ASIN/4478017832/eikatou-22/ref=nosim/" title="この世で一番おもしろいマクロ経済学――みんながもっと豊かになれるかもしれない16講" target="_blank">amazlet</a> at 12.07.29
       </div>
     </div>
-    
     <div class="amazlet-detail">
       ヨラム・バウマン グレディ・クライン <br />ダイヤモンド社 <br />売り上げランキング: 900
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478017832/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
-</div></p> 
+</div>
 
 ## どんな本？
 
@@ -65,27 +60,22 @@ tags:
   <div class="amazlet-image" style="float:left;margin:0px 12px 1px 0px;">
     <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478013241/eikatou-22/ref=nosim/" name="amazletlink" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51XKPDsDcrL._SL160_.jpg" alt="この世で一番おもしろいミクロ経済学――誰もが「合理的な人間」になれるかもしれない16講" style="border: none;" /></a>
   </div>
-  
   <div class="amazlet-info" style="line-height:120%; margin-bottom: 10px">
     <div class="amazlet-name" style="margin-bottom:10px;line-height:120%">
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478013241/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">この世で一番おもしろいミクロ経済学――誰もが「合理的な人間」になれるかもしれない16講</a></p> 
-      
       <div class="amazlet-powered-date" style="font-size:80%;margin-top:5px;line-height:120%">
         posted with <a href="http://www.amazlet.com/browse/ASIN/4478013241/eikatou-22/ref=nosim/" title="この世で一番おもしろいミクロ経済学――誰もが「合理的な人間」になれるかもしれない16講" target="_blank">amazlet</a> at 12.07.29
       </div>
     </div>
-    
     <div class="amazlet-detail">
       ヨラム・バウマン グレディ・クライン <br />ダイヤモンド社 <br />売り上げランキング: 1076
     </div>
-    
     <div class="amazlet-sub-info" style="float: left;">
       <div class="amazlet-link" style="margin-top: 5px">
         <a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478013241/eikatou-22/ref=nosim/" name="amazletlink" target="_blank">Amazon.co.jp で詳細を見る</a>
       </div>
     </div>
   </div>
-  
   <div class="amazlet-footer" style="clear: left">
   </div>
 </div>
