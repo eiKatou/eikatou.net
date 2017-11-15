@@ -4,7 +4,6 @@ date: {{ .Date }}
 author: eiKatou
 type: post
 url: /YYYYMMDD.html
-draft: true
 archives:
   - 2017
 tags:
