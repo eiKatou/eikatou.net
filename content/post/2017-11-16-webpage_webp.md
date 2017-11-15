@@ -4,7 +4,6 @@ date: 2017-11-16T05:02:49+09:00
 author: eiKatou
 type: post
 url: /20171116.html
-draft: true
 archives:
   - 2017
 tags:
