@@ -9,6 +9,7 @@ archives:
 tags:
   - AWS 
   - Dev
+  - Vue.js
 ---
 
 ![AWS Logo](/uploads/logo/aws.jpg)
