@@ -1,6 +1,7 @@
 baseURL = "https://eikatou.net/blog/"
 canonifyurls = true
 languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "eiKatouの日記"
 paginate = 3
 metaDataFormat = "yaml"
