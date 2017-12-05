@@ -1,0 +1,162 @@
+$ git log -p -7 > diff.txt
+
+commit a2eb7f9a1fe5316ca73e8c1f9e501e5b147ea719
+Author: かとう えい <>
+Date:   Wed Dec 6 00:04:33 2017 +0900
+
+    記事を読む時間の表示を削除
+
+diff --git a/layouts/partials/post_meta.html b/layouts/partials/post_meta.html
+index c94116e..1ef4af9 100644
+--- a/layouts/partials/post_meta.html
++++ b/layouts/partials/post_meta.html
+@@ -1,6 +1,5 @@
+ <span class="post-meta">
+   <i class="fa fa-calendar-o"></i>&nbsp;{{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "postedOnDate" }}
+-  &nbsp;|&nbsp; <i class="fa fa-clock-o"></i>{{ i18n "readingTime"}} {{ .ReadingTime }} {{ i18n "readTime" }} ({{ .WordCount }} {{ i18n "words" }})
+   {{- if .Site.Params.staticman -}}
+     &nbsp;|&nbsp;  <i class="fa fa-comment-o"></i>
+     {{ $slug := replace .URL "/" "" }}
+
+commit 295a7617e8d294927656ef504da5a8f149857b08
+Author: かとう えい <>
+Date:   Tue Dec 5 23:48:13 2017 +0900
+
+    フォントを変更
+
+diff --git a/static/css/main.css b/static/css/main.css
+index bebfecb..d4502e5 100644
+--- a/static/css/main.css
++++ b/static/css/main.css
+@@ -1,7 +1,7 @@
+ /* --- General --- */
+ 
+ body {
+-  font-family: 'Lora', 'Times New Roman', serif;
++  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 18px;
+   color: #404040;
+   position: relative;
+
+commit 07eab4079917529c3cf24e8655fc7104f3bc7903
+Author: かとう えい <>
+Date:   Tue Dec 5 23:46:57 2017 +0900
+
+    RSSのリンクをindex.xmlに修正。og:urlとcanonicalをPermalinkに修正。
+
+diff --git a/layouts/partials/head.html b/layouts/partials/head.html
+index 19d5539..8a9a1b1 100644
+--- a/layouts/partials/head.html
++++ b/layouts/partials/head.html
+@@ -30,14 +30,14 @@
+ {{- with .Site.Params.fb_app_id }}
+   <meta property="fb:app_id" content="{{ . }}" />
+ {{- end }}
+-  <meta property="og:url" content="{{ .URL | absLangURL }}" />
++  <meta property="og:url" content="{{ .Permalink }}" />
+   <meta property="og:type" content="website" />
+   <meta property="og:site_name" content="{{ .Site.Title }}" />
+ <!-- Hugo Version number -->
+   {{ .Hugo.Generator -}}
+ <!-- Links and stylesheets -->
+-  <link rel="canonical" href="{{ .URL | absLangURL }}" />
+-  <link rel="alternate" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
++  <link rel="canonical" href="{{ .Permalink }}" />
++  <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+commit 03dcc8b815d3ff5e59233c5149f0da5432f37d6b
+Author: かとう えい <>
+Date:   Tue Dec 5 23:46:38 2017 +0900
+
+    別サイトをリンクで開くように修正
+
+diff --git a/layouts/partials/footer.html b/layouts/partials/footer.html
+index 716243a..b52c101 100644
+--- a/layouts/partials/footer.html
++++ b/layouts/partials/footer.html
+@@ -84,4 +84,12 @@
+ </script>
+ {{ end }}
+ 
++<script language="JavaScript">
++  $(document).ready( function () {
++    if (location.hostname == "localhost" || location.hostname == "eikatou.net") {
++      $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
++    }
++  })
++  </script>
++
+ {{- partial "footer_custom.html" . }}
+
+commit 5fdd9e053a59dde3834913424c390ea69fe04f05
+Author: かとう えい <>
+Date:   Tue Dec 5 23:46:22 2017 +0900
+
+    一覧の並びをアルファベットの昇順に変更
+
+diff --git a/layouts/_default/terms.html b/layouts/_default/terms.html
+index 3a8a692..d232afe 100644
+--- a/layouts/_default/terms.html
++++ b/layouts/_default/terms.html
+@@ -3,7 +3,7 @@
+   <div class="container" role="main">
+     <article class="post-preview">
+       <div class="list-group col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3">
+-      {{ range $key, $value := .Data.Terms.ByCount }}
++      {{ range $key, $value := .Data.Terms.Alphabetical }}
+       <a href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/" class="list-group-item">
+           {{ $value.Name }}<span class="badge">{{ $value.Count }}</span></a>
+       {{ end }}
+
+commit fce4c1c84aa61b36addea41ab4addb065d86ae19
+Author: かとう えい <>
+Date:   Tue Dec 5 23:45:42 2017 +0900
+
+    トップページでタグ一覧を表示するように修正
+
+diff --git a/layouts/_default/single.html b/layouts/_default/single.html
+index 419edb2..ae6cdca 100644
+--- a/layouts/_default/single.html
++++ b/layouts/_default/single.html
+@@ -5,6 +5,18 @@
+       <article role="main" class="blog-post">
+         {{ .Content }}
+       </article>
++      
++      {{ if .Params.tags }}
++      <div class="post-heading" style="padding:20px 0px">
++        <!--<span style="font-weight: 800;font-size: 14px;">Tags&nbsp;&nbsp;</span>-->
++        <span class="post-preview post-meta">
++          Tags&nbsp;
++        {{ range .Params.tags }}
++          #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
++        {{ end }}
++        </span>
++      </div>
++      {{ end }}
+ 
+       <ul class="pager blog-pager">
+         {{ if .PrevInSection }}
+
+commit 3f881c94969b3f32920c594c48407f77bf9b8d38
+Author: かとう えい <>
+Date:   Tue Dec 5 23:44:43 2017 +0900
+
+    フッターの日本語を修正
+
+diff --git a/i18n/ja.yaml b/i18n/ja.yaml
+index 5eedef9..d8dffca 100644
+--- a/i18n/ja.yaml
++++ b/i18n/ja.yaml
+@@ -31,7 +31,7 @@
+ 
+ # Footer
+ - id: poweredBy # Accepts HTML
+-  translation: '起動力に<a href="http://gohugo.io">Hugo v{{ .Hugo.Version }}</a> &nbsp;&bull;&nbsp; テーマに<a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>に基づいている<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
++  translation: '<a href="http://gohugo.io">Hugo v{{ .Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
+ 
+ # Navigation
+ - id: toggleNavigation
