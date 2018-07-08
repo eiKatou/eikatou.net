@@ -2,7 +2,7 @@ baseURL = "https://eikatou.net/blog/"
 canonifyurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "eiKatouの日記"
+title = "Kateaの日記"
 paginate = 3
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -10,9 +10,8 @@ pygmentCodeFences = true
 googleAnalytics = "UA-29096623-1"
 
 [Author]
-  name = "eiKatou"
-  github = "eiKatou"
-  twitter = "eiKatou"
+  name = "Katea"
+  github = "Katea"
 
 [Params]
 #  subtitle = "Build a beautiful and simple website in minutes"
