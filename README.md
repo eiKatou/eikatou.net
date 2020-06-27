@@ -12,7 +12,7 @@ Command+Pでファイルを開く。
 
 # テーマ指定でサーバを起動
 ```bash
-hugo server --theme=beautifulhugo
+./blog_localrun.sh
 ```
 
 以下でローカルモードにアクセス  
@@ -39,10 +39,12 @@ git pull
 ```
 
 # テーマ
-[beautifulhugo](https://github.com/halogenica/beautifulhugo)を別の場所にチェックアウトして、/themes/ディレクトリにシンボリックリンクを配置。
+[beautifulhugo](https://github.com/halogenica/beautifulhugo)をforkした[beautifulhugo - eiKatou](https://github.com/eiKatou/beautifulhugo)を利用する。
 
-変更をコミットしている。差分を抽出したファイルを配置。  
-/themes/beautifulhugo_diff.txt
+テーマの開発をするときは、以下で起動すること。
+```bash
+hugo server --theme=beautifulhugo_dev
+```
 
 # 便利なサイト
 - [スマホアプリ紹介](http://mama-hack.com/app-reach/)
