@@ -30,10 +30,16 @@ git commit -m "記事を追加"
 git log --oneline -5
 git push origin issueXX_NAME
 ```
-github上でプルリクエストを作成。masterにマージ。その後S3に展開。
+github上でプルリクエストを作成。masterにマージ。
+
+# デプロイ
+masterにpushすると、AWS CodeBuildで自動的にデプロイされる。ビルド結果はSlackに通知が来る。
+設定はbuildspec.yml。
+
+# 手動デプロイ
+自分のPCに環境が設定されている必要がある。
 ```bash
 git checkout master
-git branch -D issueXX_NAME
 git pull
 ./blog_publish.sh
 ```
