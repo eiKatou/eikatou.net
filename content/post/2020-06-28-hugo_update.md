@@ -7,7 +7,7 @@ url: /20200628.html
 archives:
   - 2020
 tags:
-  - 雑記
+  - Web
 ---
 
 ![hugo_logo](/uploads/logo/hugo.jpg)
