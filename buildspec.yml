@@ -22,7 +22,7 @@ phases:
       - aws s3 rm s3://eikatou.net/blog/archives/index.xml
       - aws s3 rm s3://eikatou.net/blog/tags/index.html
       - aws s3 rm s3://eikatou.net/blog/tags/index.xml
-      - aws s3 sync --size-only --delete blog s3://eikatou.net --exclude *.tmp --exclude .DS_Store
+      - aws s3 sync --size-only --delete blog s3://eikatou.net/blog/ --exclude *.tmp --exclude .DS_Store
       - aws s3 cp s3://eikatou.net/google8f78f6eb936c1d12.html s3://eikatou.net/blog/google8f78f6eb936c1d12.html
       - aws s3 ls s3://eikatou.net
       - aws cloudfront create-invalidation --distribution-id E1SK2Q7CXNWG24 --paths /blog/ /blog/index.html /blog/index.xml /blog/archives/ /blog/archives/* /blog/tags/ /blog/tags/* /blog/page/* /blog/feed/* /blog/post/*
