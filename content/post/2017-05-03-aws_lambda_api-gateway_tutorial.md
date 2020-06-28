@@ -114,7 +114,7 @@ Lambdaの管理コンソールから、以下のJSONを投げてテスト実行�
 
 いきなりAPIを呼び出すと、「Internal Server Error」が返ってくる。API Gatewayを使う前にデプロイしておく必要がある。
   
-<img src="/uploads/2017/05/170503-0001.jpg" alt="" width="600" height="237" class="alignnone size-full wp-image-3401" srcset="/uploads/2017/05/170503-0001.jpg 600w, /uploads/2017/05/170503-0001-300x119.jpg 300w, /uploads/2017/05/170503-0001-500x198.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />
+![_](/uploads/2017/05/170503-0001.jpg)
 
 APIのURLを覚えておく。ここでは以下のようなURLだったとして記述する。
   
