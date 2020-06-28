@@ -1,0 +1,28 @@
+version: 0.2
+
+env:
+phases:
+  install:
+    commands:
+      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - tar xf /tmp/hugo.tar.gz -C /tmp
+      - mv /tmp/hugo /usr/bin/hugo
+      - rm -rf /tmp/hugo*
+  build:
+    commands:
+      - curl -L https://github.com/eiKatou/beautifulhugo/archive/master.zip -o themes/beautifulhugo.zip
+      - unzip themes/beautifulhugo.zip -d themes/
+      - mv themes/beautifulhugo-master themes/beautifulhugo
+      - hugo --theme=beautifulhugo
+  post_build:
+    commands:
+      - aws s3 rm s3://eikatou.net/blog/index.html
+      - aws s3 rm s3://eikatou.net/blog/index.xml
+      - aws s3 rm s3://eikatou.net/blog/archives/index.html
+      - aws s3 rm s3://eikatou.net/blog/archives/index.xml
+      - aws s3 rm s3://eikatou.net/blog/tags/index.html
+      - aws s3 rm s3://eikatou.net/blog/tags/index.xml
+      - aws s3 sync --size-only --delete ${WWW_PUBLIC} s3://eikatou.net --exclude *.tmp --exclude .DS_Store
+      - aws s3 cp s3://eikatou.net/google8f78f6eb936c1d12.html s3://eikatou.net/blog/google8f78f6eb936c1d12.html
+      - aws s3 ls s3://eikatou.net
+      - aws cloudfront create-invalidation --distribution-id E1SK2Q7CXNWG24 --paths /blog/ /blog/index.html /blog/index.xml /blog/archives/ /blog/archives/* /blog/tags/ /blog/tags/* /blog/page/* /blog/feed/* /blog/post/*
