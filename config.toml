@@ -9,6 +9,9 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 googleAnalytics = "UA-29096623-1"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [Author]
   name = "Katea"
   github = "Katea"
