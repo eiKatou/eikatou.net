@@ -57,7 +57,7 @@ finished. total time: 81.113s
   
 [/bash]
 
-[<img src="/uploads/2012/07/GN_oemunlock.jpg" alt="" title="GN_oemunlock" width="451" height="601" class="alignnone size-full wp-image-1681" srcset="/uploads/2012/07/GN_oemunlock.jpg 451w, /uploads/2012/07/GN_oemunlock-225x300.jpg 225w" sizes="(max-width: 451px) 100vw, 451px" />][6]
+![_](/uploads/2012/07/GN_oemunlock.jpg)
   
 ロック解除画面が立ち上がってくるので、音量の上ボタンを押してYESを選択して、電源ボタンで実行する。OEM Unlock完了。 
 
@@ -83,7 +83,7 @@ finished. total time: 1.164s
   
 [/bash]
   
-[<img src="/uploads/2012/07/GN_CWM.jpg" alt="" title="GN_CWM" width="338" height="451" class="alignnone size-full wp-image-1683" srcset="/uploads/2012/07/GN_CWM.jpg 338w, /uploads/2012/07/GN_CWM-224x300.jpg 224w" sizes="(max-width: 338px) 100vw, 338px" />][8]
+![_](/uploads/2012/07/GN_CWM.jpg)
   
 起動すると、青い文字の画面となる。
 

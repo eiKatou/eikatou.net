@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/uploads/2012/11/IMG_1032.jpg" alt="" title="IMG_1032" width="451" height="338" class="alignnone size-full wp-image-2115" srcset="/uploads/2012/11/IMG_1032.jpg 451w, /uploads/2012/11/IMG_1032-300x224.jpg 300w, /uploads/2012/11/IMG_1032-400x300.jpg 400w" sizes="(max-width: 451px) 100vw, 451px" />][1]
+![_](/uploads/2012/11/IMG_1032.jpg)
   
 先日、「[あにまるバッテリーグッズ・ショップ あにぐー！][2]」がオープンしたと聞いたので、グッズを買ってみた。動物（アニマル）は、Androidアプリの「あにまるバッテリー」のキャラクタだ。
 

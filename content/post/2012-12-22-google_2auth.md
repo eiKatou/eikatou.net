@@ -24,7 +24,7 @@ tags:
 
 Googleのアカウントにログインしようとすると、警告が表示された。
   
-[<img src="/uploads/2012/12/20121222a.jpg" alt="" title="20121222a" width="320" height="480" class="alignnone size-full wp-image-2269" srcset="/uploads/2012/12/20121222a.jpg 320w, /uploads/2012/12/20121222a-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+![_](/uploads/2012/12/20121222a.jpg)
   
 「不正な操作が検出されました。」と教えてもらったので、不正ログインだと判明。当初は、スマートフォンのアドレス帳の情報を抜かれた可能性を疑っていた。 
 
@@ -55,7 +55,7 @@ SMSで確認を行って、パソコンでGmailにログイン。スクロール
 
 他のパソコンで、IDとパスワードを入れてログインしようとすると、こんな画面が表示される。
   
-[<img src="/uploads/2012/12/20121222b-300x300.jpg" alt="" title="20121222b" width="300" height="300" class="alignnone size-medium wp-image-2268" srcset="/uploads/2012/12/20121222b-300x300.jpg 300w, /uploads/2012/12/20121222b-150x150.jpg 150w, /uploads/2012/12/20121222b-299x300.jpg 299w, /uploads/2012/12/20121222b-120x120.jpg 120w, /uploads/2012/12/20121222b.jpg 305w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+![_](/uploads/2012/12/20121222b-300x300.jpg)
   
 このように、他のパソコンからログインできなくなる。
   

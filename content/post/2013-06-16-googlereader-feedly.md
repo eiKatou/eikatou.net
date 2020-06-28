@@ -44,15 +44,15 @@ Googleリーダーの終了まで後半月。ReederのローカルRSSを使っ�
 
 カバーフロー、雑誌のように表紙が表示される。
   
-[<img src="/uploads/2013/06/d3342e1ec4a4c7ff8f3acb50aa01c2fe.jpg" alt="写真 2013-06-16 10 53 50" width="320" height="480" class="alignnone size-full wp-image-2897" srcset="/uploads/2013/06/d3342e1ec4a4c7ff8f3acb50aa01c2fe.jpg 320w, /uploads/2013/06/d3342e1ec4a4c7ff8f3acb50aa01c2fe-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][3]
+![_](/uploads/2013/06/d3342e1ec4a4c7ff8f3acb50aa01c2fe.jpg)
 
 RSSの一覧表示。
   
-[<img src="/uploads/2013/06/8e5c3ac2e99509ab0a446c00da567759.jpg" alt="写真 2013-06-16 10 50 57" width="320" height="480" class="alignnone size-full wp-image-2895" srcset="/uploads/2013/06/8e5c3ac2e99509ab0a446c00da567759.jpg 320w, /uploads/2013/06/8e5c3ac2e99509ab0a446c00da567759-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][4]
+![_](/uploads/2013/06/8e5c3ac2e99509ab0a446c00da567759.jpg)
 
 カテゴリの表示。
   
-[<img src="/uploads/2013/06/f0b7010db19b82468850948ab70dc4b3.jpg" alt="写真 2013-06-16 10 53 46" width="320" height="480" class="alignnone size-full wp-image-2896" srcset="/uploads/2013/06/f0b7010db19b82468850948ab70dc4b3.jpg 320w, /uploads/2013/06/f0b7010db19b82468850948ab70dc4b3-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
+![_](/uploads/2013/06/f0b7010db19b82468850948ab70dc4b3.jpg)
 
 ## Feedly 所感
 

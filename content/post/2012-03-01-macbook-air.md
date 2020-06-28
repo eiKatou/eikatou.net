@@ -12,7 +12,7 @@ tags:
 ---
 Macbook Airを買った。いや、買っていた（3ヶ月前に）。黙ってた。。
 
-[<img src="/uploads/2012/02/201203_mba1-300x225.jpg" alt="" title="Macbook Air" width="300" height="225" class="alignnone size-medium wp-image-937" srcset="/uploads/2012/02/201203_mba1-300x225.jpg 300w, /uploads/2012/02/201203_mba1-400x300.jpg 400w, /uploads/2012/02/201203_mba1.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+![_](/uploads/2012/02/201203_mba1-300x225.jpg)
 
 ## MacBook Air 2011 (MC966J/A)
 
@@ -45,7 +45,7 @@ iMacとMacBook Airを比較してみると、MacBook Airの方が気に入って
 
 ## 本棚に収納
 
-[<img src="/uploads/2012/02/201203_mba2-185x300.jpg" alt="" title="201203_mba2" width="185" height="300" class="alignnone size-medium wp-image-944" srcset="/uploads/2012/02/201203_mba2-185x300.jpg 185w, /uploads/2012/02/201203_mba2.jpg 400w" sizes="(max-width: 185px) 100vw, 185px" />][2]
+![_](/uploads/2012/02/201203_mba2-185x300.jpg)
   
 一番気に入っているのは、MacBook Airを本棚に立てかける事。
 

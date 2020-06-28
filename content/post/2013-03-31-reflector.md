@@ -11,7 +11,7 @@ tags:
   - Apple
 
 ---
-[<img src="/uploads/2013/03/20130331a.jpg" alt="20130331a" width="400" height="160" class="alignnone size-full wp-image-2683" srcset="/uploads/2013/03/20130331a.jpg 400w, /uploads/2013/03/20130331a-300x120.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+![_](/uploads/2013/03/20130331a.jpg)
   
 久しぶりにMacアプリを購入。
   
@@ -37,15 +37,15 @@ App Storeにないので、ライセンスをホームページから購入す�
 
 ホームボタンを２回押して、アプリが並んでいるところを２回スワイプして、下の画面を表示する。
   
-[<img src="/uploads/2013/03/20130331b.jpg" alt="20130331b" width="320" height="480" class="alignnone size-full wp-image-2684" srcset="/uploads/2013/03/20130331b.jpg 320w, /uploads/2013/03/20130331b-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][3]
+![_](/uploads/2013/03/20130331b.jpg)
 
 音量の横にある丸いボタンを押すと、AirPlay先が表示される。Macを選択して、ミラーリングをオンにすると・・
   
-[<img src="/uploads/2013/03/20130331c.jpg" alt="20130331c" width="320" height="480" class="alignnone size-full wp-image-2685" srcset="/uploads/2013/03/20130331c.jpg 320w, /uploads/2013/03/20130331c-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][4]
+![_](/uploads/2013/03/20130331c.jpg)
 
 MacにiPhoneの画面が表示される。
   
-[<img src="/uploads/2013/03/20130331f.jpg" alt="20130331f" width="378" height="667" class="alignnone size-full wp-image-2694" srcset="/uploads/2013/03/20130331f.jpg 378w, /uploads/2013/03/20130331f-170x300.jpg 170w" sizes="(max-width: 378px) 100vw, 378px" />][5]
+![_](/uploads/2013/03/20130331f.jpg)
 
 iPhoneを操作すると、Mac上のiPhoneにも同じ内容が表示されていく（ミラーリング）。
   
@@ -57,7 +57,7 @@ AirPlayのメニューが隠れているので分かりにくいけど、一度�
 
 ツールバーの中にある「Start Recording」を押すと、録画が開始される。録画を終了すると、ファイルが出力される。
   
-[<img src="/uploads/2013/03/20130331e.jpg" alt="20130331e" width="374" height="266" class="alignnone size-full wp-image-2687" srcset="/uploads/2013/03/20130331e.jpg 374w, /uploads/2013/03/20130331e-300x213.jpg 300w" sizes="(max-width: 374px) 100vw, 374px" />][6] 
+![_](/uploads/2013/03/20130331e.jpg)
 
 ## パズドラのプレイ画面を録画する
 

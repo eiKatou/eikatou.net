@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/uploads/2015/11/P_20151103_101820.jpg" alt="P_20151103_101820" width="600" height="337" class="alignnone size-full wp-image-3229" srcset="/uploads/2015/11/P_20151103_101820.jpg 600w, /uploads/2015/11/P_20151103_101820-300x169.jpg 300w, /uploads/2015/11/P_20151103_101820-500x281.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+![_](/uploads/2015/11/P_20151103_101820.jpg)
   
 嫁のスマホをドコモからみおふぉんに変更しました。みおふぉんはIIJ社が提供する携帯電話回線です。みおふぉんに切り替え完了するまでの流れを紹介します。
 
@@ -30,7 +30,7 @@ tags:
 
 10月12日に注文し、10月16日に到着しました。
   
-[<img src="/uploads/2015/11/P_20151103_081808.jpg" alt="P_20151103_081808" width="600" height="337" class="alignnone size-full wp-image-3212" srcset="/uploads/2015/11/P_20151103_081808.jpg 600w, /uploads/2015/11/P_20151103_081808-300x169.jpg 300w, /uploads/2015/11/P_20151103_081808-500x281.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />][2] 
+![_](/uploads/2015/11/P_20151103_081808.jpg)
 
 # ドコモのMNP番号を取得
 
@@ -42,15 +42,15 @@ tags:
 
 パッケージはSIMカードの事を意味しています。パッケージは買っていないので、パッケージなしを選びます。
   
-[<img src="/uploads/2015/11/151103-0001.jpg" alt="151103-0001" width="800" height="442" class="alignnone size-full wp-image-3217" srcset="/uploads/2015/11/151103-0001.jpg 800w, /uploads/2015/11/151103-0001-300x166.jpg 300w, /uploads/2015/11/151103-0001-500x276.jpg 500w" sizes="(max-width: 800px) 100vw, 800px" />][4]
+![_](/uploads/2015/11/151103-0001.jpg)
 
 プランを選びます。プランを選んだ後に、MNPを選択して、氏名やMNP番号の入力を行います。
   
-[<img src="/uploads/2015/11/151103-0002.jpg" alt="151103-0002" width="799" height="574" class="alignnone size-full wp-image-3216" srcset="/uploads/2015/11/151103-0002.jpg 799w, /uploads/2015/11/151103-0002-300x216.jpg 300w, /uploads/2015/11/151103-0002-418x300.jpg 418w" sizes="(max-width: 799px) 100vw, 799px" />][5]
+![_](/uploads/2015/11/151103-0002.jpg)
 
 端末は購入済みなので、SIMカードのみを購入です。また、SIMサイズはスマホに合わせたサイズにします。<a href="https://www.iijmio.jp/hdd/devices/" target="_blank">動作確認端末</a>でSIMサイズを確認できます。
   
-[<img src="/uploads/2015/11/151103-0003.jpg" alt="151103-0003" width="800" height="514" class="alignnone size-full wp-image-3218" srcset="/uploads/2015/11/151103-0003.jpg 800w, /uploads/2015/11/151103-0003-300x193.jpg 300w, /uploads/2015/11/151103-0003-467x300.jpg 467w" sizes="(max-width: 800px) 100vw, 800px" />][6] 
+![_](/uploads/2015/11/151103-0003.jpg)
 
 あとはサイトの内容を見て、申し込みします。申し込み後にメールが届きます。そのメールに書かれたURLから、本人確認資料をアップロードします。本人確認が終わると、会社からSIMカードが発送されます。今回、本人確認から3日でSIMカードが届きました。
 

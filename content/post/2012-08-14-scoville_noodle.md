@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/uploads/2012/08/scoville_noodle1.jpg" alt="" title="scoville_noodle1" width="334" height="352" class="alignnone size-full wp-image-1990" srcset="/uploads/2012/08/scoville_noodle1.jpg 334w, /uploads/2012/08/scoville_noodle1-284x300.jpg 284w" sizes="(max-width: 334px) 100vw, 334px" />][1]
+![_](/uploads/2012/08/scoville_noodle1.jpg)
   
 ようやく、明星食品の「すこびる辛麺 超激辛味噌ラーメン」を手に入れた。
 
@@ -18,7 +18,7 @@ tags:
 
 お湯を入れて5分たったら、粉末ソースと液体ソースを入れる。この２つのソースを入れると・・・
   
-[<img src="/uploads/2012/08/scoville_noodle2.jpg" alt="" title="scoville_noodle2" width="352" height="310" class="alignnone size-full wp-image-1991" srcset="/uploads/2012/08/scoville_noodle2.jpg 352w, /uploads/2012/08/scoville_noodle2-300x264.jpg 300w, /uploads/2012/08/scoville_noodle2-340x300.jpg 340w" sizes="(max-width: 352px) 100vw, 352px" />][2]
+![_](/uploads/2012/08/scoville_noodle2.jpg)
   
 赤い！
 

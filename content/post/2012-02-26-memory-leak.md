@@ -40,13 +40,13 @@ Androidアプリを開発していると、たまにOutOfMemoryに遭遇する�
 
 エミュレータ上でアプリケーションを動かす。アプリケーションを操作する前に、DDMSのUpdate Heapボタンを押しておく。
   
-[<img src="/uploads/2012/02/201202_memory1.jpg" alt="" title="201202_memory1" width="600" height="388" class="alignnone size-full wp-image-865" srcset="/uploads/2012/02/201202_memory1.jpg 600w, /uploads/2012/02/201202_memory1-300x194.jpg 300w, /uploads/2012/02/201202_memory1-463x300.jpg 463w" sizes="(max-width: 600px) 100vw, 600px" />][3]
+![_](/uploads/2012/02/201202_memory1.jpg)
   
 緑色のタンクみたいなアイコンのボタンが、Update Heapボタン。
 
 アプリケーションをいろいろと動かしてみる。調査したい機能が決まっているならば、その機能だけを動かすのもあり。
   
-[<img src="/uploads/2012/02/201202_memory2.jpg" alt="" title="201202_memory2" width="400" height="370" class="alignnone size-full wp-image-868" srcset="/uploads/2012/02/201202_memory2.jpg 400w, /uploads/2012/02/201202_memory2-300x277.jpg 300w, /uploads/2012/02/201202_memory2-324x300.jpg 324w" sizes="(max-width: 400px) 100vw, 400px" />][4]
+![_](/uploads/2012/02/201202_memory2.jpg)
   
 画像を使っている箇所は、メモリ回収できないと、OutOfMemoryが出る可能性があるので、入念にチェックしたい。
 
@@ -56,7 +56,7 @@ Androidアプリを開発していると、たまにOutOfMemoryに遭遇する�
 
 ガベージコレクション(GC)を走らせるのもボタン１つ。
   
-[<img src="/uploads/2012/02/201202_memory3.jpg" alt="" title="201202_memory3" width="600" height="388" class="alignnone size-full wp-image-869" srcset="/uploads/2012/02/201202_memory3.jpg 600w, /uploads/2012/02/201202_memory3-300x194.jpg 300w, /uploads/2012/02/201202_memory3-463x300.jpg 463w" sizes="(max-width: 600px) 100vw, 600px" />][5]
+![_](/uploads/2012/02/201202_memory3.jpg)
   
 Cause GCボタンを押すだけ。いつも３回ぐらい連打している。
 
@@ -64,7 +64,7 @@ Cause GCボタンを押すだけ。いつも３回ぐらい連打している。
 
 ヒープメモリの状態を取得するには、Dump HPROF fileボタンを押す。
   
-[<img src="/uploads/2012/02/201202_memory4.jpg" alt="" title="201202_memory4" width="600" height="388" class="alignnone size-full wp-image-870" srcset="/uploads/2012/02/201202_memory4.jpg 600w, /uploads/2012/02/201202_memory4-300x194.jpg 300w, /uploads/2012/02/201202_memory4-463x300.jpg 463w" sizes="(max-width: 600px) 100vw, 600px" />][6]
+![_](/uploads/2012/02/201202_memory4.jpg)
   
 これでヒープメモリの情報がファイルで出力される。
   
@@ -94,17 +94,17 @@ jhatはJavaのSDKに入っている。
 
 jhatコマンドを実行後に「http://localhost:7000/」にアクセスすると、ヒープの内容が表示される。
   
-[<img src="/uploads/2012/02/201202_memory5.jpg" alt="" title="201202_memory5" width="600" height="529" class="alignnone size-full wp-image-902" srcset="/uploads/2012/02/201202_memory5.jpg 600w, /uploads/2012/02/201202_memory5-300x264.jpg 300w, /uploads/2012/02/201202_memory5-340x300.jpg 340w" sizes="(max-width: 600px) 100vw, 600px" />][9] 
+![_](/uploads/2012/02/201202_memory5.jpg)
 
 # ガベージコレクション(GC)で回収できていないメモリを探す
 
 ヒープの内容が表示されたら、自分のクラスの中身を確認する。
   
-[<img src="/uploads/2012/02/201202_memory6.jpg" alt="" title="201202_memory6" width="400" height="303" class="alignnone size-full wp-image-907" srcset="/uploads/2012/02/201202_memory6.jpg 400w, /uploads/2012/02/201202_memory6-300x227.jpg 300w, /uploads/2012/02/201202_memory6-396x300.jpg 396w" sizes="(max-width: 400px) 100vw, 400px" />][10]
+![_](/uploads/2012/02/201202_memory6.jpg)
   
 自分のクラスのページを開いて、さらに下にスクロール。
 
-[<img src="/uploads/2012/02/201202_memory7.jpg" alt="" title="201202_memory7" width="600" height="480" class="alignnone size-full wp-image-909" srcset="/uploads/2012/02/201202_memory7.jpg 600w, /uploads/2012/02/201202_memory7-300x240.jpg 300w, /uploads/2012/02/201202_memory7-375x300.jpg 375w" sizes="(max-width: 600px) 100vw, 600px" />][11]
+![_](/uploads/2012/02/201202_memory7.jpg)
   
 「References to this object」にリンクが入っていると、メモリにインスタンスが残っている。このActivityはDestoryされていた。GCで回収されないといけないはずなのに、メモリに残っている。
   
@@ -112,7 +112,7 @@ jhatコマンドを実行後に「http://localhost:7000/」にアクセスする
 
 メモリに残っているという事は、参照が残っているということ。どこから参照されているのかが問題となる。そういう時は、すぐ下にある「excludes weak refs」のリンクをクリック。
   
-[<img src="/uploads/2012/02/201202_memory8.jpg" alt="" title="201202_memory8" width="600" height="454" class="alignnone size-full wp-image-910" srcset="/uploads/2012/02/201202_memory8.jpg 600w, /uploads/2012/02/201202_memory8-300x227.jpg 300w, /uploads/2012/02/201202_memory8-396x300.jpg 396w" sizes="(max-width: 600px) 100vw, 600px" />][12]
+![_](/uploads/2012/02/201202_memory8.jpg)
   
 今回は、「net.eikatou.ib.frame.ChoiceAction.installedAppSyncTask」のフィールド「activity」に参照が残っていた。
 

@@ -25,7 +25,7 @@ tags:
 
 ## RSS画像
 
-[<img src="/uploads/2012/02/201202_wprss-300x287.jpg" alt="" title="201202_wprss" width="300" height="287" class="alignnone size-medium wp-image-828" srcset="/uploads/2012/02/201202_wprss-300x287.jpg 300w, /uploads/2012/02/201202_wprss-313x300.jpg 313w, /uploads/2012/02/201202_wprss.jpg 350w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+![_](/uploads/2012/02/201202_wprss-300x287.jpg)
   
 まずは、RSSのアイコン画像が必要。
   
@@ -44,7 +44,7 @@ tags:
   
 普通のフォントではなく、かわいいフォントを使いたい。[フリーフォントで簡単ロゴ作成][6]を使うと、簡単にロゴの作成ができる。
 
-[<img src="/uploads/2012/02/201202_fontlogo.jpg" alt="" title="201202_fontlogo" width="400" height="278" class="alignnone size-full wp-image-814" srcset="/uploads/2012/02/201202_fontlogo.jpg 400w, /uploads/2012/02/201202_fontlogo-300x208.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][7]
+![_](/uploads/2012/02/201202_fontlogo.jpg)
   
 こんな感じで、お手軽にロゴが作成できる。 
 

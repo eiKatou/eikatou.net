@@ -52,7 +52,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
   
 これはありがたい。今のホーム画面。こんな紹介もできる！
   
-[<img src="/uploads/2012/02/20120209a-168x300.jpg" alt="" title="20120209a" width="168" height="300" class="alignnone size-medium wp-image-472" srcset="/uploads/2012/02/20120209a-168x300.jpg 168w, /uploads/2012/02/20120209a.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][4]
+![_](/uploads/2012/02/20120209a-168x300.jpg)
 
 ## 標準ホームの改良
 
@@ -60,7 +60,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
   
 使いやすいし、なかなか格好いい。
   
-[<img src="/uploads/2012/02/20120209b-168x300.jpg" alt="" title="20120209b" width="168" height="300" class="alignnone size-medium wp-image-486" srcset="/uploads/2012/02/20120209b-168x300.jpg 168w, /uploads/2012/02/20120209b.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][5]
+![_](/uploads/2012/02/20120209b-168x300.jpg)
   
 そして、下に４つのアイコンが置けるようになった。
 
@@ -70,7 +70,7 @@ iPhoneと比べるともう少しだが、今までのような不満はなく�
 
 さりげなく追加されている新機能に、データの制御がある。
   
-[<img src="/uploads/2012/02/20120209c-168x300.jpg" alt="" title="20120209c" width="168" height="300" class="alignnone size-medium wp-image-485" srcset="/uploads/2012/02/20120209c-168x300.jpg 168w, /uploads/2012/02/20120209c.jpg 400w" sizes="(max-width: 168px) 100vw, 168px" />][6]
+![_](/uploads/2012/02/20120209c-168x300.jpg)
   
 データ通信の使用量が確認できる。また、使用量制限をかける事ができる。データ定額を契約していない人には、必須のオプションだ。
 

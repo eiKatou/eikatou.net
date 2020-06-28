@@ -32,13 +32,13 @@ tags:
 
 街はこんな感じ。
   
-[<img src="/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg" alt="写真 2013-07-13 10 32 56" width="481" height="320" class="alignnone size-full wp-image-2965" srcset="/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg 481w, /uploads/2013/07/2bf06e13489814c537b093dc00c31b2a-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][1]
+![_](/uploads/2013/07/2bf06e13489814c537b093dc00c31b2a.jpg)
   
-[<img src="/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg" alt="写真 2013-07-13 10 32 49" width="481" height="320" class="alignnone size-full wp-image-2966" srcset="/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg 481w, /uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][2] 
+![_](/uploads/2013/07/6eace471e0fc7a3187d7ee081deec6be.jpg)
 
 大砲などの防御施設。適切に配置しないと守れない。
   
-[<img src="/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg" alt="写真 2013-07-13 10 33 19" width="481" height="320" class="alignnone size-full wp-image-2964" srcset="/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg 481w, /uploads/2013/07/849f606afd9b421f5c726f3baa83e70e-300x199.jpg 300w" sizes="(max-width: 481px) 100vw, 481px" />][3] 
+![_](/uploads/2013/07/849f606afd9b421f5c726f3baa83e70e.jpg)
 
 ## 攻撃・防衛
 

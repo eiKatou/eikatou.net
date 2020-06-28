@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/01/20120127b.jpg" alt="" title="20120127b" width="300" height="431" class="alignnone size-full wp-image-380" srcset="/uploads/2012/01/20120127b.jpg 300w, /uploads/2012/01/20120127b-208x300.jpg 208w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+![_](/uploads/2012/01/20120127b.jpg)
 
 Androidでアプリを開発すると、必ず使うのがボタン。そのボタンも普通のグレーではなく、カラフルにしたいことがある。上記の画像のようなボタン。
 

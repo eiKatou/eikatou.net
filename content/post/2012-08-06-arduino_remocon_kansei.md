@@ -11,7 +11,7 @@ tags:
   - Dev
 
 ---
-[<img src="/uploads/2012/08/arduino_remocon_kansei1.jpg" alt="" title="arduino_remocon_kansei1" width="452" height="452" class="alignnone size-full wp-image-1902" srcset="/uploads/2012/08/arduino_remocon_kansei1.jpg 452w, /uploads/2012/08/arduino_remocon_kansei1-150x150.jpg 150w, /uploads/2012/08/arduino_remocon_kansei1-300x300.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" />][1]
+![_](/uploads/2012/08/arduino_remocon_kansei1.jpg)
   
 ダンボー「新入りか・・」
 
@@ -48,7 +48,7 @@ tags:
 
 ## PlainTextでファイル書き換え
 
-[<img src="/uploads/2012/08/arduino_remocon_kansei2.jpg" alt="" title="arduino_remocon_kansei2" width="301" height="451" class="alignnone size-full wp-image-1903" srcset="/uploads/2012/08/arduino_remocon_kansei2.jpg 301w, /uploads/2012/08/arduino_remocon_kansei2-200x300.jpg 200w" sizes="(max-width: 301px) 100vw, 301px" />][2]
+![_](/uploads/2012/08/arduino_remocon_kansei2.jpg)
   
 Dropboxの中の設定ファイルを書き換えるために、iPhone用アプリをインストール。「PlainText」フォルダの中しか同期できないのが残念だが、無料なので「PlainText」にした。
 

@@ -10,7 +10,7 @@ tags:
   - 雑記
 
 ---
-[<img src="/uploads/2015/06/27183c4e465074a6e9127b0dbcbd4198.jpg" alt="青空" width="640" height="427" class="alignnone size-full wp-image-3198" srcset="/uploads/2015/06/27183c4e465074a6e9127b0dbcbd4198.jpg 640w, /uploads/2015/06/27183c4e465074a6e9127b0dbcbd4198-300x200.jpg 300w, /uploads/2015/06/27183c4e465074a6e9127b0dbcbd4198-450x300.jpg 450w" sizes="(max-width: 640px) 100vw, 640px" />][1]
+![_](/uploads/2015/06/27183c4e465074a6e9127b0dbcbd4198.jpg)
   
 週末にいっぱい遊んで、月曜日からお仕事。はぁ、やる気がなくなる、と少し憂鬱な気分になりますよね！？そんな気分になったときに効く方法です。毎週、憂鬱になる私が様々な方法を試しまくって研究した成果です！
 

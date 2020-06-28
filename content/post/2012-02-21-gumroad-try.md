@@ -15,13 +15,13 @@ tags:
 
 Gumroadは、オンラインでデータの売買が出来るサイト。
   
-[<img src="/uploads/2012/02/201202_gumroad2.jpg" alt="" title="Gumroad" width="400" height="278" class="alignnone size-full wp-image-797" srcset="/uploads/2012/02/201202_gumroad2.jpg 400w, /uploads/2012/02/201202_gumroad2-300x208.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+![_](/uploads/2012/02/201202_gumroad2.jpg)
   
 [Gumroad][1]
 
 # 売ってみる
 
-[<img src="/uploads/2012/02/201202_gumroad3.jpg" alt="" title="Gumroad_Sell" width="400" height="258" class="alignnone size-full wp-image-799" srcset="/uploads/2012/02/201202_gumroad3.jpg 400w, /uploads/2012/02/201202_gumroad3-300x193.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+![_](/uploads/2012/02/201202_gumroad3.jpg)
   
 写真のデータなら売りやすいかな、と考えた。3つのURLをもらった。
 
@@ -41,7 +41,7 @@ Gumroadは、オンラインでデータの売買が出来るサイト。
 
 売るのが難しいなら買ってみよう、と思った。
   
-[<img src="/uploads/2012/02/201202_gumroad1.jpg" alt="" title="Gumroadでお猿の写真を買う" width="400" height="332" class="alignnone size-full wp-image-779" srcset="/uploads/2012/02/201202_gumroad1.jpg 400w, /uploads/2012/02/201202_gumroad1-300x249.jpg 300w, /uploads/2012/02/201202_gumroad1-361x300.jpg 361w" sizes="(max-width: 400px) 100vw, 400px" />][6]
+![_](/uploads/2012/02/201202_gumroad1.jpg)
 
 お猿さんの写真を買ってみた。
 

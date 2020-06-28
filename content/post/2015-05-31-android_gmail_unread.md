@@ -10,7 +10,7 @@ tags:
   - Android
 
 ---
-[<img src="/uploads/2015/05/gmail_unread.jpg" alt="gmail_unread" width="360" height="320" class="alignnone size-full wp-image-3189" srcset="/uploads/2015/05/gmail_unread.jpg 360w, /uploads/2015/05/gmail_unread-300x267.jpg 300w, /uploads/2015/05/gmail_unread-338x300.jpg 338w" sizes="(max-width: 360px) 100vw, 360px" />][1]
+![_](/uploads/2015/05/gmail_unread.jpg)
   
 AndroidのGmailアプリは、なぜか未読のみを表示するボタンがない。 
 

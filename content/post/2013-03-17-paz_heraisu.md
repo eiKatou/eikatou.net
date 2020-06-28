@@ -20,13 +20,13 @@ tags:
 
 ならば、超地獄級に挑戦するしかない！
   
-[<img src="/uploads/2013/03/2013317_02.jpg" alt="2013317_02" width="320" height="480" class="alignnone size-full wp-image-2654" srcset="/uploads/2013/03/2013317_02.jpg 320w, /uploads/2013/03/2013317_02-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][1]
+![_](/uploads/2013/03/2013317_02.jpg)
 
 <!--more-->
 
 ### １階
 
-[<img src="/uploads/2013/03/2013317_03.jpg" alt="2013317_03" width="320" height="480" class="alignnone size-full wp-image-2655" srcset="/uploads/2013/03/2013317_03.jpg 320w, /uploads/2013/03/2013317_03-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][2]
+![_](/uploads/2013/03/2013317_03.jpg)
   
 デーモンちゃん２体。
 
@@ -36,7 +36,7 @@ tags:
 
 ### ２階
 
-[<img src="/uploads/2013/03/2013317_04.jpg" alt="2013317_04" width="320" height="480" class="alignnone size-full wp-image-2656" srcset="/uploads/2013/03/2013317_04.jpg 320w, /uploads/2013/03/2013317_04-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][3]
+![_](/uploads/2013/03/2013317_04.jpg)
   
 ニライカナイ。
 
@@ -46,7 +46,7 @@ tags:
 
 ### ３階
 
-[<img src="/uploads/2013/03/2013317_05.jpg" alt="2013317_05" width="320" height="480" class="alignnone size-full wp-image-2657" srcset="/uploads/2013/03/2013317_05.jpg 320w, /uploads/2013/03/2013317_05-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][4]
+![_](/uploads/2013/03/2013317_05.jpg)
   
 アルデバラン。
 
@@ -62,7 +62,7 @@ tags:
 
 ### ５階
 
-[<img src="/uploads/2013/03/2013317_06.jpg" alt="2013317_06" width="320" height="480" class="alignnone size-full wp-image-2658" srcset="/uploads/2013/03/2013317_06.jpg 320w, /uploads/2013/03/2013317_06-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][5]
+![_](/uploads/2013/03/2013317_06.jpg)
   
 カオスデビルドラゴン。
 
@@ -70,7 +70,7 @@ tags:
 
 ### ６階
 
-[<img src="/uploads/2013/03/2013317_07.jpg" alt="2013317_07" width="320" height="480" class="alignnone size-full wp-image-2659" srcset="/uploads/2013/03/2013317_07.jpg 320w, /uploads/2013/03/2013317_07-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][6]
+![_](/uploads/2013/03/2013317_07.jpg)
   
 ヘラ・イース！
 
@@ -78,7 +78,7 @@ tags:
 
 ### クリア！
 
-[<img src="/uploads/2013/03/2013317_09.jpg" alt="2013317_09" width="320" height="480" class="alignnone size-full wp-image-2661" srcset="/uploads/2013/03/2013317_09.jpg 320w, /uploads/2013/03/2013317_09-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" />][7]
+![_](/uploads/2013/03/2013317_09.jpg)
 
 クリアで「ヘラ・イース」を獲得！
   
