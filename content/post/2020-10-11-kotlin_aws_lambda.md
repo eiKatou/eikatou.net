@@ -20,7 +20,7 @@ AWS Lambdaには、クラスファイルを含めたzipファイルを上げる�
 <!--more-->
 # Kotlinのコード
 ## gradle.kts
-まずはgradle。buildZipで
+まずはgradle。zipファイルを作成するタスクを追加した。
 最近はgradleもKotlinで書くようにしている。でも、いまだに書き方が分からない。。
 
 ```gradle
