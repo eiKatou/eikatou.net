@@ -15,7 +15,7 @@ tags:
 
 Kotlinで書いたコードをAWS Lambda上で動かしてみた。
 
-AWS Lambdaには、クラスファイルを含めたzipファイルを上げる形にする。AWS SAMは前に使ったけど、今回はKotlin(Java)でどう動かすのかをので、シンプルな方法にした。開発環境は[IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)を利用している。
+AWS Lambdaには、クラスファイルを含めたzipファイルを上げる形にする。AWS SAMは前に使ったけど、今回はKotlin(Java)でどう動かすのか見たいだけなので、シンプルな方法にした。開発環境は[IntelliJ IDEA](https://www.jetbrains.com/ja-jp/idea/)を利用している。
 
 <!--more-->
 # Kotlinのコード
