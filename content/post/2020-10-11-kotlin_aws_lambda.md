@@ -11,7 +11,7 @@ tags:
   - Kotlin
 ---
 
-[![Kotlin Logo](/uploads/logo/kotlin.png)](https://www.jetbrains.com)
+<!--[![Kotlin Logo](/uploads/logo/kotlin.png)](https://www.jetbrains.com) -->
 
 Kotlinで書いたコードをAWS Lambda上で動かしてみた。
 
