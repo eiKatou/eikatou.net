@@ -2,7 +2,7 @@ baseURL = "https://eikatou.net/blog"
 canonifyurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Kateaの日記"
+title = "Katea's diary"
 paginate = 3
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -17,9 +17,9 @@ googleAnalytics = "UA-29096623-1"
   github = "Katea"
 
 [Params]
-#  subtitle = "Build a beautiful and simple website in minutes"
+#  subtitle = "Once you stop learning, you start dying."
 #  logo="/uploads/2011/10/16.png"
-  logo="./icon/greeneyecat.jpg"
+#  logo="./icon/greeneyecat.jpg"
 #  favicon = "img/favicon.ico"
 #  dateFormat = "January 2, 2006"
   dateFormat = "2006年01月02日"
