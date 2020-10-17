@@ -14,6 +14,7 @@ tags:
   - AWS 
   - Dev
   - Java
+  - Kotlin
   - Linux
   - Vue.js
   - GAE
