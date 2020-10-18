@@ -2,7 +2,7 @@ baseURL = "https://eikatou.net/blog"
 canonifyurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Katea's diary"
+title = "ei's diary"
 paginate = 3
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -13,8 +13,8 @@ googleAnalytics = "UA-29096623-1"
   unsafe = true
 
 [Author]
-  name = "Katea"
-  github = "Katea"
+  name = "ei"
+  github = "eiKatou"
 
 [Params]
 #  subtitle = "Once you stop learning, you start dying."
