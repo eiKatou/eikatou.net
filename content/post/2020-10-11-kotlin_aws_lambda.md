@@ -7,6 +7,7 @@ url: /20201011.html
 archives:
   - 2020
 tags:
+  - AWS
   - Dev
   - Kotlin
 ---
