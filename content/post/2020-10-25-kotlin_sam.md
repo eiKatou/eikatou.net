@@ -40,6 +40,6 @@ aws cloudformation deploy \
 
 cloudformationで作られたリソースは、Stackを削除することで綺麗に削除できる。後始末のお掃除をしておく。
 ```
-aws-docker cloudformation list-stacks
-aws-docker cloudformation delete-stack --stack-name kotlinLambdaStack
+aws cloudformation list-stacks
+aws cloudformation delete-stack --stack-name kotlinLambdaStack
 ```
