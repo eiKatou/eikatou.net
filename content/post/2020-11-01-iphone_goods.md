@@ -13,6 +13,8 @@ tags:
 
 iPhoneを買って1年になった。ケースがボロボロになってきたので、新しいケースを買った。ついでにガラスフィルムも買うことにした。今までフィルムなしで使っていたのだが、細かい傷が入っていることが分かったので、フィルムを貼ることにした。
 
+<!--more-->
+
 # ガラスフィルム
 
 <a href="https://www.amazon.co.jp/gp/product/B07GKFWN3V/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=eikatou-22&linkId=97285f64b0e6c3be2e0bdd61c058d586&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GKFWN3V&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=eikatou-22&language=ja_JP&l=li3&o=9&a=B07GKFWN3V" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -21,8 +23,6 @@ https://amzn.to/3jHCMf3
 「【ガイド枠付き】【2枚セット】 Nimaso iPhone 11 / XR 用 全面保護 フィルム ガラスフィルム フルカバー」を購入。
 
 ガラスフィルムは外側が立体的に加工されているものだと、指の引っかかりが少なくて良い。ガイド枠も良くて、ものすごく簡単に貼ることができた。家電量販店のフィルム貼りサービスを利用するぐらいなら、ガイド枠付きのフィルムを買ったほうがいいと思った。
-
-<!--more-->
 
 # ケース1つ目
 <a href="https://www.amazon.co.jp/gp/product/B07WX8H5D1/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=eikatou-22&linkId=d2ede1d086ba4055c4bb71619787d18c&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WX8H5D1&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=eikatou-22&language=ja_JP&l=li3&o=9&a=B07WX8H5D1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
