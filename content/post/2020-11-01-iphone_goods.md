@@ -15,7 +15,7 @@ iPhoneを買って1年になった。ケースがボロボロになってきた�
 
 # ガラスフィルム
 
-<a href="https://www.amazon.co.jp/gp/product/B07VW8XF4Q/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=eikatou-22&linkId=068d08d34feabb4251e3f991c136cb2d&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07VW8XF4Q&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=eikatou-22&language=ja_JP&l=li3&o=9&a=B07VW8XF4Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/gp/product/B07GKFWN3V/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li3&tag=eikatou-22&linkId=97285f64b0e6c3be2e0bdd61c058d586&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GKFWN3V&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=eikatou-22&language=ja_JP&l=li3&o=9&a=B07GKFWN3V" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 https://amzn.to/3jHCMf3
 
 「【ガイド枠付き】【2枚セット】 Nimaso iPhone 11 / XR 用 全面保護 フィルム ガラスフィルム フルカバー」を購入。
@@ -32,7 +32,7 @@ https://amzn.to/3mCrFWz
 
 手帳型ケースの安心感が欲しくて、一番ゴツいケースを買った。ラバーな手触りで、滑って落とすようなことはない。がっちりガードされていて落としても安心だと思った。ボタンも押しやすい。
 
-ただ、重い・大きいがデメリット。ただでさえiPhone11は重たいのに、さらに重たくなってしまった。さらにiPhoneを使っているときにケースのふたが邪魔。裏側にピタリとくっつけば良いのだが・・。ということでケース2つ目を買うこと・・。
+ただ、重い・大きいがデメリット。ただでさえiPhone11は重たいのに、さらに重たくなってしまった。さらにiPhoneを使っているときにケースのふたが邪魔。裏側にピタリとくっつけば良いのだが・・。ということでケース2つ目を買うことに。
 
 # ケース2つ目
 
