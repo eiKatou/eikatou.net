@@ -24,7 +24,7 @@ CodeUriにはzipファイルを指定すれば良い。今回はcronで定期的
 
 # SAMでデプロイする
 template.yamlからserverless-output.yamlを生成する。serverless-output.yamlを元にcloudformationを実行する。という流れになる。
-```
+```sh
 ./gralew clean
 ./gradlew buildZip
 
@@ -39,7 +39,7 @@ aws cloudformation deploy \
 ```
 
 cloudformationで作られたリソースは、Stackを削除することで綺麗に削除できる。後始末のお掃除をしておく。
-```
+```sh
 aws cloudformation list-stacks
 aws cloudformation delete-stack --stack-name kotlinLambdaStack
 ```

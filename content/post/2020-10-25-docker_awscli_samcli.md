@@ -23,13 +23,13 @@ aws-cliとかsam-cliをローカルPCに入れると、ローカルPCの環境�
 
 使い方は公式ページの通り。~/.zshrcに以下を追記した。
 
-```
+```sh
 # AWS
 alias aws-docker='docker run --rm -ti -v ~/.aws:/root/.aws -v $(pwd):/aws -e AWS_PROFILE="$AWS_PROFILE" amazon/aws-cli'
 ```
 
 s3バケットをの一覧を取得する。awsコマンドを”aws-docker”に置き換えるイメージ。
-```
+```sh
 export AWS_PROFILE="hoge"
 aws-docker s3 ls
 ```
@@ -43,18 +43,18 @@ sam-cliのDockerfileを作った。aws-cliのDockerイメージに合わせてWO
 https://github.com/eiKatou/dotfiles/blob/master/Dockerfile/Dockerfile_awssam
 
 Dockerイメージをビルド。
-```
+```sh
 docker build -f Dockerfile_awssam -t aws-sam .
 ```
 
 ~/.zshrcに以下のaliasを追加。
-```
+```sh
 # AWS
 alias sam-docker='docker run --rm -ti -v ~/.aws:/root/.aws -v $(pwd):/aws -e AWS_PROFILE="$AWS_PROFILE" aws-sam'
 ```
 
 template.yamlのあるディレクトリで以下を実行。
-```
+```sh
 export AWS_PROFILE="hoge"
 sam-docker validate -t template.yaml
 ```
