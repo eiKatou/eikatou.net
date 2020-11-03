@@ -45,10 +45,6 @@ aws s3 sync --size-only --delete ${WWW_PUBLIC} s3://eikatou.net --exclude *.tmp 
 #aws s3 cp s3://eikatou.net/google8f78f6eb936c1d12.html s3://eikatou.net/blog/google8f78f6eb936c1d12.html
 aws s3 ls s3://eikatou.net
 aws cloudfront create-invalidation --distribution-id E1SK2Q7CXNWG24 \
-  --paths /blog/ /blog/index.html /blog/index.xml \
-          /blog/archives/ /blog/archives/* \
-          /blog/tags/ /blog/tags/* \
-          /blog/page/* \
-          /blog/feed/* /blog/post/*
+  --paths /blog/*
 
 echo "aws cloudfront list-invalidations --distribution-id E1SK2Q7CXNWG24 --max-items 1"
