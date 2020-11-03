@@ -54,4 +54,3 @@ hugo server --theme=blog_theme-dev
 
 # 便利なサイト
 - [スマホアプリ紹介](http://mama-hack.com/app-reach/)
-
