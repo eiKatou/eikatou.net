@@ -11,7 +11,7 @@ tags:
   - App
   - Apple
   - Arduino
-  - AWS 
+  - AWS
   - Dev
   - Java
   - Kotlin
