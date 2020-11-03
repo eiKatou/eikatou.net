@@ -45,11 +45,11 @@ git pull
 ```
 
 # テーマ
-[beautifulhugo](https://github.com/halogenica/beautifulhugo)をforkした[beautifulhugo - eiKatou](https://github.com/eiKatou/beautifulhugo)を利用する。
+[blog_theme - eiKatou](https://github.com/eiKatou/blog_theme)を利用する。
 
-テーマの開発をするときは、以下で起動すること。
+テーマの開発をするときは、blog_theme-devにリンクを作って、以下で起動すること。
 ```bash
-hugo server --theme=beautifulhugo_dev
+hugo server --theme=blog_theme-dev
 ```
 
 # 便利なサイト
