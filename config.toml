@@ -3,11 +3,11 @@ canonifyurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "ei's diary"
-paginate = 3
+paginate = 8
 metaDataFormat = "yaml"
-pygmentsUseClasses = true
-pygmentCodeFences = true
 googleAnalytics = "UA-29096623-1"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -23,6 +23,7 @@ googleAnalytics = "UA-29096623-1"
 #  favicon = "img/favicon.ico"
 #  dateFormat = "January 2, 2006"
   dateFormat = "2006年01月02日"
+  since = "2010"
 #  commit = false
   rss = true
 #  comments = true
