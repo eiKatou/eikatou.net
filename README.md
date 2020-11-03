@@ -6,7 +6,7 @@ eikatou.netのソースです
 /Users/ei/Documents/GitHub/eikatou.net
 ls content/post | tail -4
 POSTNAME=goodby_wordpress
-hugo new post/`date +%Y-%m-DD`-${POSTNAME}.md
+hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
 Command+Pでファイルを開く。
 
