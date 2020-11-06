@@ -3,7 +3,7 @@ canonifyurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "ei's diary"
-paginate = 8
+paginate = 5
 metaDataFormat = "yaml"
 googleAnalytics = "UA-29096623-1"
 pygmentsCodeFences = true
@@ -25,17 +25,3 @@ pygmentsUseClasses = true
 [taxonomies]
   archive = "archives"
   tag = "tags"
-
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-    identifier = "about"
-[[menu.main]]
-    name = "Archives"
-    weight = 3
-    url = "archives/"
-[[menu.main]]
-    name = "Tags"
-    weight = 3
-    url = "tags/"
