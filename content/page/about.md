@@ -3,9 +3,17 @@ title: About me
 comments: false
 ---
 
-# 自己紹介
-関西在住のITエンジニア。
+## 自己紹介
+![hugo_logo](/icon/greeneyecat.jpg)
 
-Android・iPhone・Mac・Web・ガジェットが大好き。  
-好きなこと、考えたことを記事にしています。  
-最近は、AWSとNode.jsを勉強中です。
+関西在住。仕事はサーバーサイドのエンジニアをやっています。
+
+日々の勉強の記録として日記を書いています。
+
+## 興味のあること
+- DDD
+- Kotlin
+- Database
+- AWS
+- ガジェット
+- ゲーム
