@@ -11,7 +11,7 @@ tags:
   - Kotlin
 ---
 
-<!--[![Kotlin Logo](/uploads/logo/kotlin.png)](https://www.jetbrains.com)-->
+[![Kotlin Logo](/uploads/logo/kotlin.png)](https://www.jetbrains.com)
 
 [Ktor](https://ktor.io/)を使ってAPIを呼び出す。Server側でAPIを提供するのがメインのようだが、Client側のコードもかけるようなので試してみた。
 
