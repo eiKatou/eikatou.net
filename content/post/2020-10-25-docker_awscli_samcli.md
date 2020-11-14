@@ -8,7 +8,6 @@ archives:
   - 2020
 tags:
   - AWS 
-  - Dev
 ---
 
 aws-cli, sam-cliをdockerコンテナで実行できる。

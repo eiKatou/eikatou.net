@@ -7,7 +7,6 @@ url: /20201017.html
 archives:
   - 2020
 tags:
-  - Dev
   - Kotlin
 ---
 
