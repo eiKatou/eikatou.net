@@ -1,5 +1,5 @@
 ---
-title: "Terrafom入門 EC2を作る"
+title: "Terrafom入門（EC2を作る）"
 date: 2020-11-28T06:54:05+09:00
 author: eiKatou
 type: post
