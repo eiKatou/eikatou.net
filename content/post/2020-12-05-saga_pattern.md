@@ -11,7 +11,7 @@ tags:
   - IT技術
 ---
 
-<a href="https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E8%A7%A3%E8%AA%AC-impress-top-gear/dp/4295008583/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=eikatou-22&linkId=2d635e27d372a88bffd91af2b7eb8eb6&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4295008583&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=eikatou-22&language=ja_JP&l=li3&o=9&a=4295008583" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E8%A7%A3%E8%AA%AC-impress-top-gear/dp/4295008583/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=eikatou-22&linkId=2d635e27d372a88bffd91af2b7eb8eb6&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4295008583&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=eikatou-22&language=ja_JP" ></a>
 - [マイクロサービスパターン 実践的システムデザインのためのコード解説 - Amazon](https://amzn.to/37wrEgU)
 - [マイクロサービスパターン 実践的システムデザインのためのコード解説 - インプレスブックス](https://book.impress.co.jp/books/1118101063)
 
