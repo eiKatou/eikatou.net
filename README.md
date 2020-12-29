@@ -1,5 +1,5 @@
 # eikatou.net
-eikatou.netのソースです
+eikatou.netのソースです。
 
 # ブログ記事を作成
 ```bash
