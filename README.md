@@ -45,11 +45,11 @@ git pull
 ```
 
 # テーマ
-[blog_theme - eiKatou](https://github.com/eiKatou/blog_theme)を利用する。
+[eiKatou/eikatou.net_theme](https://github.com/eiKatou/eikatou.net_theme)を利用する。
 
 テーマの開発をするときは、blog_theme-devにリンクを作って、以下で起動すること。
 ```bash
-hugo server --theme=blog_theme-dev
+hugo server --theme=eikatou.net_theme-dev
 ```
 
 # 便利なサイト
