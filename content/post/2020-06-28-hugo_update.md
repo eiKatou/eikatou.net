@@ -21,7 +21,10 @@ tags:
 # HUGOのアップデート
 brewコマンドでアップデートするだけ。
 ```bash
+brew update
+brew info hugo
 brew upgrade hugo
+hugo version
 ```
 
 # 自動更新に向けて
