@@ -66,7 +66,7 @@ iPhoneに写真を同期するときのポイント。
 bashスクリプトを作成した。[HandBrakeCLI](https://handbrake.fr/downloads2.php)を利用しているので、ダウンロードしてパスを通しておく必要がある。  
 [dotfiles/smallvideo.sh](https://github.com/eiKatou/dotfiles/blob/master/bin/smallvideo.sh)
 
-写真のあるフォルダで以下のように実行すれば小さくなる。
+動画のあるフォルダで以下のように実行すれば小さくなる。
 ```bash
 smallvideo.sh *
 ```
