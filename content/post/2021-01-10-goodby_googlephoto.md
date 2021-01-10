@@ -5,7 +5,7 @@ author: eiKatou
 type: post
 url: /20210110.html
 archives:
-  - 2020
+  - 2021
 tags:
   - App
   - 雑記
@@ -55,7 +55,7 @@ iPhoneで撮った写真は、定期的にMacに吸い上げて保管。
 smallpicture.sh *
 ```
 
-iPhoneに写真を入れていた分かったポイント。
+iPhoneに写真を同期するときのポイント。
 - 写真アプリはExifの日時を使って、写真をソートして表示している
 - Exifの情報がない場合は、ファイルの作成日が使われる
 - iPhoneに同期するときはキャッシュが効いている。iPhoneに同期後に作成日の設定し忘れに気がついて、Macで作成日を設定して同期したとしても、iPhone側には反映されない。ファイル名を変えるかフォルダ名を変えないといけない。
@@ -71,7 +71,7 @@ bashスクリプトを作成した。[HandBrakeCLI](https://handbrake.fr/downloa
 smallvideo.sh *
 ```
 
-iPhoneに動画を入れていた分かったポイント。
+iPhoneに動画を同期するときのポイント。
 - 写真アプリは動画ファイルの作成日時を使ってソートしている。
 - iPhoneに同期するときはキャッシュが効いている。
 
