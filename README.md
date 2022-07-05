@@ -10,9 +10,20 @@ hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
 Command+Pでファイルを開く。
 
+Windowsで書くとき
+```
+..\bin\hugo.exe new post/yyyy-mm-dd-POSTNAME.md
+```
+
 # テーマ指定でサーバを起動
 ```bash
 ./blog_localrun.sh
+```
+
+Windowsの場合
+git bashで開いて
+```
+./blog_win_localrun.sh
 ```
 
 以下でローカルモードにアクセス  
