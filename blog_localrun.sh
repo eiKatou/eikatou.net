@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BLOG_SOURCE_DIR=/Users/ei/Documents/GitHub/eikatou.net
+BLOG_SOURCE_DIR=/home/ei/eikatou.net
 
 # hugo build
 cd ${BLOG_SOURCE_DIR}
