@@ -27,7 +27,7 @@ DIPスイッチを以下のように設定して、Lite Ext.モードに変更�
 WindowsはControlキーを多用して、MacはCommandキーを多用することになる。両方を使っていると、この2つの違いで押し間違いが発生。常にイライラしている状態だった。
 
 基本的にWindowsのキー設定に合わせることにした。
-例えば・・、Macでもこんな風にしたい。
+例えば、Macでもこんな風にしたい。
 - Control+c：コピー
 - Control+v：貼り付け
 - Control+z：戻す
@@ -40,7 +40,12 @@ Macのキーボードショートカットを変更する方法。
 
 # 対応方法2
 Karabinar Elementsを使う方法。
-Controlキーと何かのキーの組み合わせで押されたときのみ、Commandキーと何かのキーの組み合わせに変換してくれる。こちらの方法だと細かく指定できるので良い。
+特定のキーが押されたときのみ、別のキー入力に変換してくれる。こちらの方法だと細かく指定できるので良い。
+
+例えば、こんな感じになる。
+- Control+cを押したとき、Karabinar Elementsが入力を変換してCommand+cが発行される。
+- Control+vを押したとき、Karabinar Elementsが入力を変換してCommand+vが発行される。
+- Control+tabを押したときは、そのままControl+tabが発行される。
 
 参考にしたページ。  
 [[Mac]キーボードのCtrlキーとCommandキーを一部だけ入れ替える(Karabinar Elementsの導入から設定編） | 演劇とかの感想文ブログ](https://blog.kansolink.com/develop/iphone/howtochange-ctrl-cmd-for-somekey/)
