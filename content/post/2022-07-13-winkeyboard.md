@@ -8,6 +8,7 @@ archives:
   - 2022
 tags:
   - Apple
+  - Windows
   - 雑記
 ---
 
