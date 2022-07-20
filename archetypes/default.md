@@ -20,6 +20,7 @@ tags:
   - GAE
   - News
   - Web
+  - Windows
   - グルメ
   - 観光
   - 読書
