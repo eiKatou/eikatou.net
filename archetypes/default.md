@@ -5,7 +5,7 @@ author: eiKatou
 type: post
 url: /YYYYMMDD.html
 archives:
-  - 2022
+  - 2025
 tags:
   - Android
   - App
