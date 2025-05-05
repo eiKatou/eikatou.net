@@ -6,23 +6,12 @@ eikatou.netのソースです。
 /Users/ei/Documents/GitHub/eikatou.net
 ls content/post | tail -4
 POSTNAME=goodby_wordpress
-hugo new post/`date +%Y-%m-%d`-${POSTNAME}.md
+..\bin\hugo.exe new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
 Command+Pでファイルを開く。
 
-Windowsで書くとき
-```
-..\bin\hugo.exe new post/yyyy-mm-dd-POSTNAME.md
-```
-
-# テーマ指定でサーバを起動
+# ローカルで動作確認
 ```bash
-./blog_localrun.sh
-```
-
-Windowsの場合
-git bashで開いて
-```
 ./blog_win_localrun.sh
 ```
 
@@ -60,7 +49,9 @@ git pull
 
 テーマの開発をするときは、blog_theme-devにリンクを作って、以下で起動すること。
 ```bash
-hugo server --theme=eikatou.net_theme-dev
+rm -rf themes/eikatou.net_theme-dev
+cp -rp ../eikatou.net_theme/ themes/eikatou.net_theme-dev
+../bin/hugo.exe server --theme=eikatou.net_theme-dev
 ```
 
 # 便利なサイト
