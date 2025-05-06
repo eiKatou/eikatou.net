@@ -3,12 +3,11 @@ eikatou.netのソースです。
 
 # ブログ記事を作成
 ```bash
-/Users/ei/Documents/GitHub/eikatou.net
 ls content/post | tail -4
 POSTNAME=goodby_wordpress
-..\bin\hugo.exe new post/`date +%Y-%m-%d`-${POSTNAME}.md
+../bin/hugo.exe new post/`date +%Y-%m-%d`-${POSTNAME}.md
 ```
-Command+Pでファイルを開く。
+Control+Pでファイルを開く。
 
 # ローカルで動作確認
 ```bash
@@ -19,17 +18,6 @@ Command+Pでファイルを開く。
 http://localhost:1313/blog/
 
 # ブランチの使い方
-Control+Shift+@で統合ターミナルを開く。
-```bash
-git branch issueXX_NAME
-git checkout issueXX_NAME
-git status
-git add -A
-＜記事を書いて、ファイル名の日付を変える＞
-git commit -m "記事を追加"
-git log --oneline -5
-git push origin issueXX_NAME
-```
 github上でプルリクエストを作成。masterにマージ。
 
 # デプロイ
